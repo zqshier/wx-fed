@@ -1,0 +1,99 @@
+.footer {
+  .footer-fixed {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 375px;
+    height: 88px;
+    padding: 8px;
+    border-radius: 28px 28px 0px 0px;
+    background: var(--bottom, rgba(165, 165, 165, 0.08));
+    box-shadow: 0px 0px 16px 16px rgba(165, 165, 165, 0.15) inset;
+    backdrop-filter: blur(8px);
+    z-index: 2;
+    .footer-left {
+      color: $font-color;
+      font-size: 8px;
+      width: 96px;
+      height: 38px;
+      padding: 0 8px;
+      .left-item {
+        position: relative;
+        width: 36px;
+        height: 38px;
+        &_text {
+          line-height: 14px;
+        }
+        .icon_cart {
+          width: 24px;
+          height: 24px;
+        }
+        .icon_service {
+          width: 22px;
+          height: 22px;
+        }
+        .badge {
+          position: absolute;
+          top: -2px;
+          right: 0;
+          font-size: 9px;
+          min-width: 12px;
+          height: 12px;
+          line-height: 14px;
+          padding: 2px;
+          text-align: center;
+          font-weight: 800;
+          background: $Brand;
+          color: $white;
+          border-radius: 8px;
+          box-sizing: content-box;
+        }
+        &_mgR {
+          margin-right: 8px;
+        }
+      }
+    }
+    .footer-right {
+      .right-item {
+        width: 299px;
+        height: 40px;
+        font-weight: 400;
+        font-family: 'FZLanTingHei-R-GBK';
+        border: none;
+        color: $Primary;
+      }
+      .btn-buy {
+        margin-right: 0;
+        color: white;
+      }
+    }
+
+    .footer-btn-none {
+      .navigation-none {
+        width: 299px;
+        height: 40px;
+        border-radius: 20px;
+        background: $Primary;
+        font-family: 'FZLanTingHei-R-GBK';
+        color: #fff;
+        border: none;
+        &_width {
+          width: 145px;
+        }
+      }
+
+      .navigation-none_has {
+        background: transparent;
+        border: 1px solid $Tertiary;
+        color: $Tertiary;
+      }
+      .btn-mag {
+        margin-right: 8px;
+      }
+    }
+  }
+  .placeholder {
+    width: 375px;
+    height: 100px;
+  }
+}

@@ -1,0 +1,231 @@
+@charset "UTF-8";@import "../../../sub-vendors.wxss";@import "../../../sub-common/2dba7f06705fd7c2bc0fb89265d663c9.wxss";/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/order/orderUpload/components/PopExample/PopExample.vue?vue&type=style&index=0&id=3023014d&lang=scss&module=true ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/** 弃用，后期删除 **/
+@-webkit-keyframes PopExample__slide-bottom___jlPSN {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes PopExample__slide-bottom___jlPSN {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.PopExample__content___f8QAt {
+  width: 640rpx;
+  height: 960rpx;
+  border-radius: 48rpx;
+  background: rgba(255, 255, 255, 0.8);
+  -webkit-backdrop-filter: blur(20rpx);
+          backdrop-filter: blur(20rpx);
+}
+.PopExample__content___f8QAt .PopExample__title___zU7xB {
+  color: #333333;
+  font-family: "FZLanTingHeiS-R-GB";
+}
+.PopExample__scroll___xVmfL {
+  width: 100%;
+  height: 960rpx;
+}
+.PopExample__scroll___xVmfL .PopExample__image___tRqQ_ {
+  width: 100%;
+  height: 100%;
+}
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-8.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-8.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-8.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/order/orderUpload/orderUpload.vue?vue&type=style&index=0&id=6a041ef0&lang=scss ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes slide-bottom {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes slide-bottom {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.picture_list .nut-uploader__preview-img .close {
+  z-index: 10;
+  right: 6rpx;
+}
+.picture_list .nut-uploader__preview {
+  margin-right: 32rpx;
+}
+.picture_list .nut-uploader__upload {
+  width: 160rpx;
+  height: 160rpx;
+  border: 2rpx solid #333333;
+}
+.picture_list .nut-uploader__preview-img {
+  width: 160rpx;
+  height: 160rpx;
+}
+.picture_list .nut-uploader__preview-img__c {
+  width: 160rpx;
+  height: 160rpx;
+  border-radius: 0;
+}
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/order/orderUpload/orderUpload.vue?vue&type=style&index=1&id=6a041ef0&lang=scss&module=true ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes orderUpload__slide-bottom___WY09Q {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes orderUpload__slide-bottom___WY09Q {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.orderUpload__box___muNIM {
+  z-index: 2;
+}
+.orderUpload__main___TX1Gs {
+  width: 100%;
+  height: 100%;
+  padding: 64rpx;
+  margin-top: 48rpx;
+  border-radius: 64rpx 64rpx 0rpx 0rpx;
+  background: rgba(165, 165, 165, 0.08);
+  -webkit-box-shadow: -32.33334rpx 32.33334rpx 32.33334rpx 0rpx rgba(255, 255, 255, 0.08) inset, 32.33334rpx -32.33334rpx 32.33334rpx 0rpx rgba(165, 165, 165, 0.08) inset;
+          box-shadow: -32.33334rpx 32.33334rpx 32.33334rpx 0rpx rgba(255, 255, 255, 0.08) inset, 32.33334rpx -32.33334rpx 32.33334rpx 0rpx rgba(165, 165, 165, 0.08) inset;
+  -webkit-backdrop-filter: blur(15.52rpx);
+          backdrop-filter: blur(15.52rpx);
+}
+.orderUpload__main_title___gtcpt {
+  color: #333333;
+  font-family: "FZLanTingHei-B-GBK";
+}
+.orderUpload__main_ins___U2CbM {
+  padding-bottom: 32rpx;
+  color: #a5a5a5;
+  font-family: "FZLanTingHeiS-R-GB";
+  border-bottom: 2rpx solid #d9d9d9;
+}
+.orderUpload__main_from___XHjwf {
+  padding: 32rpx 0;
+  border-bottom: 2rpx solid #d9d9d9;
+}
+.orderUpload__main_from___XHjwf .orderUpload__from_title___xwmUz {
+  width: 160rpx;
+}
+.orderUpload__main_from___XHjwf .orderUpload__from_info___jgZcC {
+  width: 446rpx;
+  height: 64rpx;
+  border-radius: 32rpx;
+  border: 2rpx solid #444444;
+  background: rgba(255, 255, 255, 0.5);
+  position: relative;
+}
+.orderUpload__main_from___XHjwf .orderUpload__from_info_input___oyQE7 {
+  height: 36rpx;
+  color: #333333;
+  text-align: center;
+  font-family: "FZLanTingHeiS-R-GB";
+}
+.orderUpload__main_from___XHjwf .orderUpload__from_info_input_num___b44GH {
+  width: 400rpx;
+}
+.orderUpload__main_from___XHjwf .orderUpload__from_info___jgZcC .orderUpload__icon_arrows___oP_5v {
+  position: absolute;
+  top: 20rpx;
+  right: 26rpx;
+  width: 24rpx;
+  height: 24rpx;
+}
+.orderUpload__main___TX1Gs .orderUpload__pictures___HfElZ {
+  padding: 32rpx 0;
+}
+.orderUpload__main___TX1Gs .orderUpload__pictures_top___m_GsB {
+  width: 100%;
+}
+.orderUpload__main___TX1Gs .orderUpload__pictures_top___m_GsB .orderUpload__title___c3irn {
+  width: 404rpx;
+  line-height: 48rpx;
+}
+.orderUpload__main___TX1Gs .orderUpload__pictures___HfElZ .orderUpload__doubt_icon___Yl_mP {
+  width: 48rpx;
+  height: 48rpx;
+}
+.orderUpload__main___TX1Gs .orderUpload__pictures___HfElZ .orderUpload__delete_icon___NZOBv {
+  width: 32rpx;
+  height: 32rpx;
+}
+.orderUpload__main___TX1Gs .orderUpload__controls___F9Im1 {
+  width: 622rpx;
+  padding: 48rpx 0;
+}
+.orderUpload__main___TX1Gs .orderUpload__controls___F9Im1 .orderUpload__btn___gU0tD {
+  margin-bottom: 32rpx;
+  font-size: 24rpx;
+}
+.orderUpload__main___TX1Gs .orderUpload__controls___F9Im1 .orderUpload__btn_record___cqNOI {
+  background: transparent;
+  border: 2rpx solid #a5a5a5;
+  color: #333333;
+  font-size: 24rpx;
+}
+.orderUpload__main___TX1Gs .orderUpload__document___IIfVe {
+  padding-top: 32rpx;
+  border-top: 2rpx solid #d9d9d9;
+  width: 100%;
+  text-align: center;
+}
+.orderUpload__main___TX1Gs .orderUpload__document___IIfVe .orderUpload__image___L3IMB {
+  width: 622rpx;
+  display: inline-block;
+}
+.orderUpload__empty_box___uxKTE {
+  margin-top: 600rpx;
+  color: #a5a5a5;
+  font-family: "FZLanTingHei-R-GBK";
+}

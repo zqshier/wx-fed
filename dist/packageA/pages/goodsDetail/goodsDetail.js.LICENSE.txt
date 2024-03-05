@@ -1,0 +1,627 @@
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./BuyingTips.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./CustomPay.vue?vue&type=script&lang=ts&setup=true */
+
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./GoodsActivity.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./GoodsDetails.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./GoodsInfo.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./GoodsShare.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./GoodsStep.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./PopActivity.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./SKUSelector.vue?vue&type=script&lang=ts&setup=true */
+
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./UserRating.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./footerBtn.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./BuyingTips.vue?vue&type=template&id=f2537218&ts=true */
+
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./CustomPay.vue?vue&type=template&id=3e9bf838&ts=true */
+
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./GoodsActivity.vue?vue&type=template&id=732dbe80&ts=true */
+
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./GoodsDetails.vue?vue&type=template&id=2bb9e4b4&ts=true */
+
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./GoodsInfo.vue?vue&type=template&id=053fc5fe&ts=true */
+
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./GoodsShare.vue?vue&type=template&id=519f73d4&ts=true */
+
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./GoodsStep.vue?vue&type=template&id=59c1beba&ts=true */
+
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./PopActivity.vue?vue&type=template&id=6880c214&ts=true */
+
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./SKUSelector.vue?vue&type=template&id=2e86b02e&ts=true */
+
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./UserRating.vue?vue&type=template&id=4ee1ca74&ts=true */
+
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./footerBtn.vue?vue&type=template&id=f73c9790&ts=true */
+
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/mini-css-extract-plugin/dist/loader.js!../../../../../../node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!../../../../../../node_modules/vue-loader/dist/stylePostLoader.js!../../../../../../node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!../../../../../../node_modules/resolve-url-loader/index.js!../../../../../../node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./BuyingTips.vue?vue&type=style&index=0&id=f2537218&lang=scss&module=true */
+
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/mini-css-extract-plugin/dist/loader.js!../../../../../../node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!../../../../../../node_modules/vue-loader/dist/stylePostLoader.js!../../../../../../node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!../../../../../../node_modules/resolve-url-loader/index.js!../../../../../../node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./CustomPay.vue?vue&type=style&index=0&id=3e9bf838&lang=scss&module=true */
+
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/mini-css-extract-plugin/dist/loader.js!../../../../../../node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!../../../../../../node_modules/vue-loader/dist/stylePostLoader.js!../../../../../../node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!../../../../../../node_modules/resolve-url-loader/index.js!../../../../../../node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./GoodsActivity.vue?vue&type=style&index=0&id=732dbe80&lang=scss&module=true */
+
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/mini-css-extract-plugin/dist/loader.js!../../../../../../node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!../../../../../../node_modules/vue-loader/dist/stylePostLoader.js!../../../../../../node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!../../../../../../node_modules/resolve-url-loader/index.js!../../../../../../node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./GoodsDetails.vue?vue&type=style&index=0&id=2bb9e4b4&lang=scss&module=true */
+
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/mini-css-extract-plugin/dist/loader.js!../../../../../../node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!../../../../../../node_modules/vue-loader/dist/stylePostLoader.js!../../../../../../node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!../../../../../../node_modules/resolve-url-loader/index.js!../../../../../../node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./GoodsInfo.vue?vue&type=style&index=0&id=053fc5fe&lang=scss&module=true */
+
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/mini-css-extract-plugin/dist/loader.js!../../../../../../node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!../../../../../../node_modules/vue-loader/dist/stylePostLoader.js!../../../../../../node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!../../../../../../node_modules/resolve-url-loader/index.js!../../../../../../node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./GoodsShare.vue?vue&type=style&index=0&id=519f73d4&lang=scss&module=true */
+
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/mini-css-extract-plugin/dist/loader.js!../../../../../../node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!../../../../../../node_modules/vue-loader/dist/stylePostLoader.js!../../../../../../node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!../../../../../../node_modules/resolve-url-loader/index.js!../../../../../../node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./GoodsStep.vue?vue&type=style&index=0&id=59c1beba&lang=scss&module=true */
+
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/mini-css-extract-plugin/dist/loader.js!../../../../../../node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!../../../../../../node_modules/vue-loader/dist/stylePostLoader.js!../../../../../../node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!../../../../../../node_modules/resolve-url-loader/index.js!../../../../../../node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./PopActivity.vue?vue&type=style&index=0&id=6880c214&lang=scss&module=true */
+
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/mini-css-extract-plugin/dist/loader.js!../../../../../../node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!../../../../../../node_modules/vue-loader/dist/stylePostLoader.js!../../../../../../node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!../../../../../../node_modules/resolve-url-loader/index.js!../../../../../../node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./SKUSelector.vue?vue&type=style&index=0&id=2e86b02e&lang=scss&module=true */
+
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/mini-css-extract-plugin/dist/loader.js!../../../../../../node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!../../../../../../node_modules/vue-loader/dist/stylePostLoader.js!../../../../../../node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!../../../../../../node_modules/resolve-url-loader/index.js!../../../../../../node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./UserRating.vue?vue&type=style&index=0&id=4ee1ca74&lang=scss&module=true */
+
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/mini-css-extract-plugin/dist/loader.js!../../../../../../node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!../../../../../../node_modules/vue-loader/dist/stylePostLoader.js!../../../../../../node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!../../../../../../node_modules/resolve-url-loader/index.js!../../../../../../node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./footerBtn.vue?vue&type=style&index=0&id=f73c9790&lang=scss&module=true */
+
+/*! -!../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./goodsDetail.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./goodsDetail.vue?vue&type=template&id=a52be40e&ts=true */
+
+/*! -!../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../node_modules/mini-css-extract-plugin/dist/loader.js!../../../../node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!../../../../node_modules/vue-loader/dist/stylePostLoader.js!../../../../node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!../../../../node_modules/resolve-url-loader/index.js!../../../../node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./goodsDetail.vue?vue&type=style&index=0&id=a52be40e&lang=scss&module=true */
+
+/*! ../../../../../static/icon/arrowLeft.png */
+
+/*! ../../../../../static/icon/cart.png */
+
+/*! ../../../../../static/icon/home.png */
+
+/*! ../../../../../static/icon/moment-l.png */
+
+/*! ../../../../../static/icon/wechat-l.png */
+
+/*! ../../../../node_modules/@tarojs/taro-loader/lib/raw.js!./goodsDetail.vue */
+
+/*! ../../../static/icon/sold-out.png */
+
+/*! ../CustomPay/CustomPay.vue */
+
+/*! ../PopActivity/PopActivity.vue */
+
+/*! ./BuyingTips.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./BuyingTips.vue?vue&type=style&index=0&id=f2537218&lang=scss&module=true */
+
+/*! ./BuyingTips.vue?vue&type=template&id=f2537218&ts=true */
+
+/*! ./CustomPay.vue?vue&type=script&lang=ts&setup=true */
+
+/*! ./CustomPay.vue?vue&type=style&index=0&id=3e9bf838&lang=scss&module=true */
+
+/*! ./CustomPay.vue?vue&type=template&id=3e9bf838&ts=true */
+
+/*! ./GoodsActivity.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./GoodsActivity.vue?vue&type=style&index=0&id=732dbe80&lang=scss&module=true */
+
+/*! ./GoodsActivity.vue?vue&type=template&id=732dbe80&ts=true */
+
+/*! ./GoodsDetails.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./GoodsDetails.vue?vue&type=style&index=0&id=2bb9e4b4&lang=scss&module=true */
+
+/*! ./GoodsDetails.vue?vue&type=template&id=2bb9e4b4&ts=true */
+
+/*! ./GoodsInfo.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./GoodsInfo.vue?vue&type=style&index=0&id=053fc5fe&lang=scss&module=true */
+
+/*! ./GoodsInfo.vue?vue&type=template&id=053fc5fe&ts=true */
+
+/*! ./GoodsShare.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./GoodsShare.vue?vue&type=style&index=0&id=519f73d4&lang=scss&module=true */
+
+/*! ./GoodsShare.vue?vue&type=template&id=519f73d4&ts=true */
+
+/*! ./GoodsStep.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./GoodsStep.vue?vue&type=style&index=0&id=59c1beba&lang=scss&module=true */
+
+/*! ./GoodsStep.vue?vue&type=template&id=59c1beba&ts=true */
+
+/*! ./PopActivity.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./PopActivity.vue?vue&type=style&index=0&id=6880c214&lang=scss&module=true */
+
+/*! ./PopActivity.vue?vue&type=template&id=6880c214&ts=true */
+
+/*! ./SKUSelector.vue?vue&type=script&lang=ts&setup=true */
+
+/*! ./SKUSelector.vue?vue&type=style&index=0&id=2e86b02e&lang=scss&module=true */
+
+/*! ./SKUSelector.vue?vue&type=template&id=2e86b02e&ts=true */
+
+/*! ./UserRating.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./UserRating.vue?vue&type=style&index=0&id=4ee1ca74&lang=scss&module=true */
+
+/*! ./UserRating.vue?vue&type=template&id=4ee1ca74&ts=true */
+
+/*! ./components/BuyingTips/BuyingTips.vue */
+
+/*! ./components/GoodsActivity/GoodsActivity.vue */
+
+/*! ./components/GoodsDetails/GoodsDetails.vue */
+
+/*! ./components/GoodsInfo/GoodsInfo.vue */
+
+/*! ./components/GoodsShare/GoodsShare.vue */
+
+/*! ./components/GoodsStep/GoodsStep.vue */
+
+/*! ./components/SKUSelector/SKUSelector.vue */
+
+/*! ./components/UserRating/UserRating.vue */
+
+/*! ./components/footerBtn/footerBtn.vue */
+
+/*! ./footerBtn.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./footerBtn.vue?vue&type=style&index=0&id=f73c9790&lang=scss&module=true */
+
+/*! ./footerBtn.vue?vue&type=template&id=f73c9790&ts=true */
+
+/*! ./goodsDetail.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./goodsDetail.vue?vue&type=style&index=0&id=a52be40e&lang=scss&module=true */
+
+/*! ./goodsDetail.vue?vue&type=template&id=a52be40e&ts=true */
+
+/*! ./hook/useData */
+
+/*! ./hook/useTouch */
+
+/*! ./node_modules/@babel/runtime/helpers/esm/asyncToGenerator.js */
+
+/*! ./node_modules/@babel/runtime/helpers/esm/createForOfIteratorHelper.js */
+
+/*! ./node_modules/@babel/runtime/helpers/esm/defineProperty.js */
+
+/*! ./node_modules/@babel/runtime/helpers/esm/objectSpread2.js */
+
+/*! ./node_modules/@babel/runtime/helpers/esm/regeneratorRuntime.js */
+
+/*! ./node_modules/vue-loader/dist/exportHelper.js */
+
+/*! ./props */
+
+/*! @/api/cdp */
+
+/*! @/api/goods */
+
+/*! @/api/settle */
+
+/*! @/components/BackgroundImage/BackgroundImage.vue */
+
+/*! @/components/CustomBar/CustomBar.vue */
+
+/*! @/components/CustomBar/props */
+
+/*! @/components/CustomCheckBox/CustomCheckBox.vue */
+
+/*! @/components/CustomNavBack/CustomNavBack.vue */
+
+/*! @/components/CustomNumberBox/CustomNumberBox.vue */
+
+/*! @/components/CustomPopup/CustomPopup.vue */
+
+/*! @/components/CustomSwiper/CustomSwiper.vue */
+
+/*! @/components/Document/Document.vue */
+
+/*! @/components/Loading/Loading.vue */
+
+/*! @/components/PopLogin/PopLogin.vue */
+
+/*! @/components/PosterBuilder/utils/tools */
+
+/*! @/components/RecommendedItems/RecommendedItems.vue */
+
+/*! @/constants */
+
+/*! @/dto/banner */
+
+/*! @/dto/events */
+
+/*! @/dto/goods */
+
+/*! @/dto/point */
+
+/*! @/hook/useLoginPop */
+
+/*! @/packageA/components/Rate/Rate.vue */
+
+/*! @/static/icon/active=no.png */
+
+/*! @/static/icon/active=yes.png */
+
+/*! @/static/icon/share.png */
+
+/*! @/stores */
+
+/*! @/stores/modules/user */
+
+/*! @/utils */
+
+/*! @/utils/track */
+
+/*! @/utils/track/config */
+
+/*! @nutui/nutui-taro */
+
+/*! @nutui/nutui-taro/dist/packages/button/style */
+
+/*! @nutui/nutui-taro/dist/packages/popup/style */
+
+/*! @tarojs/runtime */
+
+/*! @tarojs/taro */
+
+/*! date-fns */
+
+/*! lodash */
+
+/*! vue */
+
+/*!********************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/goodsDetail.vue ***!
+  \********************************************************/
+
+/*!********************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/hook/useData.ts ***!
+  \********************************************************/
+
+/*!*********************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/hook/useTouch.ts ***!
+  \*********************************************************/
+
+/*!**********************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/CustomPay/props.ts ***!
+  \**********************************************************************/
+
+/*!***************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/CustomPay/CustomPay.vue ***!
+  \***************************************************************************/
+
+/*!***************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/GoodsInfo/GoodsInfo.vue ***!
+  \***************************************************************************/
+
+/*!***************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/GoodsStep/GoodsStep.vue ***!
+  \***************************************************************************/
+
+/*!***************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/footerBtn/footerBtn.vue ***!
+  \***************************************************************************/
+
+/*!*****************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/BuyingTips/BuyingTips.vue ***!
+  \*****************************************************************************/
+
+/*!*****************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/GoodsShare/GoodsShare.vue ***!
+  \*****************************************************************************/
+
+/*!*****************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/UserRating/UserRating.vue ***!
+  \*****************************************************************************/
+
+/*!*******************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/PopActivity/PopActivity.vue ***!
+  \*******************************************************************************/
+
+/*!*******************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/SKUSelector/SKUSelector.vue ***!
+  \*******************************************************************************/
+
+/*!*********************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/GoodsDetails/GoodsDetails.vue ***!
+  \*********************************************************************************/
+
+/*!***********************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/GoodsActivity/GoodsActivity.vue ***!
+  \***********************************************************************************/
+
+/*!*******************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/goodsDetail.vue?vue&type=script&setup=true&lang=ts ***!
+  \*******************************************************************************************/
+
+/*!**********************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/goodsDetail.vue?vue&type=template&id=a52be40e&ts=true ***!
+  \**********************************************************************************************/
+
+/*!******************************************************************************************************!*\
+  !*** ./node_modules/@tarojs/taro-loader/lib/raw.js!./src/packageA/pages/goodsDetail/goodsDetail.vue ***!
+  \******************************************************************************************************/
+
+/*!**************************************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/CustomPay/CustomPay.vue?vue&type=script&lang=ts&setup=true ***!
+  \**************************************************************************************************************/
+
+/*!**************************************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/GoodsInfo/GoodsInfo.vue?vue&type=script&setup=true&lang=ts ***!
+  \**************************************************************************************************************/
+
+/*!**************************************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/GoodsStep/GoodsStep.vue?vue&type=script&setup=true&lang=ts ***!
+  \**************************************************************************************************************/
+
+/*!**************************************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/footerBtn/footerBtn.vue?vue&type=script&setup=true&lang=ts ***!
+  \**************************************************************************************************************/
+
+/*!****************************************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/BuyingTips/BuyingTips.vue?vue&type=script&setup=true&lang=ts ***!
+  \****************************************************************************************************************/
+
+/*!****************************************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/GoodsShare/GoodsShare.vue?vue&type=script&setup=true&lang=ts ***!
+  \****************************************************************************************************************/
+
+/*!****************************************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/UserRating/UserRating.vue?vue&type=script&setup=true&lang=ts ***!
+  \****************************************************************************************************************/
+
+/*!*****************************************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/CustomPay/CustomPay.vue?vue&type=template&id=3e9bf838&ts=true ***!
+  \*****************************************************************************************************************/
+
+/*!*****************************************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/GoodsInfo/GoodsInfo.vue?vue&type=template&id=053fc5fe&ts=true ***!
+  \*****************************************************************************************************************/
+
+/*!*****************************************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/GoodsStep/GoodsStep.vue?vue&type=template&id=59c1beba&ts=true ***!
+  \*****************************************************************************************************************/
+
+/*!*****************************************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/footerBtn/footerBtn.vue?vue&type=template&id=f73c9790&ts=true ***!
+  \*****************************************************************************************************************/
+
+/*!*****************************************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/goodsDetail.vue?vue&type=style&index=0&id=a52be40e&lang=scss&module=true ***!
+  \*****************************************************************************************************************/
+
+/*!******************************************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/PopActivity/PopActivity.vue?vue&type=script&setup=true&lang=ts ***!
+  \******************************************************************************************************************/
+
+/*!******************************************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/SKUSelector/SKUSelector.vue?vue&type=script&lang=ts&setup=true ***!
+  \******************************************************************************************************************/
+
+/*!*******************************************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/BuyingTips/BuyingTips.vue?vue&type=template&id=f2537218&ts=true ***!
+  \*******************************************************************************************************************/
+
+/*!*******************************************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/GoodsShare/GoodsShare.vue?vue&type=template&id=519f73d4&ts=true ***!
+  \*******************************************************************************************************************/
+
+/*!*******************************************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/UserRating/UserRating.vue?vue&type=template&id=4ee1ca74&ts=true ***!
+  \*******************************************************************************************************************/
+
+/*!********************************************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/GoodsDetails/GoodsDetails.vue?vue&type=script&setup=true&lang=ts ***!
+  \********************************************************************************************************************/
+
+/*!*********************************************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/PopActivity/PopActivity.vue?vue&type=template&id=6880c214&ts=true ***!
+  \*********************************************************************************************************************/
+
+/*!*********************************************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/SKUSelector/SKUSelector.vue?vue&type=template&id=2e86b02e&ts=true ***!
+  \*********************************************************************************************************************/
+
+/*!**********************************************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/GoodsActivity/GoodsActivity.vue?vue&type=script&setup=true&lang=ts ***!
+  \**********************************************************************************************************************/
+
+/*!***********************************************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/GoodsDetails/GoodsDetails.vue?vue&type=template&id=2bb9e4b4&ts=true ***!
+  \***********************************************************************************************************************/
+
+/*!*************************************************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/GoodsActivity/GoodsActivity.vue?vue&type=template&id=732dbe80&ts=true ***!
+  \*************************************************************************************************************************/
+
+/*!************************************************************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/CustomPay/CustomPay.vue?vue&type=style&index=0&id=3e9bf838&lang=scss&module=true ***!
+  \************************************************************************************************************************************/
+
+/*!************************************************************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/GoodsInfo/GoodsInfo.vue?vue&type=style&index=0&id=053fc5fe&lang=scss&module=true ***!
+  \************************************************************************************************************************************/
+
+/*!************************************************************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/GoodsStep/GoodsStep.vue?vue&type=style&index=0&id=59c1beba&lang=scss&module=true ***!
+  \************************************************************************************************************************************/
+
+/*!************************************************************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/footerBtn/footerBtn.vue?vue&type=style&index=0&id=f73c9790&lang=scss&module=true ***!
+  \************************************************************************************************************************************/
+
+/*!**************************************************************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/BuyingTips/BuyingTips.vue?vue&type=style&index=0&id=f2537218&lang=scss&module=true ***!
+  \**************************************************************************************************************************************/
+
+/*!**************************************************************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/GoodsShare/GoodsShare.vue?vue&type=style&index=0&id=519f73d4&lang=scss&module=true ***!
+  \**************************************************************************************************************************************/
+
+/*!**************************************************************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/UserRating/UserRating.vue?vue&type=style&index=0&id=4ee1ca74&lang=scss&module=true ***!
+  \**************************************************************************************************************************************/
+
+/*!****************************************************************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/PopActivity/PopActivity.vue?vue&type=style&index=0&id=6880c214&lang=scss&module=true ***!
+  \****************************************************************************************************************************************/
+
+/*!****************************************************************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/SKUSelector/SKUSelector.vue?vue&type=style&index=0&id=2e86b02e&lang=scss&module=true ***!
+  \****************************************************************************************************************************************/
+
+/*!******************************************************************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/GoodsDetails/GoodsDetails.vue?vue&type=style&index=0&id=2bb9e4b4&lang=scss&module=true ***!
+  \******************************************************************************************************************************************/
+
+/*!********************************************************************************************************************************************!*\
+  !*** ./src/packageA/pages/goodsDetail/components/GoodsActivity/GoodsActivity.vue?vue&type=style&index=0&id=732dbe80&lang=scss&module=true ***!
+  \********************************************************************************************************************************************/
+
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/goodsDetail.vue?vue&type=script&setup=true&lang=ts ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/components/CustomPay/CustomPay.vue?vue&type=script&lang=ts&setup=true ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/components/GoodsInfo/GoodsInfo.vue?vue&type=script&setup=true&lang=ts ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/components/GoodsStep/GoodsStep.vue?vue&type=script&setup=true&lang=ts ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/components/footerBtn/footerBtn.vue?vue&type=script&setup=true&lang=ts ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/components/BuyingTips/BuyingTips.vue?vue&type=script&setup=true&lang=ts ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/components/GoodsShare/GoodsShare.vue?vue&type=script&setup=true&lang=ts ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/components/UserRating/UserRating.vue?vue&type=script&setup=true&lang=ts ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/components/PopActivity/PopActivity.vue?vue&type=script&setup=true&lang=ts ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/components/SKUSelector/SKUSelector.vue?vue&type=script&lang=ts&setup=true ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/components/GoodsDetails/GoodsDetails.vue?vue&type=script&setup=true&lang=ts ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/components/GoodsActivity/GoodsActivity.vue?vue&type=script&setup=true&lang=ts ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/goodsDetail.vue?vue&type=template&id=a52be40e&ts=true ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/components/CustomPay/CustomPay.vue?vue&type=template&id=3e9bf838&ts=true ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/components/GoodsInfo/GoodsInfo.vue?vue&type=template&id=053fc5fe&ts=true ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/components/GoodsStep/GoodsStep.vue?vue&type=template&id=59c1beba&ts=true ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/components/footerBtn/footerBtn.vue?vue&type=template&id=f73c9790&ts=true ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/components/BuyingTips/BuyingTips.vue?vue&type=template&id=f2537218&ts=true ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/components/GoodsShare/GoodsShare.vue?vue&type=template&id=519f73d4&ts=true ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/components/UserRating/UserRating.vue?vue&type=template&id=4ee1ca74&ts=true ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/components/PopActivity/PopActivity.vue?vue&type=template&id=6880c214&ts=true ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/components/SKUSelector/SKUSelector.vue?vue&type=template&id=2e86b02e&ts=true ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/components/GoodsDetails/GoodsDetails.vue?vue&type=template&id=2bb9e4b4&ts=true ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/components/GoodsActivity/GoodsActivity.vue?vue&type=template&id=732dbe80&ts=true ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/mini-css-extract-plugin/dist/loader.js!./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/goodsDetail.vue?vue&type=style&index=0&id=a52be40e&lang=scss&module=true ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/mini-css-extract-plugin/dist/loader.js!./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/components/CustomPay/CustomPay.vue?vue&type=style&index=0&id=3e9bf838&lang=scss&module=true ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/mini-css-extract-plugin/dist/loader.js!./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/components/GoodsInfo/GoodsInfo.vue?vue&type=style&index=0&id=053fc5fe&lang=scss&module=true ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/mini-css-extract-plugin/dist/loader.js!./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/components/GoodsStep/GoodsStep.vue?vue&type=style&index=0&id=59c1beba&lang=scss&module=true ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/mini-css-extract-plugin/dist/loader.js!./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/components/footerBtn/footerBtn.vue?vue&type=style&index=0&id=f73c9790&lang=scss&module=true ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/mini-css-extract-plugin/dist/loader.js!./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/components/BuyingTips/BuyingTips.vue?vue&type=style&index=0&id=f2537218&lang=scss&module=true ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/mini-css-extract-plugin/dist/loader.js!./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/components/GoodsShare/GoodsShare.vue?vue&type=style&index=0&id=519f73d4&lang=scss&module=true ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/mini-css-extract-plugin/dist/loader.js!./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/components/UserRating/UserRating.vue?vue&type=style&index=0&id=4ee1ca74&lang=scss&module=true ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/mini-css-extract-plugin/dist/loader.js!./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/components/PopActivity/PopActivity.vue?vue&type=style&index=0&id=6880c214&lang=scss&module=true ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/mini-css-extract-plugin/dist/loader.js!./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/components/SKUSelector/SKUSelector.vue?vue&type=style&index=0&id=2e86b02e&lang=scss&module=true ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/mini-css-extract-plugin/dist/loader.js!./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/components/GoodsDetails/GoodsDetails.vue?vue&type=style&index=0&id=2bb9e4b4&lang=scss&module=true ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/mini-css-extract-plugin/dist/loader.js!./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/goodsDetail/components/GoodsActivity/GoodsActivity.vue?vue&type=style&index=0&id=732dbe80&lang=scss&module=true ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/

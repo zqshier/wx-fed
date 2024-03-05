@@ -1,0 +1,114 @@
+@charset "UTF-8";@import "../../../sub-vendors.wxss";@import "../../../sub-common/483f6e9b53e3f314843b861c8637927f.wxss";/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/order/aftersales/components/OrderboxItem/OrderboxItem.vue?vue&type=style&index=0&id=ebfb52a4&lang=scss&module=true ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/** 弃用，后期删除 **/
+@-webkit-keyframes OrderboxItem__slide-bottom___p3pCq {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes OrderboxItem__slide-bottom___p3pCq {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.OrderboxItem__order-box-layout___vvRUJ .OrderboxItem__item-top___Y7J_D {
+  width: 622rpx;
+  height: 52rpx;
+  padding-bottom: 16rpx;
+  margin-bottom: 24rpx;
+  border-bottom: 2rpx solid #e6e6e6;
+}
+.OrderboxItem__order-box-layout___vvRUJ .OrderboxItem__item-top-l___vCl4O {
+  color: #a5a5a5;
+  font-family: "FZLanTingHei-R-GBK";
+  line-height: 36rpx;
+}
+.OrderboxItem__order-box-layout___vvRUJ .OrderboxItem__item-top-l___vCl4O .OrderboxItem__copy_image___UphXY {
+  width: 32rpx;
+  height: 32rpx;
+  margin-left: 8rpx;
+}
+.OrderboxItem__order-box-layout___vvRUJ .OrderboxItem__item-top___Y7J_D .OrderboxItem__status___QR7AL {
+  color: #333333;
+  font-family: "FZLanTingHei-R-GBK";
+}
+.OrderboxItem__order-box-layout___vvRUJ .OrderboxItem__order-item___IXWSU {
+  margin: 32rpx 0;
+}
+.OrderboxItem__order-box-layout___vvRUJ .OrderboxItem__item-bottom___cJAZc {
+  padding: 16rpx 32rpx;
+  width: 622rpx;
+  height: 68rpx;
+  border-radius: 8rpx;
+  background: var(--block, #eee);
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  color: #333333;
+  font-family: "FZLanTingHeiS-B-GB";
+}
+.OrderboxItem__order-box-layout___vvRUJ .OrderboxItem__item-bottom___cJAZc .OrderboxItem__item-bottom-left___IvueZ {
+  font-family: "FZLanTingHei-R-GBK";
+  -webkit-align-items: baseline;
+      -ms-flex-align: baseline;
+          align-items: baseline;
+}
+.OrderboxItem__order-box-layout___vvRUJ .OrderboxItem__item-bottom___cJAZc .OrderboxItem__item-bottom-left___IvueZ .OrderboxItem__left-title___AMTNL {
+  margin-right: 8rpx;
+}
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/order/aftersales/aftersales.vue?vue&type=style&index=0&id=cf9fe730&lang=scss&module=true ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes aftersales__slide-bottom___WnhX_ {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes aftersales__slide-bottom___WnhX_ {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.aftersales__layout_box___dFcyW .aftersales__page_box___XrXX9 {
+  padding: 28rpx 30rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  max-height: 100%;
+}
+.aftersales__layout_box___dFcyW .aftersales__page_box___XrXX9 .aftersales__item_box___wuKAy {
+  border-radius: 16rpx;
+}
+.aftersales__layout_box___dFcyW .aftersales__page_box___XrXX9 .aftersales__empty_box___vH_Fq {
+  margin-top: -300rpx;
+}

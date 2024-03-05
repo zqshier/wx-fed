@@ -1,0 +1,51 @@
+@charset "UTF-8";@import "../../sub-vendors.wxss";@import "../../sub-common/483f6e9b53e3f314843b861c8637927f.wxss";/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/noticeCenter/noticeCenter.vue?vue&type=style&index=0&id=0a73c86e&lang=scss&module=true ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/** 弃用，后期删除 **/
+@-webkit-keyframes noticeCenter__slide-bottom___PsPz7 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes noticeCenter__slide-bottom___PsPz7 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.noticeCenter__main___rtS2s {
+  width: 750rpx;
+  padding: 32rpx;
+}
+.noticeCenter__main_item___CFJxx .noticeCenter__time___OUo_U {
+  width: 100%;
+  padding-top: 16rpx;
+  text-align: center;
+  color: #a5a5a5;
+  margin-bottom: 32rpx;
+}
+.noticeCenter__main_item___CFJxx .noticeCenter__list___PJFrE {
+  padding: 24rpx 32rpx;
+  background: var(--nut-white, #fff);
+  margin-bottom: 32rpx;
+}
+.noticeCenter__main_item___CFJxx .noticeCenter__list___PJFrE .noticeCenter__title___oAPj7 {
+  margin-bottom: 8rpx;
+}
+.noticeCenter__empty_box___JLpTl {
+  padding-top: 352rpx;
+}

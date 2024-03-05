@@ -1,0 +1,1894 @@
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/components/ProductItem/ProductItem.vue?vue&type=style&index=0&id=1df6ebd6&lang=scss&module=true ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes ProductItem__slide-bottom___MPM_3 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes ProductItem__slide-bottom___MPM_3 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.ProductItem__item____6CJg {
+  width: 332rpx;
+  margin-bottom: 32rpx;
+  max-height: 476rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.ProductItem__item____6CJg .ProductItem__item_img___pA_xD {
+  width: 332rpx;
+  height: 368rpx;
+  background: #fff;
+}
+.ProductItem__item____6CJg .ProductItem__item_img___pA_xD .ProductItem__img_image____dtgi {
+  width: 100%;
+  height: 100%;
+}
+.ProductItem__item____6CJg .ProductItem__item_bottom___iGr2Z {
+  width: 100%;
+  margin-top: 24rpx;
+  color: #444444;
+}
+.ProductItem__item____6CJg .ProductItem__item_bottom___iGr2Z .ProductItem__item_title___sSkiG {
+  width: 100%;
+  margin-bottom: 8rpx;
+}
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-8.use[1]!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-8.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-8.use[4]!./node_modules/@nutui/nutui-taro/dist/packages/swipe/index.scss ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes slide-bottom {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+}
+@keyframes slide-bottom {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+}
+.nut-swipe {
+  position: relative;
+  display: block;
+  -webkit-transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
+  -o-transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
+  transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
+}
+.nut-swipe__left, .nut-swipe__right {
+  position: absolute;
+  top: 0;
+  height: 100%;
+}
+.nut-swipe__left {
+  left: 0;
+  -webkit-transform: translate3d(-100%, 0, 0);
+          transform: translate3d(-100%, 0, 0);
+}
+.nut-swipe__right {
+  right: 0;
+  -webkit-transform: translate3d(100%, 0, 0);
+          transform: translate3d(100%, 0, 0);
+}
+.nut-swipe__content {
+  display: inherit;
+}
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-8.use[1]!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-8.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-8.use[4]!./node_modules/@nutui/nutui-taro/dist/packages/uploader/index.scss ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes slide-bottom {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+}
+@keyframes slide-bottom {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+}
+.nut-progress {
+  width: 100%;
+  position: relative;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.nut-progress .nut-progress-outer {
+  -webkit-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  background-color: var(--nut-progress-outer-background-color, #f3f3f3);
+  border-radius: var(--nut-progress-outer-border-radius, 24rpx);
+  height: 20rpx;
+}
+.nut-progress .nut-progress-outer .nut-progress-inner {
+  width: 30%;
+  height: 100%;
+  border-radius: var(--nut-progress-outer-border-radius, 24rpx);
+  background: var(--nut-progress-inner-background-color, linear-gradient(135deg, #333333 0%, #333333 100%));
+  -webkit-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  transition: all 0.4s;
+}
+.nut-progress .nut-progress-outer .nut-progress-text {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  color: #fff;
+}
+.nut-progress .nut-progress-outer .nut-progress-slot {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.nut-progress .nut-progress-outer .nut-active:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--nut-progress-outer-border-radius, 24rpx);
+  -webkit-animation: progressActive 2s ease-in-out infinite;
+          animation: progressActive 2s ease-in-out infinite;
+}
+@-webkit-keyframes progressActive {
+  0% {
+    background: rgba(255, 255, 255, 0.1);
+    width: 0;
+  }
+  20% {
+    background: rgba(255, 255, 255, 0.5);
+    width: 0;
+  }
+  to {
+    background: rgba(255, 255, 255, 0);
+    width: 100%;
+  }
+}
+@keyframes progressActive {
+  0% {
+    background: rgba(255, 255, 255, 0.1);
+    width: 0;
+  }
+  20% {
+    background: rgba(255, 255, 255, 0.5);
+    width: 0;
+  }
+  to {
+    background: rgba(255, 255, 255, 0);
+    width: 100%;
+  }
+}
+.nut-progress .nut-progress-outer.nut-progress-small {
+  height: var(--nut-progress-small-height, 10rpx);
+}
+.nut-progress .nut-progress-outer.nut-progress-small .nut-progress-text {
+  font-size: var(--nut-progress-small-text-font-size, 14rpx);
+  line-height: var(--nut-progress-small-text-line-height, 20rpx);
+  padding: var(--nut-progress-small-text-padding, 4rpx 8rpx);
+  top: 50%;
+}
+.nut-progress .nut-progress-outer.nut-progress-base {
+  height: var(--nut-progress-base-height, 20rpx);
+}
+.nut-progress .nut-progress-outer.nut-progress-base .nut-progress-text {
+  font-size: var(--nut-progress-base-text-font-size, 18rpx);
+  line-height: var(--nut-progress-base-text-line-height, 26rpx);
+  padding: var(--nut-progress-base-text-padding, var(--nut-progress-insidetext-padding, 6rpx 10rpx 6rpx 12rpx));
+  top: 50%;
+}
+.nut-progress .nut-progress-outer.nut-progress-large {
+  height: var(--nut-progress-large-height, 30rpx);
+}
+.nut-progress .nut-progress-outer.nut-progress-large .nut-progress-text {
+  font-size: var(--nut-progress-large-text-font-size, 26rpx);
+  line-height: var(--nut-progress-large-text-line-height, 36rpx);
+  padding: var(--nut-progress-large-text-padding, var(--nut-progress-insidetext-padding, 6rpx 10rpx 6rpx 12rpx));
+  top: 50%;
+}
+.nut-progress .nut-progress-outer-part {
+  width: 90%;
+}
+.nut-progress .nut-progress-text {
+  padding: 0 10rpx;
+  font-size: 26rpx;
+  line-height: 1;
+  min-width: 70rpx;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.nut-progress .nut-progress-insidetext {
+  padding: var(--nut-progress-insidetext-padding, 6rpx 10rpx 6rpx 12rpx);
+  background: var(--nut-progress-insidetext-background, var(--nut-progress-inner-background-color, linear-gradient(135deg, #333333 0%, #333333 100%)));
+  border-radius: var(--nut-progress-insidetext-border-radius, 10rpx);
+  position: absolute;
+  -webkit-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  transition: all 0.4s;
+  top: 50%;
+  min-width: 0rpx;
+}
+.nut-progress .nut-icon-success,
+.nut-progress .nut-icon-fail {
+  width: 20rpx;
+  height: 20rpx;
+  display: inline-block;
+}
+.nut-button {
+  position: relative;
+  display: inline-block;
+  width: auto;
+  -webkit-flex-shrink: 0;
+      -ms-flex-negative: 0;
+          flex-shrink: 0;
+  height: 80rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  line-height: var(--nut-button-default-line-height, 72rpx);
+  font-size: var(--nut-button-default-font-size, var(--nut-font-size-2, 28rpx));
+  text-align: center;
+  -webkit-transition: opacity 0.2s;
+  -o-transition: opacity 0.2s;
+  transition: opacity 0.2s;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  -ms-touch-action: manipulation;
+      touch-action: manipulation;
+  vertical-align: bottom;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-tap-highlight-color: transparent;
+}
+.nut-button .nut-button__text {
+  margin-left: 10rpx;
+}
+.nut-button::before {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  height: 100%;
+  background-color: var(--nut-black, #000);
+  border: inherit;
+  border-color: var(--nut-black, #000);
+  border-radius: inherit;
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  opacity: 0;
+  content: " ";
+}
+.nut-button::after {
+  border: none;
+}
+.nut-button:active::before {
+  opacity: 0.1;
+}
+.nut-button__wrap {
+  height: 100%;
+  width: 100%;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.nut-button--loading::before, .nut-button--disabled::before {
+  display: none;
+}
+.nut-button--default {
+  color: #a5a5a5;
+  background: var(--nut-button-default-bg-color, var(--nut-white, #fff));
+  background-origin: border-box;
+  border: var(--nut-button-border-width, 2rpx) solid #a5a5a5;
+}
+.nut-button--primary {
+  color: var(--nut-button-primary-color, var(--nut-white, #fff));
+  background: var(--nut-button-primary-background-color, linear-gradient(135deg, var(--nut-primary-color, #333333) 0%, var(--nut-primary-color, #333333) 100%));
+  background-origin: border-box;
+  border: var(--nut-button-border-width, 2rpx) solid transparent;
+}
+.nut-button--info {
+  color: var(--nut-button-info-color, var(--nut-white, #fff));
+  background: var(--nut-button-info-background-color, linear-gradient(315deg, rgb(73, 143, 242) 0%, rgb(73, 101, 242) 100%));
+  background-origin: border-box;
+  border: var(--nut-button-border-width, 2rpx) solid transparent;
+}
+.nut-button--success {
+  color: var(--nut-button-success-color, var(--nut-white, #fff));
+  background: var(--nut-button-success-background-color, linear-gradient(135deg, rgb(38, 191, 38) 0%, rgb(39, 197, 48) 45%, rgb(40, 207, 63) 83%, rgb(41, 212, 70) 100%));
+  background-origin: border-box;
+  border: var(--nut-button-border-width, 2rpx) solid transparent;
+}
+.nut-button--danger {
+  color: var(--nut-button-danger-color, var(--nut-white, #fff));
+  background: var(--nut-button-danger-background-color, rgb(250, 44, 25));
+  background-origin: border-box;
+  border: var(--nut-button-border-width, 2rpx) solid transparent;
+}
+.nut-button--warning {
+  color: var(--nut-button-warning-color, var(--nut-white, #fff));
+  background: var(--nut-button-warning-background-color, linear-gradient(135deg, rgb(255, 158, 13) 0%, rgb(255, 167, 13) 45%, rgb(255, 182, 13) 83%, rgb(255, 190, 13) 100%));
+  background-origin: border-box;
+  border: var(--nut-button-border-width, 2rpx) solid transparent;
+}
+.nut-button--plain {
+  background: var(--nut-button-plain-background-color, var(--nut-white, #fff));
+  background-origin: border-box;
+}
+.nut-button--plain.nut-button--primary {
+  color: var(--nut-button-primary-border-color, #333333);
+  border-color: var(--nut-button-primary-border-color, #333333);
+}
+.nut-button--plain.nut-button--info {
+  color: var(--nut-button-info-border-color, rgb(73, 106, 242));
+  border-color: var(--nut-button-info-border-color, rgb(73, 106, 242));
+}
+.nut-button--plain.nut-button--success {
+  color: var(--nut-button-success-border-color, rgb(38, 191, 38));
+  border-color: var(--nut-button-success-border-color, rgb(38, 191, 38));
+}
+.nut-button--plain.nut-button--danger {
+  color: var(--nut-button-danger-border-color, rgb(250, 44, 25));
+  border-color: var(--nut-button-danger-border-color, rgb(250, 44, 25));
+}
+.nut-button--plain.nut-button--warning {
+  color: var(--nut-button-warning-border-color, rgb(255, 158, 13));
+  border-color: var(--nut-button-warning-border-color, rgb(255, 158, 13));
+}
+.nut-button--large {
+  width: 100%;
+  height: var(--nut-button-large-height, 96rpx);
+  line-height: var(--nut-button-large-line-height, 92rpx);
+  font-size: var(--nut-button-large-font-size, var(--nut-button-default-font-size, var(--nut-font-size-2, 28rpx)));
+}
+.nut-button--normal {
+  padding: 0 48rpx;
+  font-size: var(--nut-button-default-font-size, var(--nut-font-size-2, 28rpx));
+}
+.nut-button--small {
+  height: 64rpx;
+  line-height: var(--nut-button-small-line-height, 52rpx);
+  padding: 0 48rpx;
+  font-size: var(--nut-button-small-font-size, var(--nut-font-size-1, 24rpx));
+}
+.nut-button--small.nut-button--round {
+  border-radius: var(--nut-button-small-round-border-radius, 48rpx);
+}
+.nut-button--mini {
+  height: var(--nut-button-mini-height, 48rpx);
+  line-height: var(--nut-button-mini-line-height, 1.2);
+  padding: var(--nut-button-mini-padding, 0 24rpx);
+  font-size: var(--nut-button-mini-font-size, var(--nut-font-size-1, 24rpx));
+}
+.nut-button--block {
+  display: block;
+  width: 100%;
+}
+.nut-button--disabled {
+  opacity: 0.6;
+}
+.nut-button--loading {
+  opacity: 0.9;
+}
+.nut-button--round {
+  border-radius: 48rpx;
+}
+.nut-button--square {
+  border-radius: 0;
+}
+.nut-button--default:not([disabled]):active {
+  color: #a5a5a5;
+  background: var(--nut-button-default-bg-color, var(--nut-white, #fff));
+  background-origin: border-box;
+  border: var(--nut-button-border-width, 2rpx) solid #a5a5a5;
+}
+.nut-button--primary:not([disabled]):active {
+  color: var(--nut-button-primary-color, var(--nut-white, #fff));
+  background: var(--nut-button-primary-background-color, linear-gradient(135deg, var(--nut-primary-color, #333333) 0%, var(--nut-primary-color, #333333) 100%));
+  background-origin: border-box;
+  border: var(--nut-button-border-width, 2rpx) solid transparent;
+}
+.nut-button--info:not([disabled]):active {
+  color: var(--nut-button-info-color, var(--nut-white, #fff));
+  background: var(--nut-button-info-background-color, linear-gradient(315deg, rgb(73, 143, 242) 0%, rgb(73, 101, 242) 100%));
+  background-origin: border-box;
+  border: var(--nut-button-border-width, 2rpx) solid transparent;
+}
+.nut-button--success:not([disabled]):active {
+  color: var(--nut-button-success-color, var(--nut-white, #fff));
+  background: var(--nut-button-success-background-color, linear-gradient(135deg, rgb(38, 191, 38) 0%, rgb(39, 197, 48) 45%, rgb(40, 207, 63) 83%, rgb(41, 212, 70) 100%));
+  background-origin: border-box;
+  border: var(--nut-button-border-width, 2rpx) solid transparent;
+}
+.nut-button--danger:not([disabled]):active {
+  color: var(--nut-button-danger-color, var(--nut-white, #fff));
+  background: var(--nut-button-danger-background-color, rgb(250, 44, 25));
+  background-origin: border-box;
+  border: var(--nut-button-border-width, 2rpx) solid transparent;
+}
+.nut-button--warning:not([disabled]):active {
+  color: var(--nut-button-warning-color, var(--nut-white, #fff));
+  background: var(--nut-button-warning-background-color, linear-gradient(135deg, rgb(255, 158, 13) 0%, rgb(255, 167, 13) 45%, rgb(255, 182, 13) 83%, rgb(255, 190, 13) 100%));
+  background-origin: border-box;
+  border: var(--nut-button-border-width, 2rpx) solid transparent;
+}
+.nut-button--plain:not([disabled]):active {
+  background: var(--nut-button-plain-background-color, var(--nut-white, #fff));
+  background-origin: border-box;
+}
+.nut-button--plain.nut-button--primary:not([disabled]):active {
+  color: var(--nut-button-primary-border-color, #333333);
+  border-color: var(--nut-button-primary-border-color, #333333);
+}
+.nut-button--plain.nut-button--info:not([disabled]):active {
+  color: var(--nut-button-info-border-color, rgb(73, 106, 242));
+  border-color: var(--nut-button-info-border-color, rgb(73, 106, 242));
+}
+.nut-button--plain.nut-button--success:not([disabled]):active {
+  color: var(--nut-button-success-border-color, rgb(38, 191, 38));
+  border-color: var(--nut-button-success-border-color, rgb(38, 191, 38));
+}
+.nut-button--plain.nut-button--danger:not([disabled]):active {
+  color: var(--nut-button-danger-border-color, rgb(250, 44, 25));
+  border-color: var(--nut-button-danger-border-color, rgb(250, 44, 25));
+}
+.nut-button--plain.nut-button--warning:not([disabled]):active {
+  color: var(--nut-button-warning-border-color, rgb(255, 158, 13));
+  border-color: var(--nut-button-warning-border-color, rgb(255, 158, 13));
+}
+.nut-theme-dark .nut-uploader__preview-list {
+  background: var(--nut-dark-background2, #1b1b1b);
+  color: var(--nut-dark-color, var(--nut-white, #fff));
+}
+.nut-theme-dark .close {
+  color: var(--nut-dark-color, var(--nut-white, #fff)) !important;
+}
+.nut-uploader {
+  position: relative;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+}
+.nut-uploader__slot {
+  position: relative;
+}
+.nut-uploader__upload {
+  position: relative;
+  background: var(--nut-uploader-background, #f7f8fa);
+  width: var(--nut-uploader-picture-width, 200rpx);
+  height: var(--nut-uploader-picture-height, 200rpx);
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.nut-uploader__input {
+  position: absolute !important;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  height: 100% !important;
+  overflow: hidden;
+  opacity: 0;
+}
+.nut-uploader__input:disabled, .nut-uploader__input.disabled {
+}
+.nut-uploader__preview {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-right: 20rpx;
+  margin-bottom: 20rpx;
+  -webkit-box-shadow: 0 4rpx 20rpx 0 rgba(0, 0, 0, 0.1);
+          box-shadow: 0 4rpx 20rpx 0 rgba(0, 0, 0, 0.1);
+}
+.nut-uploader__preview__progress {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.nut-uploader__preview__progress__msg {
+  color: var(--nut-white, #fff);
+  font-size: 24rpx;
+  margin-top: 12rpx;
+}
+.nut-uploader__preview.list {
+  width: 100%;
+  margin-right: 0rpx;
+  margin-bottom: 0rpx;
+  margin-top: 20rpx;
+}
+.nut-uploader__preview-list {
+  width: 100%;
+  height: 64rpx;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  position: relative;
+}
+.nut-uploader__preview-list .nut-uploader__preview-img__file__name {
+  padding: 4rpx 8rpx;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 100%;
+}
+.nut-uploader__preview-list .nut-uploader__preview-img__file__name .file__name_tips {
+  margin-left: 8rpx;
+  padding: 0 40rpx;
+  width: 100%;
+  overflow: hidden;
+  -o-text-overflow: ellipsis;
+     text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.nut-uploader__preview-list .nut-uploader__preview-img__file__del {
+  position: absolute;
+  right: 12rpx;
+  top: 12rpx;
+}
+.nut-uploader__preview-list .nut-uploader__preview-img__file__link {
+  position: absolute;
+  left: 12rpx;
+  top: 16rpx;
+}
+.nut-uploader__preview-list .nut-progress {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.nut-uploader__preview-list .nut-progress .nut-progress-outer {
+  height: 4rpx !important;
+}
+.nut-uploader__preview-img {
+  position: relative;
+  width: var(--nut-uploader-picture-width, 200rpx);
+  height: var(--nut-uploader-picture-height, 200rpx);
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  border-radius: 12rpx;
+}
+.nut-uploader__preview-img .close {
+  position: absolute;
+  right: 0;
+  top: 0;
+  color: rgba(0, 0, 0, 0.6);
+  -webkit-transform: translate(50%, -50%);
+      -ms-transform: translate(50%, -50%);
+          transform: translate(50%, -50%);
+}
+.nut-uploader__preview-img .tips {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  font-size: 24rpx;
+  color: var(--nut-white, #fff);
+  height: 0rpx;
+  -webkit-transition: height 0.3s;
+  -o-transition: height 0.3s;
+  transition: height 0.3s;
+  background: rgba(0, 0, 0, 0.54);
+  width: 100%;
+  overflow: hidden;
+  -o-text-overflow: ellipsis;
+     text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.nut-uploader__preview-img__c {
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 12rpx;
+}
+.nut-uploader__preview-img__file {
+  height: 100%;
+  width: 100%;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  transition: all 0.3s;
+}
+.nut-uploader__preview-img__file__name {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  font-size: 24rpx;
+  color: var(--nut-text-color, #808080);
+  padding: 20rpx;
+  height: 100%;
+  overflow: hidden;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.nut-uploader__preview-img__file__name.error {
+  color: red !important;
+}
+.nut-uploader__preview-img__file__name.success {
+  color: #1890ff !important;
+}
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/components/RecommendedItems/RecommendedItems.vue?vue&type=style&index=0&id=ffebb522&lang=scss&module=true ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes RecommendedItems__slide-bottom___kfoLb {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes RecommendedItems__slide-bottom___kfoLb {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.RecommendedItems__container___J6Osq {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.RecommendedItems__container_title___znFZI {
+  padding-left: 32rpx;
+  color: #333333;
+  font-weight: var(--ffebb522-fontWeight);
+}
+.RecommendedItems__container_goods___VQGCr .RecommendedItems__goods_item___T_TQT {
+  padding: 32rpx 0 48rpx 0;
+}
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/secondClassify/components/sort/sort.vue?vue&type=style&index=0&id=afce2472&lang=scss&module=true ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes sort__slide-bottom___iLVOu {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes sort__slide-bottom___iLVOu {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.sort__sort___efQsH {
+  color: #a5a5a5;
+  padding-top: 16rpx;
+  margin-right: -16rpx;
+}
+.sort__sort___efQsH .sort__sort-padR___sLVPc {
+  padding: 16rpx;
+}
+.sort__sort___efQsH .sort__sort-select___uzCR8 {
+  color: #333333;
+}
+.sort__sort___efQsH .sort__sort-screen___vU9Zi {
+  padding: 20rpx 0 16rpx 16rpx;
+}
+.sort__sort___efQsH .sort__sort-img___OLoo8 {
+  margin-left: 8rpx;
+  width: 24rpx;
+  height: 24rpx;
+}
+.sort__sort___efQsH .sort__sort-img_desc___PY8Jo {
+  -webkit-transform: rotate(180deg);
+      -ms-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+.sort__sort___efQsH .sort__sort-num___Cn6Co {
+  width: 28rpx;
+  height: 28rpx;
+  margin-right: 8rpx;
+  background: #333333;
+  color: var(--nut-white, #fff);
+  border-radius: 50%;
+}
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-8.use[1]!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-8.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-8.use[4]!./node_modules/@nutui/nutui-taro/dist/packages/actionsheet/index.scss ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes slide-bottom {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+}
+@keyframes slide-bottom {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+}
+.overlay-fade-enter-active,
+.overlay-fade-leave-active {
+  -webkit-transition-property: opacity;
+  -o-transition-property: opacity;
+  transition-property: opacity;
+  -webkit-transition-timing-function: ease;
+       -o-transition-timing-function: ease;
+          transition-timing-function: ease;
+}
+.overlay-fade-enter-from,
+.overlay-fade-leave-to {
+  opacity: 0;
+}
+.nut-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: var(--nut-overlay-bg-color, rgba(0, 0, 0, 0.7));
+}
+.nut-overflow-hidden {
+  overflow: hidden !important;
+}
+.nut-theme-dark .nut-popup {
+  background: var(--nut-dark-background2, #1b1b1b);
+}
+.nut-theme-dark .nut-popup__close-icon {
+  color: var(--nut-dark-color, var(--nut-white, #fff));
+}
+.nut-popup-slide-center-enter-active, .nut-popup-slide-center-leave-active {
+  -webkit-transition-property: opacity;
+  -o-transition-property: opacity;
+  transition-property: opacity;
+  -webkit-transition-timing-function: ease;
+       -o-transition-timing-function: ease;
+          transition-timing-function: ease;
+}
+.nut-popup-slide-center-enter-from, .nut-popup-slide-center-leave-to {
+  opacity: 0;
+}
+.nut-popup-slide-top-enter-from, .nut-popup-slide-top-leave-active {
+  -webkit-transform: translate(0, -100%);
+      -ms-transform: translate(0, -100%);
+          transform: translate(0, -100%);
+}
+.nut-popup-slide-right-enter-from, .nut-popup-slide-right-leave-active {
+  -webkit-transform: translate(100%, 0);
+      -ms-transform: translate(100%, 0);
+          transform: translate(100%, 0);
+}
+.nut-popup-slide-bottom-enter-from, .nut-popup-slide-bottom-leave-active {
+  -webkit-transform: translate(0, 100%);
+      -ms-transform: translate(0, 100%);
+          transform: translate(0, 100%);
+}
+.nut-popup-slide-left-enter-from, .nut-popup-slide-left-leave-active {
+  -webkit-transform: translate(-100%, 0);
+      -ms-transform: translate(-100%, 0);
+          transform: translate(-100%, 0);
+}
+.nut-popup--center {
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+.nut-popup--center.round {
+  border-radius: 48rpx;
+}
+.nut-popup--bottom {
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+.nut-popup--bottom.round {
+  border-radius: 48rpx 48rpx 0 0;
+}
+.nut-popup--bottom--safebottom {
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.nut-popup--right {
+  top: 0;
+  right: 0;
+}
+.nut-popup--right.round {
+  border-radius: 48rpx 0 0 48rpx;
+}
+.nut-popup--left {
+  top: 0;
+  left: 0;
+}
+.nut-popup--left.round {
+  border-radius: 0 48rpx 48rpx 0;
+}
+.nut-popup--top {
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+.nut-popup--top.round {
+  border-radius: 0 0 48rpx 48rpx;
+}
+.nut-popup {
+  position: fixed;
+  max-height: 100%;
+  overflow-y: auto;
+  background-color: var(--nut-white, #fff);
+  -webkit-overflow-scrolling: touch;
+}
+.nut-popup__close-icon {
+  position: absolute !important;
+  z-index: 1;
+  color: #969799;
+  font-size: 36rpx;
+  width: 60rpx;
+  height: 60rpx;
+  line-height: 60rpx;
+  text-align: center;
+}
+.nut-popup__close-icon:active {
+  opacity: 0.7;
+}
+.nut-popup__close-icon--top-left {
+  top: 24rpx;
+  left: 24rpx;
+}
+.nut-popup__close-icon--top-right {
+  top: 24rpx;
+  right: 24rpx;
+}
+.nut-popup__close-icon--bottom-left {
+  bottom: 24rpx;
+  left: 24rpx;
+}
+.nut-popup__close-icon--bottom-right {
+  right: 24rpx;
+  bottom: 24rpx;
+}
+.nut-theme-dark .nut-action-sheet .nut-action-sheet__cancel {
+  border-top: 2rpx solid var(--nut-dark-background2, #1b1b1b);
+}
+.nut-theme-dark .nut-action-sheet .nut-action-sheet__title {
+  border-bottom: 2rpx solid var(--nut-dark-background2, #1b1b1b);
+}
+.nut-theme-dark .nut-action-sheet .nut-action-sheet__cancel,
+.nut-theme-dark .nut-action-sheet .nut-action-sheet__item,
+.nut-theme-dark .nut-action-sheet .nut-action-sheet__title {
+  background: var(--nut-dark-background, #131313);
+  color: var(--nut-dark-color, var(--nut-white, #fff));
+}
+.nut-action-sheet {
+  display: block;
+}
+.nut-action-sheet .nut-action-sheet__title {
+  display: block;
+  padding: 20rpx;
+  margin: 0;
+  text-align: center;
+  background-color: var(--nut-white, #fff);
+  border-bottom: 2rpx solid var(--nut-actionsheet-light-color, #f6f6f6);
+  font-size: var(--nut-font-size-base, var(--nut-font-size-2, 28rpx));
+  color: var(--nut-title-color, #1a1a1a);
+}
+.nut-action-sheet .nut-action-sheet__menu {
+  display: block;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.nut-action-sheet .nut-action-sheet__cancel,
+.nut-action-sheet .nut-action-sheet__item {
+  display: block;
+  padding: 20rpx;
+  line-height: var(--nut-actionsheet-item-line-height, 48rpx);
+  font-size: var(--nut-actionsheet-item-font-size, var(--nut-font-size-2, 28rpx));
+  color: var(--nut-actionsheet-item-font-color, var(--nut-title-color, #1a1a1a));
+  text-align: center;
+  background-color: #fff;
+  border-bottom: var(--nut-actionsheet-item-border-bottom, none);
+}
+.nut-action-sheet .nut-action-sheet__desc {
+  font-size: var(--nut-actionsheet-item-font-size, var(--nut-font-size-2, 28rpx));
+  color: #999;
+}
+.nut-action-sheet .nut-action-sheet__subdesc {
+  display: block;
+  font-size: var(--nut-actionsheet-item-subdesc-font-size, var(--nut-font-size-1, 24rpx));
+  color: #999;
+}
+.nut-action-sheet .nut-action-sheet__item--disabled {
+  color: #e1e1e1 !important;
+}
+.nut-action-sheet .nut-action-sheet__item--loading {
+}
+.nut-action-sheet .nut-action-sheet__cancel {
+  margin-top: 10rpx;
+  border-top: var(--nut-actionsheet-item-cancel-border-top, 2rpx solid var(--nut-actionsheet-light-color, #f6f6f6));
+}
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/components/LocationView/LocationView.vue?vue&type=style&index=0&id=70a5b1fe&lang=scss&module=true ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes LocationView__slide-bottom___GGHaJ {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes LocationView__slide-bottom___GGHaJ {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.LocationView__location___eazjj {
+  color: #444444;
+}
+.LocationView__location_img___O8Xd6 {
+  margin-right: 32rpx;
+  width: 48rpx;
+  height: 48rpx;
+}
+.LocationView__location___eazjj .LocationView__location_info___lEmqB {
+  margin-right: 32rpx;
+  width: 478rpx;
+}
+.LocationView__location___eazjj .LocationView__location_info___lEmqB .LocationView__info_tittle___e4Jia {
+  margin-bottom: 8rpx;
+  color: #333333;
+  font-family: "FZLanTingHei-R-GBK";
+  -webkit-align-items: baseline;
+      -ms-flex-align: baseline;
+          align-items: baseline;
+}
+.LocationView__location___eazjj .LocationView__location_info___lEmqB .LocationView__info_tittle___e4Jia .LocationView__info_name___GnwgB {
+  max-width: 300rpx;
+  margin-right: 16rpx;
+}
+.LocationView__location___eazjj .LocationView__location_info___lEmqB .LocationView__info_tittle___e4Jia .LocationView__info_phone___X_Z3t {
+  font-family: "CentraleSans";
+}
+.LocationView__location___eazjj .LocationView__location_info___lEmqB .LocationView__info_tittle___e4Jia .LocationView__info_default___MBHjp {
+  margin-left: 30rpx;
+  width: 58rpx;
+  height: 30rpx;
+  background: #333333;
+  border-radius: 4rpx 4rpx 4rpx 4rpx;
+  color: var(--nut-white, #fff);
+}
+.LocationView__location___eazjj .LocationView__location_info___lEmqB .LocationView__info_address___l1oXS {
+  color: #a5a5a5;
+  font-family: "FZLanTingHei-R-GBK";
+}
+.LocationView__location___eazjj .LocationView__right_img___Y0siM {
+  width: 32rpx;
+  height: 32rpx;
+}
+.LocationView__location_none___eOYHb {
+  color: #444444;
+  padding: 32rpx;
+}
+.LocationView__location_none___eOYHb .LocationView__icon_right___t5x1t {
+  width: 32rpx;
+  height: 32rpx;
+  margin-left: 16rpx;
+}
+.LocationView__wx_addr___IYocX {
+  padding-top: 24rpx;
+  margin-top: 36rpx;
+  border-top: 1rpx solid #d9d9d9;
+}
+.LocationView__wx_addr_icon___Afk8M {
+  width: 48rpx;
+  height: 46rpx;
+  margin-right: 32rpx;
+}
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/components/CouponBox/CouponBox.vue?vue&type=style&index=0&id=0968eb4a&lang=scss&module=true ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes CouponBox__slide-bottom___dDDpi {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes CouponBox__slide-bottom___dDDpi {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.CouponBox__coupon___xk4z8 {
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+.CouponBox__coupon-warp___iDDyy {
+  padding: 24rpx 32rpx;
+  width: 686rpx;
+  height: 240rpx;
+  -webkit-align-self: stretch;
+      -ms-flex-item-align: stretch;
+          align-self: stretch;
+  z-index: 2;
+  position: relative;
+  border-radius: 16rpx;
+}
+.CouponBox__coupon-warp___iDDyy .CouponBox__coupon-top___hFh80 {
+  width: 100%;
+  color: #333333;
+  font-family: "FZLanTingHei-R-GBK";
+}
+.CouponBox__coupon-warp___iDDyy .CouponBox__coupon-top___hFh80 .CouponBox__top_type___KQBNr {
+  line-height: 48rpx;
+}
+.CouponBox__coupon-warp___iDDyy .CouponBox__coupon-top___hFh80 .CouponBox__time_border___tOqKA {
+  padding-bottom: 8rpx;
+  border-bottom: 2rpx solid #d9d9d9;
+}
+.CouponBox__coupon-warp___iDDyy .CouponBox__coupon-top___hFh80 .CouponBox__time_mg___M2w2x {
+  margin-right: 4rpx;
+}
+.CouponBox__coupon-warp___iDDyy .CouponBox__coupon-top___hFh80 .CouponBox__top_statement___QBLeH {
+  max-width: 370rpx;
+  display: inline-block;
+  padding-top: 8rpx;
+}
+.CouponBox__coupon-warp___iDDyy .CouponBox__coupon-top___hFh80 .CouponBox__top_conditions___Nc5eb {
+  color: #a5a5a5;
+}
+.CouponBox__coupon-warp___iDDyy .CouponBox__coupon-end___UQlix {
+  width: 100%;
+  position: relative;
+}
+.CouponBox__coupon-warp___iDDyy .CouponBox__coupon-end___UQlix .CouponBox__end_usageRules___DZcgV {
+  color: #a5a5a5;
+  font-family: "FZLanTingHei-R-GBK";
+  line-height: 36rpx;
+}
+.CouponBox__coupon-warp___iDDyy .CouponBox__coupon-end___UQlix .CouponBox__end_btn___uYZn4 {
+  width: 192rpx;
+  height: 64rpx;
+  border-radius: 40rpx;
+  background: #333333;
+  color: #fff;
+}
+.CouponBox__coupon-warp___iDDyy .CouponBox__coupon-end___UQlix .CouponBox__end_btn-couponCenter___kX1Xf {
+  background: transparent;
+  color: #333333;
+  border: 2rpx solid var(--tertiary, #a5a5a5);
+}
+.CouponBox__coupon-warp___iDDyy .CouponBox__coupon-end___UQlix .CouponBox__btn_get___SWZj5 {
+  border: none;
+}
+.CouponBox__coupon-warp___iDDyy .CouponBox__coupon-end___UQlix .CouponBox__status_img___EECSq {
+  position: absolute;
+  right: 0;
+  bottom: -22rpx;
+  width: 128rpx;
+  height: 104rpx;
+}
+.CouponBox__coupon-warp___iDDyy .CouponBox__coupon-end___UQlix .CouponBox__icon_arrows___R657n {
+  margin-left: 16rpx;
+  width: 24rpx;
+  height: 24rpx;
+}
+.CouponBox__coupon-warp___iDDyy .CouponBox__coupon-end___UQlix .CouponBox__down___pcyHJ {
+  -webkit-transform: rotate(180deg);
+      -ms-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+.CouponBox__coupon-warp_disable___VQGbv .CouponBox__coupon-top___hFh80 {
+  color: #a5a5a5;
+}
+.CouponBox__rule_state___MXNhV {
+  width: 676rpx;
+  margin-top: -22rpx;
+  position: relative;
+  left: -1rpx;
+  padding: 36rpx 20rpx 18rpx;
+  border-radius: 16rpx;
+  background: #333333;
+  color: var(--nut-white, #fff);
+}
+.CouponBox__rule_state___MXNhV.CouponBox__info_rule-none___GI21Y {
+  display: none;
+}
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-8.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-8.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-8.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/components/CustomPrice/CustomPrice.vue?vue&type=style&index=0&id=ae60bafe&lang=scss ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes slide-bottom {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes slide-bottom {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.price-layout {
+  font-family: "CentraleSans";
+  font-size: var(--ae60bafe-pFont);
+  font-weight: var(--ae60bafe-pWeight);
+  color: var(--ae60bafe-pColor);
+}
+.price-layout .unit {
+  padding-right: var(--ae60bafe-uRight);
+  font-size: var(--ae60bafe-uWeight);
+}
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/components/Rate/Rate.vue?vue&type=style&index=0&id=deab807e&lang=scss&module=true ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes Rate__slide-bottom___ymYnZ {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes Rate__slide-bottom___ymYnZ {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.Rate__icon-rate___U4DjG {
+  width: 48rpx;
+  height: 48rpx;
+  margin-right: 8rpx;
+}
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-8.use[1]!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-8.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-8.use[4]!./node_modules/@nutui/nutui-taro/dist/packages/inputnumber/index.scss ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes slide-bottom {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+}
+@keyframes slide-bottom {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+}
+.nut-theme-dark .nut-input-number__icon {
+  color: var(--nut-dark-color, var(--nut-white, #fff));
+}
+.nut-theme-dark .nut-input-number__icon--disabled {
+  color: var(--nut-dark-color-gray, var(--nut-text-color, #808080));
+}
+.nut-theme-dark .nut-input-number .h5-input, .nut-theme-dark .nut-input-number__text--readonly {
+  background-color: var(--nut-dark-background, #131313);
+  color: var(--nut-dark-color, var(--nut-white, #fff));
+  border: 2rpx solid var(--nut-dark-color-gray, var(--nut-text-color, #808080));
+}
+.nut-theme-dark .nut-input-number--disabled .h5-input {
+  color: var(--nut-dark-color-gray, var(--nut-text-color, #808080));
+}
+.nut-input-number {
+  display: var(--nut-inputnumber-display, flex);
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border: var(--nut-inputnumber-border, 0);
+  border-radius: var(--nut-inputnumber-border-radius, 0);
+  height: var(--nut-inputnumber-height, auto);
+  line-height: var(--nut-inputnumber-line-height, normal);
+  -webkit-box-sizing: var(--nut-inputnumber-border-box, content-box);
+          box-sizing: var(--nut-inputnumber-border-box, content-box);
+}
+.nut-input-number--disabled .h5-input {
+  color: var(--nut-inputnumber-icon-void-color, var(--nut-disable-color, #cccccc));
+}
+.nut-input-number__icon {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: var(--nut-inputnumber-icon-color, var(--nut-title-color, #1a1a1a));
+}
+.nut-input-number__icon .nut-icon {
+  width: var(--nut-inputnumber-icon-size, 40rpx);
+  height: var(--nut-inputnumber-icon-size, 40rpx);
+  font-size: var(--nut-inputnumber-icon-size, 40rpx);
+}
+.nut-input-number__icon--disabled {
+  color: var(--nut-inputnumber-icon-void-color, var(--nut-disable-color, #cccccc));
+}
+.nut-input-number .h5-input {
+  border-top: 0 !important;
+  border-bottom: 0 !important;
+}
+.nut-input-number .h5-input, .nut-input-number__text--readonly, .nut-input-number__text--input {
+  width: var(--nut-inputnumber-input-width, 80rpx);
+  height: 100%;
+  text-align: center;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  outline: none;
+  border: var(--nut-inputnumber-input-border, 0);
+  font-size: var(--nut-inputnumber-input-font-size, 24rpx);
+  color: var(--nut-inputnumber-input-font-color, var(--nut-title-color, #1a1a1a));
+  margin: var(--nut-inputnumber-input-margin, 0 12rpx);
+  background-color: var(--nut-inputnumber-input-background-color, var(--nut-help-color, #f5f5f5));
+  border-radius: var(--nut-inputnumber-input-border-radius, 8rpx);
+}
+.nut-input-number .h5-input::-webkit-outer-spin-button,
+.nut-input-number .h5-input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+          appearance: none;
+}
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-8.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-8.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-8.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/components/CustomNumberBox/CustomNumberBox.vue?vue&type=style&index=0&id=ad2b161a&lang=scss ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes slide-bottom {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes slide-bottom {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.custom-number-box {
+  border-radius: 32rpx;
+  border: 2rpx solid #d9d9d9;
+  height: 48rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.custom-number-box .nut-icon {
+  padding: 4rpx 8rpx;
+  width: 32rpx !important;
+  height: 32rpx !important;
+}
+.custom-number-box .nut-icon__img {
+  width: 32rpx;
+  height: 32rpx;
+}
+.custom-number-box .h5-input,
+.custom-number-box .nut-input-number__text--readonly {
+  width: var(--ad2b161a-inputWidth) !important;
+  line-height: 40rpx;
+  font-size: 28rpx;
+  color: #333333;
+  background-color: transparent;
+  margin: 0;
+}
+.custom-number-box .input-placeholder {
+  color: var(--nut-white, #fff);
+}
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/components/PopOrderCancelBox/PopOrderCancelBox.vue?vue&type=style&index=0&id=2470f80e&lang=scss&module=true ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes PopOrderCancelBox__slide-bottom___LpprW {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes PopOrderCancelBox__slide-bottom___LpprW {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.PopOrderCancelBox__box___oohzi {
+  width: 750rpx;
+  padding-bottom: 16rpx;
+  font-family: "FZLanTingHei-R-GBK";
+}
+.PopOrderCancelBox__box___oohzi .PopOrderCancelBox__title___gsFVT {
+  width: 750rpx;
+  height: 108rpx;
+  line-height: 108rpx;
+  color: #444444;
+  text-align: center;
+}
+.PopOrderCancelBox__box___oohzi .PopOrderCancelBox__tips___ZbhXp {
+  width: 624rpx;
+  height: 48rpx;
+  line-height: 48rpx;
+  text-align: center;
+  color: #a5a5a5;
+  border-radius: 32rpx;
+  background: #e6e6e6;
+}
+.PopOrderCancelBox__box___oohzi .PopOrderCancelBox__main___N0tIC {
+  width: 750rpx;
+  padding: 0 30rpx;
+}
+.PopOrderCancelBox__box___oohzi .PopOrderCancelBox__main_title___xpcHx {
+  width: 690rpx;
+  line-height: 100rpx;
+  color: #a5a5a5;
+  border-bottom: 2rpx solid #e6e6e6;
+}
+.PopOrderCancelBox__box___oohzi .PopOrderCancelBox__main_item___Ll3ez {
+  width: 690rpx;
+  height: 560rpx;
+  padding: 32rpx 0;
+}
+.PopOrderCancelBox__box___oohzi .PopOrderCancelBox__main_item___Ll3ez .PopOrderCancelBox__main_list___P33XK {
+  width: 690rpx;
+  height: 80rpx;
+}
+.PopOrderCancelBox__box___oohzi .PopOrderCancelBox__btn___P1Bbt {
+  width: 690rpx;
+  height: 80rpx;
+}
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/components/OrderItem/OrderBox.vue?vue&type=style&index=0&id=45b4df3b&lang=scss&module=true ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes OrderBox__slide-bottom___ij5_V {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes OrderBox__slide-bottom___ij5_V {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.OrderBox__box___VM8z9 {
+  width: 100%;
+}
+.OrderBox__box___VM8z9 .OrderBox__img___vKTV4 {
+  margin-right: 32rpx;
+  width: 144rpx;
+  height: 160rpx;
+  background: #fff;
+}
+.OrderBox__box___VM8z9 .OrderBox__info___YI3uE {
+  height: 160rpx;
+  -webkit-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-flow: column;
+      -ms-flex-flow: column;
+          flex-flow: column;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.OrderBox__box___VM8z9 .OrderBox__info___YI3uE .OrderBox__title___GKHOt {
+  color: #444444;
+  font-family: "FZLanTingHei-R-GBK";
+}
+.OrderBox__box___VM8z9 .OrderBox__info___YI3uE .OrderBox__title_width___Atzx0 {
+  width: 328rpx;
+}
+.OrderBox__box___VM8z9 .OrderBox__info___YI3uE .OrderBox__info_center___YLwFR .OrderBox__info_size___qlnJK {
+  font-family: "FZLanTingHei-R-GBK";
+  color: #a5a5a5;
+  line-height: 36rpx;
+}
+.OrderBox__box___VM8z9 .OrderBox__info___YI3uE .OrderBox__info_center___YLwFR .OrderBox__info_size-mg___DIPTn {
+  position: relative;
+  padding-right: 8rpx;
+  margin-right: 8rpx;
+}
+.OrderBox__box___VM8z9 .OrderBox__info___YI3uE .OrderBox__info_center___YLwFR .OrderBox__info_size-mg___DIPTn::after {
+  content: ",";
+  position: absolute;
+  top: 38%;
+  right: 0;
+  width: 2rpx;
+  height: 100%;
+  -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+.OrderBox__box___VM8z9 .OrderBox__info___YI3uE .OrderBox__info_center___YLwFR .OrderBox__info_size-mg___DIPTn:last-child {
+  padding-right: 0;
+  margin-right: 0;
+}
+.OrderBox__box___VM8z9 .OrderBox__info___YI3uE .OrderBox__info_center___YLwFR .OrderBox__info_size-mg___DIPTn:last-child::after {
+  font-size: 0;
+}
+.OrderBox__box___VM8z9 .OrderBox__info___YI3uE .OrderBox__info_center___YLwFR .OrderBox__status___zx0XZ {
+  color: #333333;
+  font-family: "CentraleSans";
+  font-size: 24rpx;
+}
+.OrderBox__box___VM8z9 .OrderBox__info___YI3uE .OrderBox__info_center___YLwFR .OrderBox__info_status___Ay8nL {
+  color: #bb8c3e;
+}
+.OrderBox__box___VM8z9 .OrderBox__info___YI3uE .OrderBox__info_center___YLwFR .OrderBox__btn_refund___igrcX {
+  width: 88rpx;
+  height: 36rpx;
+  border-radius: 100rpx;
+  border: 2rpx solid #989898;
+  text-align: center;
+  color: #444444;
+}
+.OrderBox__box___VM8z9 .OrderBox__info___YI3uE .OrderBox__info_price___XHXAD {
+  margin-left: 16rpx;
+  color: #a5a5a5;
+  -webkit-align-items: baseline;
+      -ms-flex-align: baseline;
+          align-items: baseline;
+}
+.OrderBox__box___VM8z9 .OrderBox__info___YI3uE .OrderBox__quantity____lTQ7 {
+  margin-left: 16rpx;
+}
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-8.use[1]!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-8.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-8.use[4]!./node_modules/@nutui/nutui-taro/dist/packages/countdown/index.scss ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes slide-bottom {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+}
+@keyframes slide-bottom {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+}
+.nut-countdown {
+  display: var(--nut-countdown-display, flex);
+  color: var(--nut-countdown-color, inherit);
+  font-size: var(--nut-countdown-font-size, initial);
+}
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/components/OrderItem/OrderItem.vue?vue&type=style&index=0&id=33796ad3&lang=scss&module=true ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes OrderItem__slide-bottom___tUfOI {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes OrderItem__slide-bottom___tUfOI {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.OrderItem__list___dyUs_ {
+  width: 100%;
+  margin-bottom: 24rpx;
+}
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-8.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-8.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-8.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/components/Notice/Notice.vue?vue&type=style&index=0&id=39d34e8f&lang=scss ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes slide-bottom {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes slide-bottom {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.pop-class {
+  border-radius: 32rpx;
+  background: var(--popup, rgba(255, 255, 255, 0.8));
+  -webkit-backdrop-filter: blur(20rpx);
+          backdrop-filter: blur(20rpx);
+}
+.overlay-class {
+  background: var(--shade, rgba(0, 0, 0, 0.3));
+}
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/components/Notice/Notice.vue?vue&type=style&index=1&id=39d34e8f&lang=scss&module=true ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes Notice__slide-bottom___TBtYV {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes Notice__slide-bottom___TBtYV {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.Notice__notice_box___zjg8w {
+  min-width: 580rpx;
+  height: auto;
+  padding: 32rpx;
+}
+.Notice__notice_box___zjg8w .Notice__title___TEcIC {
+  color: #333333;
+}
+.Notice__notice_box___zjg8w .Notice__content___a0OGa {
+  width: 100%;
+  color: #333333;
+  margin: 48rpx 0;
+}
+.Notice__notice_box___zjg8w .Notice__content_pad___lwpcQ {
+  margin: 48rpx 0 64rpx;
+}
+.Notice__notice_box___zjg8w .Notice__btn_row___rgoKI {
+  width: 560rpx;
+  min-height: 74rpx;
+}
+.Notice__notice_box___zjg8w .Notice__btn_row___rgoKI .Notice__btn___ZChqC {
+  width: 240rpx;
+  height: 80rpx;
+  margin-right: 16rpx;
+  color: #333333;
+  background: transparent;
+}
+.Notice__notice_box___zjg8w .Notice__btn_row___rgoKI .Notice__btn___ZChqC:last-child {
+  margin-right: 0;
+}
+.Notice__notice_box___zjg8w .Notice__btn_row___rgoKI .Notice__btn_comfirm___gTstG {
+  color: #ff0000;
+}
+.Notice__notice_box___zjg8w .Notice__btn_row___rgoKI .Notice__btn_comfirm_long___glxWU {
+  width: 546rpx;
+  height: 90rpx;
+}

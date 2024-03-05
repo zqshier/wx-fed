@@ -1,0 +1,105 @@
+/*! -!../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./index.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./index.vue?vue&type=template&id=ef8866ca&ts=true */
+
+/*! ../../node_modules/@tarojs/taro-loader/lib/raw.js!./index.vue */
+
+/*! ./index.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./index.vue?vue&type=template&id=ef8866ca&ts=true */
+
+/*! ./node_modules/vue-loader/dist/exportHelper.js */
+
+/*! @/dto/events */
+
+/*! @/static/tabbar/home-c.png */
+
+/*! @/static/tabbar/home.png */
+
+/*! @/static/tabbar/mine-c.png */
+
+/*! @/static/tabbar/mine.png */
+
+/*! @/static/tabbar/point-c.png */
+
+/*! @/static/tabbar/point.png */
+
+/*! @/static/tabbar/shop-c.png */
+
+/*! @/static/tabbar/shop.png */
+
+/*! @/static/tabbar/verify-c.png */
+
+/*! @/static/tabbar/verify.png */
+
+/*! @/stores */
+
+/*! @tarojs/runtime */
+
+/*! @tarojs/taro */
+
+/*! vue */
+
+/*!************************************!*\
+  !*** ./src/static/tabbar/home.png ***!
+  \************************************/
+
+/*!************************************!*\
+  !*** ./src/static/tabbar/mine.png ***!
+  \************************************/
+
+/*!************************************!*\
+  !*** ./src/static/tabbar/shop.png ***!
+  \************************************/
+
+/*!*************************************!*\
+  !*** ./src/static/tabbar/point.png ***!
+  \*************************************/
+
+/*!**************************************!*\
+  !*** ./src/custom-tab-bar/index.vue ***!
+  \**************************************/
+
+/*!**************************************!*\
+  !*** ./src/static/tabbar/home-c.png ***!
+  \**************************************/
+
+/*!**************************************!*\
+  !*** ./src/static/tabbar/mine-c.png ***!
+  \**************************************/
+
+/*!**************************************!*\
+  !*** ./src/static/tabbar/shop-c.png ***!
+  \**************************************/
+
+/*!**************************************!*\
+  !*** ./src/static/tabbar/verify.png ***!
+  \**************************************/
+
+/*!***************************************!*\
+  !*** ./src/static/tabbar/point-c.png ***!
+  \***************************************/
+
+/*!****************************************!*\
+  !*** ./src/static/tabbar/verify-c.png ***!
+  \****************************************/
+
+/*!*************************************************************************!*\
+  !*** ./src/custom-tab-bar/index.vue?vue&type=script&setup=true&lang=ts ***!
+  \*************************************************************************/
+
+/*!****************************************************************************!*\
+  !*** ./src/custom-tab-bar/index.vue?vue&type=template&id=ef8866ca&ts=true ***!
+  \****************************************************************************/
+
+/*!************************************************************************************!*\
+  !*** ./node_modules/@tarojs/taro-loader/lib/raw.js!./src/custom-tab-bar/index.vue ***!
+  \************************************************************************************/
+
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/custom-tab-bar/index.vue?vue&type=script&setup=true&lang=ts ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/custom-tab-bar/index.vue?vue&type=template&id=ef8866ca&ts=true ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/

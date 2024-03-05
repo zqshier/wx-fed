@@ -1,0 +1,51 @@
+/*! -!../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./help.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./help.vue?vue&type=template&id=c52acb6e&ts=true */
+
+/*! ../../../../node_modules/@tarojs/taro-loader/lib/raw.js!./help.vue */
+
+/*! ./help.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./help.vue?vue&type=template&id=c52acb6e&ts=true */
+
+/*! ./node_modules/vue-loader/dist/exportHelper.js */
+
+/*! @/components/CustomBar/CustomBar.vue */
+
+/*! @/components/CustomNavBack/CustomNavBack.vue */
+
+/*! @/components/Document/Document.vue */
+
+/*! @/constants */
+
+/*! @/utils */
+
+/*! @tarojs/runtime */
+
+/*! @tarojs/taro */
+
+/*! vue */
+
+/*!******************************************!*\
+  !*** ./src/packageA/pages/help/help.vue ***!
+  \******************************************/
+
+/*!*****************************************************************************!*\
+  !*** ./src/packageA/pages/help/help.vue?vue&type=script&setup=true&lang=ts ***!
+  \*****************************************************************************/
+
+/*!********************************************************************************!*\
+  !*** ./src/packageA/pages/help/help.vue?vue&type=template&id=c52acb6e&ts=true ***!
+  \********************************************************************************/
+
+/*!****************************************************************************************!*\
+  !*** ./node_modules/@tarojs/taro-loader/lib/raw.js!./src/packageA/pages/help/help.vue ***!
+  \****************************************************************************************/
+
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/help/help.vue?vue&type=script&setup=true&lang=ts ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/help/help.vue?vue&type=template&id=c52acb6e&ts=true ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/

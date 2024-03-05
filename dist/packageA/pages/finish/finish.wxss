@@ -1,0 +1,76 @@
+@charset "UTF-8";@import "../../sub-vendors.wxss";/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/finish/finish.vue?vue&type=style&index=0&id=32962d89&lang=scss&module=true ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/** 弃用，后期删除 **/
+@-webkit-keyframes finish__slide-bottom___zE4Wh {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes finish__slide-bottom___zE4Wh {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.finish__main___M_yrN {
+  width: 100%;
+  height: 100%;
+  width: 750rpx;
+}
+.finish__main___M_yrN .finish__bgImg___UFsA9 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+.finish__main-content___U4TZf {
+  z-index: 2;
+  margin-top: 352rpx;
+  color: #333333;
+  font-family: "FZLanTingHei-R-GBK";
+}
+.finish__main-content___U4TZf .finish__main-content_title___jzqbI {
+  margin-top: 32rpx;
+  line-height: 56rpx;
+}
+.finish__main-content___U4TZf .finish__main-content_point___nKdSn {
+  color: #f00;
+  font-family: "FZLanTingHei-R-GBK";
+}
+.finish__main___M_yrN .finish__btn___LSAl4 {
+  margin-top: 104rpx;
+  margin-right: 32rpx;
+  color: #333333;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 80rpx;
+  padding: 0rpx 48rpx;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border-radius: 40rpx;
+  border: 2rpx solid var(--Tertiary, #a5a5a5);
+}
+.finish__main___M_yrN .finish__btn___LSAl4:last-child {
+  margin-right: 0;
+}

@@ -1,0 +1,254 @@
+@charset "UTF-8";@import "../../sub-vendors.wxss";@import "../../sub-common/483f6e9b53e3f314843b861c8637927f.wxss";/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/cart/components/OfferPop/OfferPop.vue?vue&type=style&index=0&id=6982969f&lang=scss&module=true ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/** 弃用，后期删除 **/
+@-webkit-keyframes OfferPop__slide-bottom___vfWlv {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes OfferPop__slide-bottom___vfWlv {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.OfferPop__offer_pop-layout___WKUaR {
+  width: 750rpx;
+  height: 652rpx;
+}
+.OfferPop__offer_pop-layout___WKUaR .OfferPop__title___D5N_u {
+  width: 690rpx;
+  padding: 64rpx 0 48rpx;
+  margin: 0 auto;
+  color: #333333;
+  text-align: center;
+}
+.OfferPop__offer_pop-layout___WKUaR .OfferPop__item___tJONO {
+  width: 750rpx;
+  height: 80rpx;
+  padding: 0 32rpx;
+}
+.OfferPop__offer_pop-layout___WKUaR .OfferPop__item___tJONO .OfferPop__num___BinjE {
+  color: #333333;
+}
+.OfferPop__offer_pop-layout___WKUaR .OfferPop__item___tJONO .OfferPop__num_2___QBkb_ {
+  color: #ff0000;
+}
+.OfferPop__offer_pop-layout___WKUaR .OfferPop__tips___D6Yem {
+  color: #a5a5a5;
+  padding: 8rpx 32rpx;
+}
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/cart/cart.vue?vue&type=style&index=0&id=540d7da9&lang=scss&module=true ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes cart__slide-bottom___Fu_CL {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes cart__slide-bottom___Fu_CL {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.cart__layout___wCBVc {
+  height: 100vh;
+  overflow: hidden;
+}
+.cart__layout___wCBVc .cart__header___WAAGJ {
+  z-index: 2000;
+}
+.cart__layout___wCBVc .cart__checked_item___KhJCq {
+  width: 64rpx;
+  height: 160rpx;
+}
+.cart__layout___wCBVc .cart__icon_down___jIn08 {
+  width: 24rpx;
+  height: 24rpx;
+  margin-left: 8rpx;
+}
+.cart__layout___wCBVc .cart__main___EiDy5 {
+  min-height: 600rpx;
+  height: 100%;
+}
+.cart__layout___wCBVc .cart__main_tips___Jed47 {
+  width: 750rpx;
+  height: 104rpx;
+  padding: 32rpx;
+}
+.cart__layout___wCBVc .cart__main_tips___Jed47 .cart__f_text___CJ7Mk {
+  color: #a5a5a5;
+}
+.cart__layout___wCBVc .cart__main_item___gdkZ1 {
+  width: 686rpx;
+  margin: 0 auto;
+  margin-bottom: 32rpx;
+  overflow: hidden;
+}
+.cart__layout___wCBVc .cart__main_item___gdkZ1 .cart__swipe_content___vqCmS {
+  width: 686rpx;
+  padding: 32rpx;
+}
+.cart__layout___wCBVc .cart__main_item___gdkZ1 .cart__swipe_content___vqCmS .cart__info_image___PSyFS {
+  position: relative;
+  width: 144rpx;
+  height: 160rpx;
+  margin-right: 32rpx;
+  overflow: hidden;
+}
+.cart__layout___wCBVc .cart__main_item___gdkZ1 .cart__swipe_content___vqCmS .cart__info_image-url___dp2zA {
+  width: 100%;
+  height: 100%;
+}
+.cart__layout___wCBVc .cart__main_item___gdkZ1 .cart__swipe_content___vqCmS .cart__info_image-none___UGUqe {
+  position: absolute;
+  top: 24rpx;
+  left: 16rpx;
+  width: 112rpx;
+  height: 112rpx;
+  color: var(--nut-white, #fff);
+  background-color: rgba(51, 51, 51, 0.7);
+  border-radius: 64rpx;
+  z-index: 1;
+}
+.cart__layout___wCBVc .cart__main_item___gdkZ1 .cart__swipe_content___vqCmS .cart__info_right___IWpUL {
+  width: 100%;
+  min-height: 160rpx;
+}
+.cart__layout___wCBVc .cart__main_item___gdkZ1 .cart__swipe_content___vqCmS .cart__info_right___IWpUL .cart__name___SqDR0 {
+  width: 382rpx;
+  line-height: 40rpx;
+  min-height: 40rpx;
+  margin-bottom: 16rpx;
+}
+.cart__layout___wCBVc .cart__main_item___gdkZ1 .cart__swipe_content___vqCmS .cart__info_right___IWpUL .cart__sku___D2sPu {
+  max-width: 382rpx;
+}
+.cart__layout___wCBVc .cart__main_item___gdkZ1 .cart__swipe_content___vqCmS .cart__info_right___IWpUL .cart__sku_item___QdMZw {
+  min-height: 36rpx;
+  color: #a5a5a5;
+  line-height: 36rpx;
+  margin-top: -8rpx;
+  margin-bottom: 16rpx;
+}
+.cart__layout___wCBVc .cart__main_item___gdkZ1 .cart__swipe_content___vqCmS .cart__info_right___IWpUL .cart__price___o8S6F {
+  width: 382rpx;
+  margin-bottom: 16rpx;
+}
+.cart__layout___wCBVc .cart__main_item___gdkZ1 .cart__swipe_content___vqCmS .cart__info_right___IWpUL .cart__price_left___EQG9H {
+  width: 214rpx;
+  height: 40rpx;
+  line-height: 52rpx;
+  color: #444444;
+}
+.cart__layout___wCBVc .cart__main_item___gdkZ1 .cart__swipe_content___vqCmS .cart__info_right___IWpUL .cart__new_price___RTo6C {
+  width: 100%;
+  color: #ff0000;
+}
+.cart__layout___wCBVc .cart__main_item___gdkZ1 .cart__swipe_content___vqCmS .cart__info_right-none___tMHZr .cart__sku___D2sPu,
+.cart__layout___wCBVc .cart__main_item___gdkZ1 .cart__swipe_content___vqCmS .cart__info_right-none___tMHZr .cart__name___SqDR0,
+.cart__layout___wCBVc .cart__main_item___gdkZ1 .cart__swipe_content___vqCmS .cart__info_right-none___tMHZr .cart__price___o8S6F {
+  opacity: 0.3;
+}
+.cart__layout___wCBVc .cart__main_item___gdkZ1 .cart__swipe_content___vqCmS .cart__act_countdown___rLrvB {
+  margin-top: 24rpx;
+  color: #0b4730;
+}
+.cart__layout___wCBVc .cart__main_item___gdkZ1 .cart__swipe_content___vqCmS .cart__act_countdown___rLrvB .cart__countdown_border___GJ5Z1 {
+  margin-bottom: 20rpx;
+  width: 614rpx;
+  border-top: 2rpx solid #e6e6e6;
+}
+.cart__layout___wCBVc .cart__main_item___gdkZ1 .cart__swipe_content___vqCmS .cart__act_countdown___rLrvB .cart__countdown_name___xQnQX {
+  max-width: 330rpx;
+}
+.cart__layout___wCBVc .cart__main_item___gdkZ1 .cart__swipe_content___vqCmS .cart__act_countdown___rLrvB .cart__countdown_num___wrywE {
+  margin-left: 4rpx;
+}
+.cart__layout___wCBVc .cart__main_item___gdkZ1 .cart__swipe_right___bsj6f {
+  width: 128rpx;
+  height: 100%;
+}
+.cart__layout___wCBVc .cart__main_item___gdkZ1 .cart__swipe_right___bsj6f .cart__swipe-del-btn___kL_JG {
+  position: relative;
+  top: 112rpx;
+  left: 48rpx;
+  width: 64rpx;
+  height: 64rpx;
+  padding: 0;
+  background: #ff0000;
+  border-radius: 50%;
+  color: var(--nut-white, #fff);
+}
+.cart__layout___wCBVc .cart__main_item___gdkZ1:last-child {
+  margin-bottom: 0;
+}
+.cart__layout___wCBVc .cart__main_line___n6Ujt {
+  width: 100%;
+  height: 16rpx;
+}
+.cart__layout___wCBVc .cart__empty_box___oFvmL {
+  width: 750rpx;
+  padding-top: 352rpx;
+}
+.cart__layout___wCBVc .cart__footer___FqOSr {
+  position: relative;
+  width: 750rpx;
+  height: 176rpx;
+  padding: 16rpx;
+  z-index: 9999;
+}
+.cart__layout___wCBVc .cart__footer_left___BeAkl {
+  height: 80rpx;
+  padding-left: 32rpx;
+  color: #a5a5a5;
+}
+.cart__layout___wCBVc .cart__footer_right___vSyHZ {
+  height: 80rpx;
+}
+.cart__layout___wCBVc .cart__footer_right-left___lI99S {
+  height: 100%;
+  line-height: 40rpx;
+  margin-right: 32rpx;
+}
+.cart__layout___wCBVc .cart__footer_right-left___lI99S .cart__left_top___CLFr_ .cart__t_text___USfR7 {
+  margin-right: 8rpx;
+}
+.cart__layout___wCBVc .cart__footer_right-left___lI99S .cart__b_text___jj_Sf {
+  color: #ff0000;
+}
+.cart__layout___wCBVc .cart__footer_right___vSyHZ .cart__set_btn___U82bN {
+  min-width: 240rpx;
+  height: 80rpx;
+}

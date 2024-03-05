@@ -1,0 +1,58 @@
+@charset "UTF-8";@import "../../sub-vendors.wxss";/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/inviteFriends/inviteFriends.vue?vue&type=style&index=0&id=75a5f97a&lang=scss&module=true ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/** 弃用，后期删除 **/
+@-webkit-keyframes inviteFriends__slide-bottom___Jejc2 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes inviteFriends__slide-bottom___Jejc2 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.inviteFriends__swiper_box___iyQAx {
+  width: 100%;
+  position: absolute;
+  text-align: center;
+}
+.inviteFriends__swiper_content___r4IEe .inviteFriends__image___59ONG {
+  width: 100%;
+  height: 1396rpx;
+  position: relative;
+}
+.inviteFriends__swiper_content___r4IEe .inviteFriends__imageQr___luR1F {
+  width: 136rpx;
+  height: 136rpx;
+  position: absolute;
+  bottom: 90rpx;
+  right: 48rpx;
+}
+.inviteFriends__btn___TI3x1 {
+  width: 690rpx;
+  height: 90rpx;
+  line-height: 90rpx;
+  color: var(--nut-white, #fff);
+  font-size: 28rpx;
+  text-align: center;
+  background: #333333;
+  border-radius: 100rpx;
+  z-index: 2;
+  margin: 48rpx 0 20rpx 0;
+}

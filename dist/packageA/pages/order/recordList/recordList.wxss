@@ -1,0 +1,154 @@
+@charset "UTF-8";@import "../../../sub-vendors.wxss";@import "../../../sub-common/483f6e9b53e3f314843b861c8637927f.wxss";/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/order/recordList/components/RecordItem/RecordItem.vue?vue&type=style&index=0&id=46b69622&lang=scss&module=true ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/** 弃用，后期删除 **/
+@-webkit-keyframes RecordItem__slide-bottom___Ix9r4 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes RecordItem__slide-bottom___Ix9r4 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.RecordItem__status_title___ewIO5 {
+  color: #333333;
+  font-family: "FZLanTingHeiS-R-GB";
+}
+.RecordItem__status_ins___utqyG {
+  max-width: 340rpx;
+}
+.RecordItem__status_ins-color___SJQ5U {
+  color: #f00;
+}
+.RecordItem__info_item___slMor {
+  width: 100%;
+  color: #a5a5a5;
+  font-family: "FZLanTingHei-R-GBK";
+}
+.RecordItem__info_item___slMor:last-child {
+  margin-bottom: 0;
+}
+.RecordItem__info_item___slMor .RecordItem__left___x2A4V {
+  margin-right: 20rpx;
+  color: #a5a5a5;
+  width: 116rpx;
+}
+.RecordItem__info_item___slMor .RecordItem__right___nSCh0 {
+  color: #333333;
+}
+.RecordItem__info_item___slMor .RecordItem__right_width___JripV {
+  max-width: 506rpx;
+}
+.RecordItem__info_item___slMor .RecordItem__item_img___s7mUE {
+  margin-right: 20rpx;
+  width: 144rpx;
+  height: 144rpx;
+}
+.RecordItem__info_item___slMor .RecordItem__screenshot___PYydx {
+  width: 506rpx;
+}
+.RecordItem__info_item___slMor .RecordItem__screenshot___PYydx .RecordItem__content___lCgh0 {
+  margin-right: 20rpx;
+  position: relative;
+  width: 144rpx;
+  height: 144rpx;
+}
+.RecordItem__info_item___slMor .RecordItem__screenshot___PYydx .RecordItem__content___lCgh0 .RecordItem__layer___XCpNn {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.1);
+  width: 100%;
+  height: 100%;
+}
+.RecordItem__info_item___slMor .RecordItem__screenshot___PYydx .RecordItem__content___lCgh0 .RecordItem__layer___XCpNn .RecordItem__icon___D1Iq8 {
+  width: 48rpx;
+  height: 48rpx;
+}
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/order/recordList/recordList.vue?vue&type=style&index=0&id=33be29f0&lang=scss&module=true ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes recordList__slide-bottom____VPs6 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes recordList__slide-bottom____VPs6 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.recordList__layout_box___fqhmZ .recordList__page_box___UXXhE {
+  padding: 28rpx 30rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  max-height: 100%;
+}
+.recordList__layout_box___fqhmZ .recordList__page_box___UXXhE .recordList__list_box___wtUIZ {
+  margin-bottom: 180rpx;
+}
+.recordList__layout_box___fqhmZ .recordList__page_box___UXXhE .recordList__list___g_64v {
+  background: #fff;
+  border-radius: 16rpx;
+}
+.recordList__layout_box___fqhmZ .recordList__page_box___UXXhE .recordList__empty_box___t_FRC {
+  margin-top: -300rpx;
+}
+.recordList__layout_box___fqhmZ .recordList__page_box___UXXhE .recordList__footer___RKWDh {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 750rpx;
+  height: 176rpx;
+  background: #fff;
+  padding: 16rpx;
+  border-radius: 56rpx 56rpx 0rpx 0rpx;
+  background: var(--bottom, rgba(165, 165, 165, 0.08));
+  -webkit-box-shadow: 0rpx 0rpx 32rpx 32rpx rgba(165, 165, 165, 0.15) inset;
+          box-shadow: 0rpx 0rpx 32rpx 32rpx rgba(165, 165, 165, 0.15) inset;
+  -webkit-backdrop-filter: blur(16rpx);
+          backdrop-filter: blur(16rpx);
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.recordList__layout_box___fqhmZ .recordList__page_box___UXXhE .recordList__footer___RKWDh .recordList__btn___tvPjQ {
+  height: 80rpx;
+  border-radius: 40rpx;
+  border: 2rpx solid #a5a5a5;
+  color: #333333;
+  font-family: "FZLanTingHei-R-GBK";
+  background: transparent;
+}

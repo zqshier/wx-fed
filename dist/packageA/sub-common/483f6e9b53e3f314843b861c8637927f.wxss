@@ -1,0 +1,64 @@
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/components/DefaultPage/DefaultPage.vue?vue&type=style&index=0&id=89aaf29e&lang=scss&module=true ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes DefaultPage__slide-bottom___Y26tv {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes DefaultPage__slide-bottom___Y26tv {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.DefaultPage__empty-box___ZCJYt {
+  width: 100%;
+  height: 100%;
+  font-size: 28rpx;
+  z-index: 2;
+}
+.DefaultPage__empty-box___ZCJYt.DefaultPage__empty-page___eFgso {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+}
+.DefaultPage__empty-box___ZCJYt .DefaultPage__empty-icon___MLaIa {
+  width: var(--89aaf29e-iWidth);
+  height: var(--89aaf29e-iHeight);
+  margin-bottom: var(--89aaf29e-iMbottom);
+}
+.DefaultPage__empty-box___ZCJYt .DefaultPage__title___JeXKd {
+  line-height: 56rpx;
+  color: #a5a5a5;
+}
+.DefaultPage__empty-box___ZCJYt .DefaultPage__empty-btn___Pz7Nx {
+  margin-top: 48rpx;
+  width: 180rpx;
+  height: 80rpx;
+  background: transparent;
+  border: 2rpx solid #a5a5a5;
+  color: #333333;
+  font-size: 28rpx;
+  font-style: normal;
+  font-weight: 400;
+  padding: 0;
+}

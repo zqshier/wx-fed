@@ -1,0 +1,64 @@
+@charset "UTF-8";@import "../../sub-vendors.wxss";/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/setting/setting.vue?vue&type=style&index=0&id=6a56dfea&lang=scss&module=true ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/** 弃用，后期删除 **/
+@-webkit-keyframes setting__slide-bottom___hzv6k {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes setting__slide-bottom___hzv6k {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.setting__layout___w28jS {
+  width: 750rpx;
+}
+.setting__layout___w28jS .setting__main___Z6gPm {
+  width: 686rpx;
+  padding: 0 36rpx;
+  margin: 32rpx auto;
+}
+.setting__layout___w28jS .setting__main___Z6gPm .setting__main-item___DgVXA {
+  position: relative;
+  width: 622rpx;
+  height: 112rpx;
+  border-bottom: 1rpx solid #e6e6e6;
+}
+.setting__layout___w28jS .setting__main___Z6gPm .setting__main-item___DgVXA .setting__img___nD2Sr {
+  width: 32rpx;
+  height: 32rpx;
+}
+.setting__layout___w28jS .setting__main___Z6gPm .setting__main-item___DgVXA:last-child {
+  border-bottom: none;
+}
+.setting__layout___w28jS .setting__main___Z6gPm .setting__footer___W_pQq {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 750rpx;
+  min-height: 176rpx;
+  padding: 16rpx;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+  border-radius: 48rpx 48rpx 0 0;
+  background: rgba(var(--nut-white, #fff), 0.8);
+  -webkit-backdrop-filter: blur(20rpx);
+          backdrop-filter: blur(20rpx);
+}

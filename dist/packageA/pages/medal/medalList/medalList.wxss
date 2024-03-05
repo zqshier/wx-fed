@@ -1,0 +1,114 @@
+@charset "UTF-8";@import "../../../sub-vendors.wxss";/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/medal/medalList/medalList.vue?vue&type=style&index=0&id=abf30a86&lang=scss&module=true ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/** 弃用，后期删除 **/
+@-webkit-keyframes medalList__slide-bottom___UDuW7 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes medalList__slide-bottom___UDuW7 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.medalList__main___xzpNm {
+  color: #333333;
+  height: 100%;
+}
+.medalList__main_personal___cxY4B {
+  margin-top: 48rpx;
+  color: #a5a5a5;
+}
+.medalList__main_name___iQluD {
+  margin-top: 8rpx;
+}
+.medalList__main_name-level___u5QR6 {
+  margin-left: 8rpx;
+}
+.medalList__main_image___f1cxv {
+  margin-top: 32rpx;
+  width: 338rpx;
+  height: 416rpx;
+}
+.medalList__main_image-z___Pz9Rd {
+  z-index: 2;
+}
+.medalList__main___xzpNm .medalList__empty_title___dWPq7 {
+  margin: 48rpx 0 8rpx 0;
+}
+.medalList__main_list___DLyNK {
+  margin-top: -60rpx;
+  padding: 112rpx 48rpx;
+  width: 100%;
+  fill: rgba(255, 255, 255, 0.08);
+  -webkit-box-shadow: -32.334rpx 32.334rpx 32.334rpx 0rpx rgba(255, 255, 255, 0.08) inset, 32.334rpx -32.334rpx 32.334rpx 0rpx rgba(165, 165, 165, 0.08) inset;
+          box-shadow: -32.334rpx 32.334rpx 32.334rpx 0rpx rgba(255, 255, 255, 0.08) inset, 32.334rpx -32.334rpx 32.334rpx 0rpx rgba(165, 165, 165, 0.08) inset;
+  -webkit-backdrop-filter: blur(16rpx);
+          backdrop-filter: blur(16rpx);
+  border-radius: 80rpx 80rpx 0 0;
+}
+.medalList__main_list___DLyNK .medalList__list_swiper___U09td {
+  width: 100%;
+}
+.medalList__main_list___DLyNK .medalList__list_swiper-item___mk2Qn {
+  padding: 0 28rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-align-content: flex-start;
+      -ms-flex-line-pack: start;
+          align-content: flex-start;
+}
+.medalList__main_list___DLyNK .medalList__list_swiper-item___mk2Qn .medalList__item_view___j1Pr6 {
+  width: 180rpx;
+  height: 208rpx;
+  margin: 0 28rpx 32rpx 0;
+}
+.medalList__main_list___DLyNK .medalList__list_swiper-item___mk2Qn .medalList__item_view___j1Pr6:nth-child(3n) {
+  margin-right: 0;
+}
+.medalList__main_list___DLyNK .medalList__list_swiper-item___mk2Qn .medalList__item_view-image___qF1Q_ {
+  width: 164rpx;
+  height: 172rpx;
+}
+.medalList__main_list___DLyNK .medalList__list_swiper-item___mk2Qn .medalList__item_view-name___o4obI {
+  max-width: 180rpx;
+}
+.medalList__main___xzpNm .medalList__indicator___hIHSP {
+  padding: 96rpx 0;
+  width: 100%;
+  height: 10rpx;
+  z-index: 2;
+}
+.medalList__main___xzpNm .medalList__indicator___hIHSP .medalList__indicator_dot___YuV7P {
+  width: 10rpx;
+  height: 10rpx;
+  background: #a5a5a5;
+  border-radius: 50%;
+  margin: 0 10rpx;
+}
+.medalList__main___xzpNm .medalList__indicator___hIHSP .medalList__indicator_dot_active___FmyBt {
+  background: #f00;
+}
+.medalList__main___xzpNm .medalList__description_image___RvDLq {
+  width: 650rpx;
+  display: inline-block;
+}
+.medalList__view-on___t5r0O {
+  opacity: 0;
+}

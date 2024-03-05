@@ -1,0 +1,142 @@
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-8.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-8.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-8.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/pages/pointmall/pointmall.vue?vue&type=style&index=0&id=585a7fa5&lang=scss ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes slide-bottom {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes slide-bottom {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.pointmall_tabs {
+  width: 654rpx;
+}
+.pointmall_tabs .nut-tabs__titles {
+  background-color: var(--nut-white, #fff);
+  border-bottom: 1rpx solid #d9d9d9;
+}
+.pointmall_tabs .nut-tabs__titles.scrollable .nut-tabs__titles-item {
+  width: 164rpx;
+}
+.pointmall_tabs .nut-tabs__titles.scrollable .nut-tabs__titles-item:last-child {
+  width: 0;
+}
+.pointmall_tabs .nut-tabs__titles-item {
+  color: #a5a5a5;
+  padding: 48rpx 0 16rpx;
+}
+.pointmall_tabs .nut-tabs__titles-item.active {
+  color: #333333;
+}
+.pointmall_tabs .nut-tabs__titles-item.active .nut-tabs__titles-item__line {
+  width: 0;
+  height: 0;
+}
+.pointmall_tabs .nut-tabs__titles-item .nut-tabs__titles-item__text {
+  font-size: 24rpx;
+  z-index: 1;
+}
+.pointmall_tabs .nut-tabs__content .nut-tab-pane {
+  padding: 0;
+}
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/pages/pointmall/pointmall.vue?vue&type=style&index=1&id=585a7fa5&lang=scss&module=true ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes pointmall__slide-bottom___PpaSU {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes pointmall__slide-bottom___PpaSU {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.pointmall__layout___f8Qr9 {
+  background: var(--585a7fa5-bgImg);
+  background-size: 750rpx 1624rpx;
+  background-repeat: no-repeat;
+}
+.pointmall__layout___f8Qr9 .pointmall__user___yQ6NM {
+  width: 750rpx;
+  height: 524rpx;
+  padding: 232rpx 64rpx 64rpx;
+  margin-bottom: 16rpx;
+}
+.pointmall__layout___f8Qr9 .pointmall__info___wHwzX {
+  width: 718rpx;
+  padding: 32rpx;
+  background: var(--nut-white, #fff);
+  border-radius: 48rpx 48rpx 0 0;
+  -webkit-box-shadow: 0 8rpx 20rpx 0 rgba(165, 165, 165, 0.65);
+          box-shadow: 0 8rpx 20rpx 0 rgba(165, 165, 165, 0.65);
+  margin: 0 auto;
+}
+.pointmall__layout___f8Qr9 .pointmall__main___vHenB {
+  width: 100%;
+}
+.pointmall__layout___f8Qr9 .pointmall__main_task___oiCQz .pointmall__title___xBCsm {
+  width: 654rpx;
+  height: 80rpx;
+  line-height: 80rpx;
+  margin-bottom: 16rpx;
+}
+.pointmall__layout___f8Qr9 .pointmall__main___vHenB .pointmall__goods___Sg5QY {
+  width: 654rpx;
+  min-height: 466rpx;
+}
+.pointmall__layout___f8Qr9 .pointmall__main___vHenB .pointmall__goods_list___YgHIj {
+  width: 318rpx;
+  min-height: 462rpx;
+  margin: 16rpx 0 32rpx;
+}
+.pointmall__layout___f8Qr9 .pointmall__main___vHenB .pointmall__goods_list___YgHIj .pointmall__point_box____ZXZ3 {
+  width: 318rpx;
+}
+.pointmall__layout___f8Qr9 .pointmall__main___vHenB .pointmall__goods_list___YgHIj .pointmall__image___TGDgM {
+  width: 318rpx;
+  height: 354rpx;
+  margin-bottom: 24rpx;
+}
+.pointmall__layout___f8Qr9 .pointmall__main___vHenB .pointmall__goods_list___YgHIj .pointmall__name___DMlKS {
+  line-height: 40rpx;
+  margin-bottom: 8rpx;
+}
+.pointmall__layout___f8Qr9 .pointmall__main___vHenB .pointmall__goods_list___YgHIj .pointmall__point___rtSYO {
+  margin-right: 4rpx;
+}

@@ -1,0 +1,187 @@
+@charset "UTF-8";@import "../../../sub-vendors.wxss";@import "../../../sub-common/483f6e9b53e3f314843b861c8637927f.wxss";/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/order/orderList/components/ProductItem/ProductItem.vue?vue&type=style&index=0&id=1e86ca76&lang=scss&module=true ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/** 弃用，后期删除 **/
+@-webkit-keyframes ProductItem__slide-bottom___piAMq {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes ProductItem__slide-bottom___piAMq {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.ProductItem__orderbox_layout___XTyJi {
+  width: 686rpx;
+  padding: 32rpx;
+  margin: 0 auto;
+  border: 0rpx solid #d9d9d9;
+  background: #fff;
+}
+.ProductItem__orderbox_layout___XTyJi .ProductItem__item_top___BbUAX {
+  width: 622rpx;
+  height: 52rpx;
+  padding-bottom: 16rpx;
+  margin-bottom: 24rpx;
+  border-bottom: 2rpx solid #d9d9d9;
+}
+.ProductItem__orderbox_layout___XTyJi .ProductItem__item_top-l___R6oXu {
+  color: #a5a5a5;
+  font-family: "FZLanTingHei-R-GBK";
+  line-height: 36rpx;
+  max-width: 370rpx;
+}
+.ProductItem__orderbox_layout___XTyJi .ProductItem__item_top-l___R6oXu .ProductItem__copy_image___jtfhB {
+  width: 32rpx;
+  height: 32rpx;
+  margin-left: 8rpx;
+}
+.ProductItem__orderbox_layout___XTyJi .ProductItem__item_top___BbUAX .ProductItem__status___wKzCj {
+  color: #333333;
+  font-family: "FZLanTingHei-R-GBK";
+}
+.ProductItem__orderbox_layout___XTyJi .ProductItem__item_top___BbUAX .ProductItem__status_active___e_M0B {
+  color: var(--brand, #f00);
+  font-family: "CentraleSans";
+}
+.ProductItem__orderbox_layout___XTyJi .ProductItem__item_top___BbUAX .ProductItem__countdown___AP8ek {
+  width: 94rpx;
+  font-size: 24rpx;
+  margin-left: 8rpx;
+}
+.ProductItem__orderbox_layout___XTyJi .ProductItem__item_center___ZsW3K {
+  width: 622rpx;
+}
+.ProductItem__orderbox_layout___XTyJi .ProductItem__item_center___ZsW3K .ProductItem__order_info___rq7AR {
+  width: 622rpx;
+  color: #333333;
+  font-family: "FZLanTingHei-R-GBK";
+}
+.ProductItem__orderbox_layout___XTyJi .ProductItem__item_center___ZsW3K .ProductItem__order_info___rq7AR .ProductItem__amount-title___EzB8O {
+  color: #a5a5a5;
+  line-height: 28rpx;
+}
+.ProductItem__orderbox_layout___XTyJi .ProductItem__item_center___ZsW3K .ProductItem__order_info___rq7AR .ProductItem__payment-title___R6QE4 {
+  line-height: 36rpx;
+  margin-left: 32rpx;
+}
+.ProductItem__orderbox_layout___XTyJi .ProductItem__item_center___ZsW3K .ProductItem__order_info___rq7AR .ProductItem__payment-title___R6QE4 .ProductItem__order_info_num___W2S2y {
+  line-height: 40rpx;
+}
+.ProductItem__orderbox_layout___XTyJi .ProductItem__item_center___ZsW3K .ProductItem__order_info_num___W2S2y {
+  line-height: 36rpx;
+}
+.ProductItem__item_bottom___xXFPZ {
+  margin: 24rpx 0;
+}
+.ProductItem__item_bottom___xXFPZ .ProductItem__btn___hrz6G {
+  width: 160rpx;
+  padding: 0;
+  margin-right: 20rpx;
+}
+.ProductItem__item_bottom___xXFPZ .ProductItem__btn2___wkBLQ {
+  border-color: #444444;
+  color: #444444;
+}
+.ProductItem__item_bottom___xXFPZ .ProductItem__btn3___tL5mt {
+  color: #444444;
+  border-color: #444444;
+}
+.ProductItem__item_bottom___xXFPZ .ProductItem__btn___hrz6G:last-child {
+  margin-right: 0;
+}
+.ProductItem__comment___LqeGG {
+  margin-top: 24rpx;
+}
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/order/orderList/orderList.vue?vue&type=style&index=0&id=856c3ffc&lang=scss&module=true ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes orderList__slide-bottom___IiCkP {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes orderList__slide-bottom___IiCkP {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.orderList__tabs_layout___mwfqm {
+  height: calc(100vh - var(--856c3ffc-nabbarHeight));
+  margin-top: 24rpx;
+}
+.orderList__tabs_layout___mwfqm .orderList__tabs___jE3H4 {
+  width: 686rpx;
+  margin: 24rpx auto;
+  margin-top: 0;
+  border-bottom: 1rpx solid var(--divide, #d9d9d9);
+  z-index: 2;
+}
+.orderList__tabs_layout___mwfqm .orderList__tabs_item___bzPio {
+  width: 136rpx;
+  height: 36rpx;
+  padding: 24rpx 0 16rpx 0;
+  -webkit-box-sizing: content-box;
+          box-sizing: content-box;
+}
+.orderList__tabs_layout___mwfqm .orderList__tabs_item___bzPio .orderList__item_name___TWSNN {
+  color: #a5a5a5;
+  font-family: "FZLanTingHei-R-GBK";
+}
+.orderList__tabs_layout___mwfqm .orderList__tabs_item___bzPio .orderList__item_name-on___X4ejq {
+  color: #333333;
+  font-weight: 700;
+}
+.orderList__tabs_layout___mwfqm .orderList__swiper_box___lATxQ {
+  width: 750rpx;
+  -webkit-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  max-height: 100%;
+}
+.orderList__tabs_layout___mwfqm .orderList__swiper_box___lATxQ .orderList__swiper_item____HVl_ {
+  color: #a5a5a5;
+  height: 100%;
+}
+.orderList__tabs_layout___mwfqm .orderList__swiper_box___lATxQ .orderList__swiper_item-view___tlb6W {
+  width: 100%;
+  height: 100%;
+}
+.orderList__tabs_layout___mwfqm .orderList__swiper_box___lATxQ .orderList__swiper_item____HVl_ .orderList__page_box-item___mVwh4 {
+  padding-bottom: 36rpx;
+}
+.orderList__tabs_layout___mwfqm .orderList__swiper_box___lATxQ .orderList__swiper_item____HVl_ .orderList__empty_box___LT0hR {
+  padding-top: 352rpx;
+}

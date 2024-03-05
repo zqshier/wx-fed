@@ -1,0 +1,22 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: calc(100vh - 96rpx - env(safe-area-inset-bottom));
+  height: calc(100vh - 96rpx - env(safe-area-inset-bottom));
+  position: relative;
+}
+
+.loading {
+  width: 100px;
+  height: 100px;
+}
+.bg {
+  width: 100px;
+  height: 100px;
+  background: white;
+  // background: red;
+  position: absolute;
+  z-index: 10;
+}

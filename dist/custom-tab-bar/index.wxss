@@ -1,0 +1,99 @@
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-8.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-8.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-8.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/custom-tab-bar/index.vue?vue&type=style&index=0&id=ef8866ca&lang=scss ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes slide-bottom {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes slide-bottom {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.tab-bar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 224rpx;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: flex-start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 18rpx 32rpx 0;
+  pointer-events: auto;
+  background: rgba(165, 165, 165, 0.08);
+  -webkit-box-shadow: inset 32.3334rpx -32.3334rpx 32.3334rpx rgba(165, 165, 165, 0.077), inset -32.3334rpx 32.3334rpx 32.3334rpx rgba(255, 255, 255, 0.077);
+          box-shadow: inset 32.3334rpx -32.3334rpx 32.3334rpx rgba(165, 165, 165, 0.077), inset -32.3334rpx 32.3334rpx 32.3334rpx rgba(255, 255, 255, 0.077);
+  border-radius: 100rpx 100rpx 0rpx 0rpx;
+  -webkit-backdrop-filter: blur(15.52rpx);
+          backdrop-filter: blur(15.52rpx);
+}
+.tab-bar::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  -webkit-filter: blur(20rpx);
+          filter: blur(20rpx);
+  z-index: -1;
+}
+.tab-bar .tab-bar-item {
+  position: relative;
+  text-align: center;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  width: 128rpx;
+  height: 168rpx;
+}
+.tab-bar .tab-bar-item .icon {
+  width: 40rpx;
+  height: 40rpx;
+  margin-bottom: 14rpx;
+}
+.tab-bar .tab-bar-item .text {
+  font-size: 20rpx;
+}
+.tab-bar .tab-bar-circle {
+  position: absolute;
+  top: 0;
+  width: 168rpx;
+  height: 168rpx;
+  border-radius: 168rpx;
+  background: transparent;
+  z-index: -1;
+}

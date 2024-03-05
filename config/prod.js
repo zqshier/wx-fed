@@ -1,0 +1,22 @@
+module.exports = {
+  env: {
+    NODE_ENV: '"production"',
+    APP_ID: '"zippo"',
+    API_HOST: '"https://wx-center.zippo.com.cn"',
+    // API_HOST_OLD: '"https://membercenter.zippo.com.cn/s2"',
+    // API_JAVA_HOST: '"https://mc-admin-api.zippo.com.cn/fwyz"',
+    CDN_OLD_HOST: '"https://membercenter.zippo.com.cn"',
+    CDN_HOST: '"https://wx-center-cdn.zippo.com.cn"',
+    // SERVICE_LINK: '"https://work.weixin.qq.com/kfid/kfcd790845827bcdc9e"',
+    // CORP_ID: '"ww770d344e27579508"',
+    // MAILBOX_SUFFIX: '"@beiwei47.cn,@ugrow.cn"',
+    COUPON_EXPIRE_MID: '"KCo8CDmpAUdT5dc20kXFiSs1AaP5DZc_TBSeARmtr54"',
+    PAYMENT_MID: '"bIeOuKH-5yuhpeA42Y2V422W-wfL2Ce6QFeucCctSd4"',
+    GOODS_ARRIVE_MID: '"YLNKNwQm1KCM_kc9tCOsImqBJwd0WXiBNkK9Co4cu4E"',
+    ACTIVITY_START_MID: '"hNjzAYCFyd-j_VUP7uxRzJwKDpcw6fZ1pm2iCV2U35U"',
+    MEDALS_MID: '"SvqV7EFUqRjjLJCeNb8V0R-673HWeJzfxi213W9a75o"',
+    LINK_FLOW_TEST: 'false',
+  },
+  defineConstants: {},
+  mini: {},
+};

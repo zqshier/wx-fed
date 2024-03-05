@@ -1,0 +1,89 @@
+/*! -!../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./noticeCenter.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./noticeCenter.vue?vue&type=template&id=0a73c86e&ts=true */
+
+/*! -!../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../node_modules/mini-css-extract-plugin/dist/loader.js!../../../../node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!../../../../node_modules/vue-loader/dist/stylePostLoader.js!../../../../node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!../../../../node_modules/resolve-url-loader/index.js!../../../../node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./noticeCenter.vue?vue&type=style&index=0&id=0a73c86e&lang=scss&module=true */
+
+/*! .. */
+
+/*! ../../../../node_modules/@tarojs/taro-loader/lib/raw.js!./noticeCenter.vue */
+
+/*! ./node_modules/@babel/runtime/helpers/esm/asyncToGenerator.js */
+
+/*! ./node_modules/@babel/runtime/helpers/esm/objectSpread2.js */
+
+/*! ./node_modules/@babel/runtime/helpers/esm/regeneratorRuntime.js */
+
+/*! ./node_modules/vue-loader/dist/exportHelper.js */
+
+/*! ./noticeCenter.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./noticeCenter.vue?vue&type=style&index=0&id=0a73c86e&lang=scss&module=true */
+
+/*! ./noticeCenter.vue?vue&type=template&id=0a73c86e&ts=true */
+
+/*! ./src/components/CustomBar/CustomBar.vue */
+
+/*! ./src/components/DefaultPage/DefaultPage.vue */
+
+/*! @/api-old */
+
+/*! @/components/BackgroundImage/BackgroundImage.vue */
+
+/*! @/constants */
+
+/*! @/static/icon/no-msg.png */
+
+/*! @/stores/modules/user */
+
+/*! @/utils */
+
+/*! @/utils/http/old_client */
+
+/*! @tarojs/runtime */
+
+/*! @tarojs/taro */
+
+/*! date-fns */
+
+/*! vue */
+
+/*!******************************!*\
+  !*** ./src/api-old/index.ts ***!
+  \******************************/
+
+/*!**************************************!*\
+  !*** ./src/utils/http/old_client.ts ***!
+  \**************************************/
+
+/*!**********************************************************!*\
+  !*** ./src/packageA/pages/noticeCenter/noticeCenter.vue ***!
+  \**********************************************************/
+
+/*!*********************************************************************************************!*\
+  !*** ./src/packageA/pages/noticeCenter/noticeCenter.vue?vue&type=script&setup=true&lang=ts ***!
+  \*********************************************************************************************/
+
+/*!************************************************************************************************!*\
+  !*** ./src/packageA/pages/noticeCenter/noticeCenter.vue?vue&type=template&id=0a73c86e&ts=true ***!
+  \************************************************************************************************/
+
+/*!********************************************************************************************************!*\
+  !*** ./node_modules/@tarojs/taro-loader/lib/raw.js!./src/packageA/pages/noticeCenter/noticeCenter.vue ***!
+  \********************************************************************************************************/
+
+/*!*******************************************************************************************************************!*\
+  !*** ./src/packageA/pages/noticeCenter/noticeCenter.vue?vue&type=style&index=0&id=0a73c86e&lang=scss&module=true ***!
+  \*******************************************************************************************************************/
+
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/noticeCenter/noticeCenter.vue?vue&type=script&setup=true&lang=ts ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/noticeCenter/noticeCenter.vue?vue&type=template&id=0a73c86e&ts=true ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/mini-css-extract-plugin/dist/loader.js!./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/noticeCenter/noticeCenter.vue?vue&type=style&index=0&id=0a73c86e&lang=scss&module=true ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/

@@ -1,0 +1,84 @@
+.orderbox_layout {
+  width: 343px;
+  padding: 16px;
+  margin: 0 auto;
+  border: 0px solid #d9d9d9;
+  background: #fff;
+
+  .item_top {
+    width: 311px;
+    height: 26px;
+    padding-bottom: 8px;
+    margin-bottom: 12px;
+    border-bottom: 1px solid #d9d9d9;
+    &-l {
+      color: $Tertiary;
+      font-family: 'FZLanTingHei-R-GBK';
+      line-height: 18px;
+      max-width: 185px;
+      .copy_image {
+        width: 16px;
+        height: 16px;
+        margin-left: 4px;
+      }
+    }
+    .status {
+      color: $Primary;
+      font-family: 'FZLanTingHei-R-GBK';
+    }
+    .status_active {
+      color: var(--brand, #f00);
+      font-family: 'CentraleSans';
+    }
+    .countdown {
+      width: 47px;
+      font-size: 12px;
+      margin-left: 4px;
+    }
+  }
+  .item_center {
+    width: 311px;
+    .order_info {
+      width: 311px;
+      color: $Primary;
+      font-family: 'FZLanTingHei-R-GBK';
+      .amount-title {
+        color: $Tertiary;
+        line-height: 14px;
+      }
+      .payment-title {
+        line-height: 18px;
+        margin-left: 16px;
+        .order_info_num {
+          line-height: 20px;
+        }
+      }
+      &_num {
+        line-height: 18px;
+      }
+    }
+  }
+}
+.item_bottom {
+  margin: 12px 0;
+  .btn {
+    width: 80px;
+    padding: 0;
+    margin-right: 10px;
+  }
+  .btn2 {
+    border-color: $Secendary;
+    color: $Secendary;
+  }
+  .btn3 {
+    color: $font-color;
+    border-color: $font-color;
+  }
+  .btn:last-child {
+    margin-right: 0;
+  }
+}
+
+.comment{
+  margin-top: 12px;
+}

@@ -1,0 +1,162 @@
+@charset "UTF-8";@import "../../sub-vendors.wxss";@import "../../sub-common/483f6e9b53e3f314843b861c8637927f.wxss";/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/myFavorites/components/ProductInfo/ProductInfo.vue?vue&type=style&index=0&id=08b2eaa8&lang=scss&module=true ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/** 弃用，后期删除 **/
+@-webkit-keyframes ProductInfo__slide-bottom___KhpKI {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes ProductInfo__slide-bottom___KhpKI {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.ProductInfo__box___EsAn4 {
+  width: 100%;
+}
+.ProductInfo__box-none___vkuhW .ProductInfo__title___KBXP2,
+.ProductInfo__box-none___vkuhW .ProductInfo__info_size____NFvL,
+.ProductInfo__box-none___vkuhW .ProductInfo__info_price___HNKBo {
+  opacity: 0.3;
+}
+.ProductInfo__box___EsAn4 .ProductInfo__info_image___x3PLY {
+  position: relative;
+}
+.ProductInfo__box___EsAn4 .ProductInfo__info_image___x3PLY .ProductInfo__image___zncui {
+  margin-right: 32rpx;
+  width: 144rpx;
+  height: 160rpx;
+  background: #fff;
+}
+.ProductInfo__box___EsAn4 .ProductInfo__info_image-none___nJ2r7 {
+  position: absolute;
+  top: 24rpx;
+  left: 16rpx;
+  width: 112rpx;
+  height: 112rpx;
+  color: var(--nut-white, #fff);
+  background-color: rgba(51, 51, 51, 0.7);
+  border-radius: 64rpx;
+  z-index: 1;
+}
+.ProductInfo__box___EsAn4 .ProductInfo__info___emL2j {
+  height: 160rpx;
+}
+.ProductInfo__box___EsAn4 .ProductInfo__info___emL2j .ProductInfo__title___KBXP2 {
+  margin: 8rpx 0 12rpx 0;
+  color: #444444;
+  font-family: "FZLanTingHei-R-GBK";
+  line-height: 40rpx;
+}
+.ProductInfo__box___EsAn4 .ProductInfo__info___emL2j .ProductInfo__info_center___bW_Ib .ProductInfo__info_size____NFvL {
+  font-family: "FZLanTingHei-R-GBK";
+  color: #a5a5a5;
+  line-height: 36rpx;
+}
+.ProductInfo__box___EsAn4 .ProductInfo__info___emL2j .ProductInfo__info_center___bW_Ib .ProductInfo__info_size-mg___je_xd {
+  position: relative;
+  padding-right: 6rpx;
+  margin-right: 6rpx;
+}
+.ProductInfo__box___EsAn4 .ProductInfo__info___emL2j .ProductInfo__info_center___bW_Ib .ProductInfo__info_size-mg___je_xd::after {
+  content: ",";
+  position: absolute;
+  top: 40%;
+  right: 0;
+  width: 2rpx;
+  height: 100%;
+  -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+.ProductInfo__box___EsAn4 .ProductInfo__info___emL2j .ProductInfo__info_center___bW_Ib .ProductInfo__info_size-mg___je_xd:last-child {
+  padding-right: 0;
+  margin-right: 0;
+}
+.ProductInfo__box___EsAn4 .ProductInfo__info___emL2j .ProductInfo__info_center___bW_Ib .ProductInfo__info_size-mg___je_xd:last-child::after {
+  font-size: 0;
+}
+.ProductInfo__box___EsAn4 .ProductInfo__info___emL2j .ProductInfo__info_center___bW_Ib .ProductInfo__info_price___HNKBo {
+  line-height: 52rpx;
+  color: #333333;
+  font-family: "CentraleSans";
+}
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/myFavorites/myFavorites.vue?vue&type=style&index=0&id=31c28cfe&lang=scss&module=true ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes myFavorites__slide-bottom___TZ8T9 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes myFavorites__slide-bottom___TZ8T9 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.myFavorites__main___uuWOC {
+  overflow: hidden;
+  margin-bottom: 40rpx;
+}
+.myFavorites__main___uuWOC .myFavorites__product-warp___CQGUZ {
+  width: 686rpx;
+  margin-top: 32rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.myFavorites__main___uuWOC .myFavorites__product-danger___tCIWM {
+  height: 100%;
+}
+.myFavorites__main___uuWOC .myFavorites__product-danger_content___I04WV {
+  margin-left: 48rpx;
+  width: 64rpx;
+  height: 64rpx;
+  background: #ff0000;
+  border-radius: 50%;
+  color: #fff;
+}
+.myFavorites__main___uuWOC .myFavorites__product-danger___tCIWM .myFavorites__content_cart___YVgvL {
+  background: #333333;
+}
+.myFavorites__main___uuWOC .myFavorites__product-danger___tCIWM .myFavorites__content_cart___YVgvL .myFavorites__img___kxpUb {
+  z-index: 2;
+  width: 48rpx;
+  height: 48rpx;
+}
+.myFavorites__main___uuWOC .myFavorites__empty_box___uzHST {
+  margin-top: 352rpx;
+  width: 100%;
+  height: 100%;
+}

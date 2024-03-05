@@ -1,0 +1,163 @@
+/*! -!../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./CategoryNav.vue?vue&type=script&lang=ts&setup=true */
+
+/*! -!../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./ShopWrap.vue?vue&type=script&lang=ts&setup=true */
+
+/*! -!../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./CategoryNav.vue?vue&type=template&id=08fcfab2&ts=true */
+
+/*! -!../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./ShopWrap.vue?vue&type=template&id=4e97fbee&ts=true */
+
+/*! -!../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../node_modules/mini-css-extract-plugin/dist/loader.js!../../../../../node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!../../../../../node_modules/vue-loader/dist/stylePostLoader.js!../../../../../node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!../../../../../node_modules/resolve-url-loader/index.js!../../../../../node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./CategoryNav.vue?vue&type=style&index=0&id=08fcfab2&lang=scss&module=true */
+
+/*! -!../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../node_modules/mini-css-extract-plugin/dist/loader.js!../../../../../node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!../../../../../node_modules/vue-loader/dist/stylePostLoader.js!../../../../../node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!../../../../../node_modules/resolve-url-loader/index.js!../../../../../node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./ShopWrap.vue?vue&type=style&index=0&id=4e97fbee&lang=scss&module=true */
+
+/*! -!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./shop.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./shop.vue?vue&type=template&id=78cb6dca&ts=true */
+
+/*! -!../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../node_modules/mini-css-extract-plugin/dist/loader.js!../../../node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!../../../node_modules/vue-loader/dist/stylePostLoader.js!../../../node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!../../../node_modules/resolve-url-loader/index.js!../../../node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./shop.vue?vue&type=style&index=0&id=78cb6dca&lang=scss&module=true */
+
+/*! ../../../node_modules/@tarojs/taro-loader/lib/raw.js!./shop.vue */
+
+/*! ./CategoryNav.vue?vue&type=script&lang=ts&setup=true */
+
+/*! ./CategoryNav.vue?vue&type=style&index=0&id=08fcfab2&lang=scss&module=true */
+
+/*! ./CategoryNav.vue?vue&type=template&id=08fcfab2&ts=true */
+
+/*! ./ShopWrap.vue */
+
+/*! ./ShopWrap.vue?vue&type=script&lang=ts&setup=true */
+
+/*! ./ShopWrap.vue?vue&type=style&index=0&id=4e97fbee&lang=scss&module=true */
+
+/*! ./ShopWrap.vue?vue&type=template&id=4e97fbee&ts=true */
+
+/*! ./components/CategoryNav/CategoryNav.vue */
+
+/*! ./node_modules/@babel/runtime/helpers/esm/asyncToGenerator.js */
+
+/*! ./node_modules/@babel/runtime/helpers/esm/defineProperty.js */
+
+/*! ./node_modules/@babel/runtime/helpers/esm/regeneratorRuntime.js */
+
+/*! ./node_modules/vue-loader/dist/exportHelper.js */
+
+/*! ./shop.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./shop.vue?vue&type=style&index=0&id=78cb6dca&lang=scss&module=true */
+
+/*! ./shop.vue?vue&type=template&id=78cb6dca&ts=true */
+
+/*! ./src/components/CustomBar/CustomBar.vue */
+
+/*! ./src/components/Loading/Loading.vue */
+
+/*! @/api/goods */
+
+/*! @/components/CustomBar/props */
+
+/*! @/components/CustomNavBack/CustomNavBack.vue */
+
+/*! @/constants */
+
+/*! @/static/icon/arr-s.png */
+
+/*! @/stores */
+
+/*! @/utils */
+
+/*! @/utils/track */
+
+/*! @tarojs/runtime */
+
+/*! @tarojs/taro */
+
+/*! vue */
+
+/*!*********************************!*\
+  !*** ./src/pages/shop/shop.vue ***!
+  \*********************************/
+
+/*!************************************************************!*\
+  !*** ./src/pages/shop/components/CategoryNav/ShopWrap.vue ***!
+  \************************************************************/
+
+/*!***************************************************************!*\
+  !*** ./src/pages/shop/components/CategoryNav/CategoryNav.vue ***!
+  \***************************************************************/
+
+/*!********************************************************************!*\
+  !*** ./src/pages/shop/shop.vue?vue&type=script&setup=true&lang=ts ***!
+  \********************************************************************/
+
+/*!***********************************************************************!*\
+  !*** ./src/pages/shop/shop.vue?vue&type=template&id=78cb6dca&ts=true ***!
+  \***********************************************************************/
+
+/*!*******************************************************************************!*\
+  !*** ./node_modules/@tarojs/taro-loader/lib/raw.js!./src/pages/shop/shop.vue ***!
+  \*******************************************************************************/
+
+/*!******************************************************************************************!*\
+  !*** ./src/pages/shop/shop.vue?vue&type=style&index=0&id=78cb6dca&lang=scss&module=true ***!
+  \******************************************************************************************/
+
+/*!***********************************************************************************************!*\
+  !*** ./src/pages/shop/components/CategoryNav/ShopWrap.vue?vue&type=script&lang=ts&setup=true ***!
+  \***********************************************************************************************/
+
+/*!**************************************************************************************************!*\
+  !*** ./src/pages/shop/components/CategoryNav/CategoryNav.vue?vue&type=script&lang=ts&setup=true ***!
+  \**************************************************************************************************/
+
+/*!**************************************************************************************************!*\
+  !*** ./src/pages/shop/components/CategoryNav/ShopWrap.vue?vue&type=template&id=4e97fbee&ts=true ***!
+  \**************************************************************************************************/
+
+/*!*****************************************************************************************************!*\
+  !*** ./src/pages/shop/components/CategoryNav/CategoryNav.vue?vue&type=template&id=08fcfab2&ts=true ***!
+  \*****************************************************************************************************/
+
+/*!*********************************************************************************************************************!*\
+  !*** ./src/pages/shop/components/CategoryNav/ShopWrap.vue?vue&type=style&index=0&id=4e97fbee&lang=scss&module=true ***!
+  \*********************************************************************************************************************/
+
+/*!************************************************************************************************************************!*\
+  !*** ./src/pages/shop/components/CategoryNav/CategoryNav.vue?vue&type=style&index=0&id=08fcfab2&lang=scss&module=true ***!
+  \************************************************************************************************************************/
+
+/*!************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/pages/shop/shop.vue?vue&type=script&setup=true&lang=ts ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/pages/shop/components/CategoryNav/ShopWrap.vue?vue&type=script&lang=ts&setup=true ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/pages/shop/components/CategoryNav/CategoryNav.vue?vue&type=script&lang=ts&setup=true ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/pages/shop/shop.vue?vue&type=template&id=78cb6dca&ts=true ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/pages/shop/components/CategoryNav/ShopWrap.vue?vue&type=template&id=4e97fbee&ts=true ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/pages/shop/components/CategoryNav/CategoryNav.vue?vue&type=template&id=08fcfab2&ts=true ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/mini-css-extract-plugin/dist/loader.js!./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/pages/shop/shop.vue?vue&type=style&index=0&id=78cb6dca&lang=scss&module=true ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/mini-css-extract-plugin/dist/loader.js!./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/pages/shop/components/CategoryNav/ShopWrap.vue?vue&type=style&index=0&id=4e97fbee&lang=scss&module=true ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/mini-css-extract-plugin/dist/loader.js!./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/pages/shop/components/CategoryNav/CategoryNav.vue?vue&type=style&index=0&id=08fcfab2&lang=scss&module=true ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/

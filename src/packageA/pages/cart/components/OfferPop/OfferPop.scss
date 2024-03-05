@@ -1,0 +1,28 @@
+.offer_pop-layout {
+  width: 375px;
+  height: 326px;
+
+  .title {
+    width: 345px;
+    padding: 32px 0 24px;
+    margin: 0 auto;
+    color: $Primary;
+    text-align: center;
+  }
+  .item {
+    width: 375px;
+    height: 40px;
+    padding: 0 16px;
+    .num {
+      color: $Primary;
+    }
+    .num_2 {
+      color: $Brand;
+    }
+  }
+
+  .tips {
+    color: $Tertiary;
+    padding: 4px 16px;
+  }
+}

@@ -1,0 +1,32 @@
+.itemBox {
+  width: 343px;
+  height: 96px;
+  padding: 16px;
+  margin-bottom: 16px;
+  border: 0.5px solid $Divide;
+  background: $white;
+  border-radius: 8px;
+  .image_box {
+    width: 64px;
+    height: 64px;
+    margin-right: 16px;
+    .image {
+      width: 100%;
+      height: 100%;
+    }
+  }
+  &_content {
+    margin-right: 5px;
+    .content-type {
+      line-height: 24px;
+      margin-bottom: 4px;
+    }
+    .content-time {
+      color: $Tertiary;
+    }
+  }
+  &_btn {
+    min-width: 64px;
+    height: 32px;
+  }
+}

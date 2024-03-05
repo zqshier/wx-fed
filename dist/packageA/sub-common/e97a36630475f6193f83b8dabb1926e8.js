@@ -1,0 +1,2 @@
+/*! For license information please see e97a36630475f6193f83b8dabb1926e8.js.LICENSE.txt */
+"use strict";(wx.webpackJsonp=wx.webpackJsonp||[]).push([["sub-common/e97a36630475f6193f83b8dabb1926e8"],{"./src/static/icon/play.png":function(p,c,s){p.exports=s.p+"static/icon/play.png"}}]);

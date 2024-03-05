@@ -1,0 +1,85 @@
+@charset "UTF-8";@import "../../sub-vendors.wxss";/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/verifyFinishInfo/verifyFinishInfo.vue?vue&type=style&index=0&id=2dfd1f2e&lang=scss&module=true ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/** 弃用，后期删除 **/
+@-webkit-keyframes verifyFinishInfo__slide-bottom___XpH3y {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes verifyFinishInfo__slide-bottom___XpH3y {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.verifyFinishInfo__layout___YFuvk .verifyFinishInfo__main___e6KU_ {
+  width: 750rpx;
+  padding: 48rpx 64rpx;
+}
+.verifyFinishInfo__layout___YFuvk .verifyFinishInfo__main___e6KU_ .verifyFinishInfo__info___yCYMw {
+  width: 100%;
+  margin-bottom: 80rpx;
+}
+.verifyFinishInfo__layout___YFuvk .verifyFinishInfo__main___e6KU_ .verifyFinishInfo__info_item___hc3vL .verifyFinishInfo__label___dYrdC {
+  width: 160rpx;
+  padding-bottom: 16rpx;
+  color: #333333;
+}
+.verifyFinishInfo__layout___YFuvk .verifyFinishInfo__main___e6KU_ .verifyFinishInfo__info_item___hc3vL .verifyFinishInfo__item_bottom____w7BT {
+  margin-bottom: -16rpx;
+}
+.verifyFinishInfo__layout___YFuvk .verifyFinishInfo__main___e6KU_ .verifyFinishInfo__info_item___hc3vL .verifyFinishInfo__item_bottom____w7BT .verifyFinishInfo__radio_box___zclsw {
+  width: 302rpx;
+  height: 60rpx;
+  padding: 12rpx 0;
+  color: #a5a5a5;
+  margin-bottom: 16rpx;
+}
+.verifyFinishInfo__layout___YFuvk .verifyFinishInfo__main___e6KU_ .verifyFinishInfo__info_item___hc3vL .verifyFinishInfo__item_bottom____w7BT .verifyFinishInfo__radio_box___zclsw .verifyFinishInfo__radio___UwoAw {
+  width: 32rpx;
+  height: 32rpx;
+  border: 2rpx solid #a5a5a5;
+  border-radius: 48rpx;
+  margin-right: 16rpx;
+}
+.verifyFinishInfo__layout___YFuvk .verifyFinishInfo__main___e6KU_ .verifyFinishInfo__info_item___hc3vL .verifyFinishInfo__item_bottom____w7BT .verifyFinishInfo__radio_box___zclsw.verifyFinishInfo__active___ojDMq {
+  color: #333333;
+}
+.verifyFinishInfo__layout___YFuvk .verifyFinishInfo__main___e6KU_ .verifyFinishInfo__info_item___hc3vL .verifyFinishInfo__item_bottom____w7BT .verifyFinishInfo__radio_box___zclsw.verifyFinishInfo__active___ojDMq .verifyFinishInfo__radio___UwoAw {
+  position: relative;
+  border-color: #ff0000;
+}
+.verifyFinishInfo__layout___YFuvk .verifyFinishInfo__main___e6KU_ .verifyFinishInfo__info_item___hc3vL .verifyFinishInfo__item_bottom____w7BT .verifyFinishInfo__radio_box___zclsw.verifyFinishInfo__active___ojDMq .verifyFinishInfo__radio___UwoAw::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 16rpx;
+  height: 16rpx;
+  background-color: #ff0000;
+  border-radius: 48rpx;
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+.verifyFinishInfo__layout___YFuvk .verifyFinishInfo__main___e6KU_ .verifyFinishInfo__info_item___hc3vL .verifyFinishInfo__item_bottom____w7BT .verifyFinishInfo__radio_box___zclsw:last-child {
+  margin-right: 0;
+}
+.verifyFinishInfo__layout___YFuvk .verifyFinishInfo__main___e6KU_ .verifyFinishInfo__btn___j78KB {
+  width: 100%;
+}

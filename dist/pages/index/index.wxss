@@ -1,0 +1,1110 @@
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/components/Topic/TopicTags.vue?vue&type=style&index=0&id=f21fc230&lang=scss&module=true ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes TopicTags__slide-bottom___w89lD {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes TopicTags__slide-bottom___w89lD {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.TopicTags__layout___HmFtS {
+  width: 686rpx;
+  height: 68rpx;
+}
+.TopicTags__layout___HmFtS .TopicTags__title_scroll___LkMlz {
+  max-width: 686rpx;
+  height: 68rpx;
+  -webkit-align-items: baseline;
+      -ms-flex-align: baseline;
+          align-items: baseline;
+  white-space: nowrap;
+}
+.TopicTags__layout___HmFtS .TopicTags__title_scroll___LkMlz .TopicTags__sort____jdbI {
+  position: relative;
+  padding: 0 32rpx;
+  line-height: 52rpx;
+  color: var(--f21fc230-tagColor);
+}
+.TopicTags__layout___HmFtS .TopicTags__title_scroll___LkMlz .TopicTags__sort_on___RUWMA::after {
+  content: "";
+  position: absolute;
+  bottom: -12rpx;
+  width: 43rpx;
+  height: 2rpx;
+  -webkit-transform: scaleY(0.5);
+      -ms-transform: scaleY(0.5);
+          transform: scaleY(0.5);
+  background-color: var(--f21fc230-lineColor);
+  z-index: 2;
+}
+.TopicTags__layout___HmFtS .TopicTags__title_scroll___LkMlz .TopicTags__sort_title___RN9Jf {
+  z-index: 1;
+}
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/components/Topic/Topic.vue?vue&type=style&index=0&id=168b1eaf&lang=scss&module=true ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes Topic__slide-bottom___LWggb {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes Topic__slide-bottom___LWggb {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.Topic__goods_subarea___bicQ9 {
+  width: 686rpx;
+  height: 68rpx;
+}
+.Topic__goods_subarea___bicQ9 .Topic__title_scroll___b_crb {
+  max-width: 686rpx;
+  height: 68rpx;
+  -webkit-align-items: baseline;
+      -ms-flex-align: baseline;
+          align-items: baseline;
+  white-space: nowrap;
+}
+.Topic__goods_subarea___bicQ9 .Topic__title_scroll___b_crb .Topic__sort___UqeiA {
+  position: relative;
+  padding: 0 32rpx;
+  color: #444444;
+}
+.Topic__goods_subarea___bicQ9 .Topic__title_scroll___b_crb .Topic__sort_on___aZV0a::after {
+  content: "";
+  position: absolute;
+  bottom: -16rpx;
+  width: 43rpx;
+  height: 2rpx;
+  background-color: #444444;
+}
+.Topic__goods_subarea___bicQ9 .Topic__title_scroll___b_crb .Topic__sort_title___BokqP {
+  z-index: 1;
+}
+.Topic__goods_list___C6bcO {
+  width: 750rpx;
+  min-height: 464rpx;
+  padding: 48rpx 0;
+}
+.Topic__goods_list___C6bcO .Topic__scroll_view___YRaIA {
+  width: 100%;
+  height: 100%;
+}
+.Topic__goods_list___C6bcO .Topic__scroll_view_box____dqoY {
+  padding: 0 24rpx;
+}
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/components/Topic/Topic1.vue?vue&type=style&index=0&id=8a3b6ddc&lang=scss&module=true ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes Topic1__slide-bottom___p_kDa {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes Topic1__slide-bottom___p_kDa {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.Topic1__goods___gL1l6 {
+  position: relative;
+  width: 750rpx;
+  height: 1624rpx;
+}
+.Topic1__goods___gL1l6 .Topic1__title___BAkiS {
+  position: absolute;
+  top: 190rpx;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+      -ms-transform: translateX(-50%);
+          transform: translateX(-50%);
+  z-index: 10;
+}
+.Topic1__goods___gL1l6 .Topic1__btn___tThhC {
+  position: absolute;
+  top: 1180rpx;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+      -ms-transform: translateX(-50%);
+          transform: translateX(-50%);
+  background: transparent;
+  border-color: var(--nut-white, #fff);
+  color: var(--nut-white, #fff);
+  z-index: 10;
+}
+.Topic1__goods___gL1l6 .Topic1__swiper___QIOJd {
+  width: 750rpx;
+  height: 1624rpx;
+  pointer-events: none;
+}
+.Topic1__goods___gL1l6 .Topic1__swiper_box___AFQn8 {
+  -webkit-transition: 1s;
+  -o-transition: 1s;
+  transition: 1s;
+  -webkit-animation-name: Topic1__carousel___Zr36Y;
+          animation-name: Topic1__carousel___Zr36Y;
+  -webkit-animation-timing-function: linear;
+          animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+}
+.Topic1__goods___gL1l6 .Topic1__swiper_box___AFQn8.Topic1__ani_run___lO3lj {
+  -webkit-animation-play-state: running;
+          animation-play-state: running;
+}
+.Topic1__goods___gL1l6 .Topic1__swiper_box___AFQn8.Topic1__ani_stop___L4WB3 {
+  -webkit-animation-play-state: paused;
+          animation-play-state: paused;
+}
+.Topic1__goods___gL1l6 .Topic1__swiper_item___BJN9M {
+  position: relative;
+  width: 750rpx;
+  height: 1624rpx;
+}
+.Topic1__goods___gL1l6 .Topic1__swiper_item___BJN9M .Topic1__image___wRysO {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.Topic1__goods___gL1l6 .Topic1__swiper_item___BJN9M .Topic1__name___bk2WW {
+  position: absolute;
+  top: 366rpx;
+  left: 50%;
+  width: 288rpx;
+  color: var(--nut-white, #fff);
+  line-height: 36rpx;
+  text-align: center;
+  -webkit-transform: translateX(-50%);
+      -ms-transform: translateX(-50%);
+          transform: translateX(-50%);
+}
+@-webkit-keyframes Topic1__carousel___Zr36Y {
+0% {
+    -webkit-transform: translate3d(0, 0, 0) scale3d(1, 1, 1);
+            transform: translate3d(0, 0, 0) scale3d(1, 1, 1);
+}
+50% {
+    -webkit-transform: translate3d(-3740rpx, 0, 0) scale3d(1, 1, 1);
+            transform: translate3d(-3740rpx, 0, 0) scale3d(1, 1, 1);
+}
+100% {
+    -webkit-transform: translate3d(0, 0, 0) scale3d(1, 1, 1);
+            transform: translate3d(0, 0, 0) scale3d(1, 1, 1);
+}
+}
+@keyframes Topic1__carousel___Zr36Y {
+0% {
+    -webkit-transform: translate3d(0, 0, 0) scale3d(1, 1, 1);
+            transform: translate3d(0, 0, 0) scale3d(1, 1, 1);
+}
+50% {
+    -webkit-transform: translate3d(-3740rpx, 0, 0) scale3d(1, 1, 1);
+            transform: translate3d(-3740rpx, 0, 0) scale3d(1, 1, 1);
+}
+100% {
+    -webkit-transform: translate3d(0, 0, 0) scale3d(1, 1, 1);
+            transform: translate3d(0, 0, 0) scale3d(1, 1, 1);
+}
+}
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/components/Topic/TopicGroup.vue?vue&type=style&index=0&id=63aafbc0&lang=scss&module=true ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes TopicGroup__slide-bottom___bvRC7 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes TopicGroup__slide-bottom___bvRC7 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.TopicGroup__layout___VGe4N {
+  padding-top: 32rpx;
+}
+.TopicGroup__layout___VGe4N:last-child {
+  padding-top: 0;
+}
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/pages/index/components/CouponItem/CouponItem.vue?vue&type=style&index=0&id=80938d92&lang=scss&module=true ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes CouponItem__slide-bottom___xOjX3 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes CouponItem__slide-bottom___xOjX3 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.CouponItem__coupon___TpaAw {
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+.CouponItem__coupon-warp___mtrQ5 {
+  padding: 10rpx 24rpx 20rpx 24rpx;
+  width: 446rpx;
+  height: 156rpx;
+  -webkit-align-self: stretch;
+      -ms-flex-item-align: stretch;
+          align-self: stretch;
+  z-index: 2;
+  position: relative;
+  border-radius: 16rpx;
+  border-radius: 12rpx;
+  background: #fff;
+  -webkit-box-shadow: 0rpx 5.25714rpx 13.14286rpx 0rpx rgba(165, 165, 165, 0.65);
+          box-shadow: 0rpx 5.25714rpx 13.14286rpx 0rpx rgba(165, 165, 165, 0.65);
+}
+.CouponItem__coupon-warp-box___oyv13 {
+  padding: 32rpx;
+  border: 0rpx solid #d9d9d9;
+  background: var(--white, #fff);
+  position: relative;
+}
+.CouponItem__coupon-warp-box___oyv13::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 200%;
+  height: 200%;
+  -webkit-transform: scale(0.5);
+      -ms-transform: scale(0.5);
+          transform: scale(0.5);
+  -webkit-transform-origin: 0 0;
+      -ms-transform-origin: 0 0;
+          transform-origin: 0 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border: 2rpx solid #d9d9d9;
+  border-radius: 32rpx;
+  pointer-events: none;
+}
+.CouponItem__coupon-warp___mtrQ5 .CouponItem__coupon-top___qPLae {
+  width: 100%;
+  color: #333333;
+  font-family: "FZLanTingHei-R-GBK";
+}
+.CouponItem__coupon-warp___mtrQ5 .CouponItem__coupon-top___qPLae .CouponItem__top_type___tnAyJ {
+  line-height: 48rpx;
+}
+.CouponItem__coupon-warp___mtrQ5 .CouponItem__coupon-top___qPLae .CouponItem__time_border___nXl02 {
+  padding-bottom: 8rpx;
+  border-bottom: 2rpx solid #d9d9d9;
+}
+.CouponItem__coupon-warp___mtrQ5 .CouponItem__coupon-top___qPLae .CouponItem__time_mg___x2yvs {
+  margin-right: 4rpx;
+}
+.CouponItem__coupon-warp___mtrQ5 .CouponItem__coupon-top___qPLae .CouponItem__top_statement___Qwtv2 {
+  max-width: 370rpx;
+  display: inline-block;
+  padding-top: 8rpx;
+}
+.CouponItem__coupon-warp___mtrQ5 .CouponItem__coupon-top___qPLae .CouponItem__amount___YqJ04 {
+  margin-top: 6rpx;
+}
+.CouponItem__coupon-warp___mtrQ5 .CouponItem__coupon-top___qPLae .CouponItem__top_conditions___Yo99C {
+  color: #a5a5a5;
+}
+.CouponItem__coupon-warp___mtrQ5 .CouponItem__coupon-end___YHBMS {
+  width: 100%;
+  position: relative;
+}
+.CouponItem__coupon-warp___mtrQ5 .CouponItem__coupon-end___YHBMS .CouponItem__end_usageRules___PiFzV {
+  color: #a5a5a5;
+  font-family: "FZLanTingHei-R-GBK";
+  line-height: 36rpx;
+}
+.CouponItem__coupon-warp___mtrQ5 .CouponItem__coupon-end___YHBMS .CouponItem__end_btn___CFVgR {
+  width: 192rpx;
+  height: 64rpx;
+  border-radius: 40rpx;
+  background: #333333;
+  color: #fff;
+}
+.CouponItem__coupon-warp___mtrQ5 .CouponItem__coupon-end___YHBMS .CouponItem__end_btn-couponCenter___kdnOl {
+  background: transparent;
+  color: #333333;
+  border: 2rpx solid var(--tertiary, #a5a5a5);
+}
+.CouponItem__coupon-warp___mtrQ5 .CouponItem__coupon-end___YHBMS .CouponItem__btn_get___VZnKG {
+  border: none;
+}
+.CouponItem__coupon-warp___mtrQ5 .CouponItem__coupon-end___YHBMS .CouponItem__status_img___Brrdo {
+  position: absolute;
+  right: 0;
+  bottom: -22rpx;
+  width: 128rpx;
+  height: 104rpx;
+}
+.CouponItem__coupon-warp___mtrQ5 .CouponItem__coupon-end___YHBMS .CouponItem__icon_arrows____3lDu {
+  margin-left: 16rpx;
+  width: 24rpx;
+  height: 24rpx;
+}
+.CouponItem__coupon-warp___mtrQ5 .CouponItem__coupon-end___YHBMS .CouponItem__down___UNdJ5 {
+  -webkit-transform: rotate(180deg);
+      -ms-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+.CouponItem__coupon-warp_disable___QnVcr .CouponItem__coupon-top___qPLae {
+  color: #a5a5a5;
+}
+.CouponItem__rule_state___bNQzb {
+  width: 446rpx;
+  margin-top: -22rpx;
+  position: relative;
+  left: 0rpx;
+  padding: 36rpx 20rpx 18rpx;
+  border-radius: 16rpx;
+  background: #333333;
+  color: var(--nut-white, #fff);
+}
+.CouponItem__rule_state___bNQzb.CouponItem__info_rule-none___w_W5I {
+  display: none;
+}
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/components/PointBox/PointBox.vue?vue&type=style&index=0&id=33c7d7a2&lang=scss&module=true ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes PointBox__slide-bottom___Dzw06 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes PointBox__slide-bottom___Dzw06 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.PointBox__layout___bl0dv {
+  width: 474rpx;
+  height: 184rpx;
+  border-radius: 4rpx;
+  overflow: hidden;
+}
+.PointBox__layout___bl0dv .PointBox__layout_bg___WHzee {
+  position: absolute;
+  width: 474rpx;
+  height: 184rpx;
+}
+.PointBox__layout___bl0dv .PointBox__layout_left___oBXI3 {
+  z-index: 2;
+  margin-left: 36rpx;
+  color: #333;
+  font-family: "FZLanTingHei-B-GBK";
+}
+.PointBox__layout___bl0dv .PointBox__layout_left___oBXI3 .PointBox__flame___14cUi {
+  line-height: 36rpx;
+  display: inline-block;
+}
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-8.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-8.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-8.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/pages/index/components/giftContents.vue?vue&type=style&index=0&id=66c281b2&lang=scss ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes slide-bottom {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes slide-bottom {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.newGift .nutui-iconfont {
+  font-weight: 600;
+  color: #444;
+}
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/pages/index/components/giftContents.vue?vue&type=style&index=1&id=66c281b2&lang=scss&module=true ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes giftContents__slide-bottom___oKv6p {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes giftContents__slide-bottom___oKv6p {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.giftContents__content_scroll___PcX7w {
+  width: 100%;
+  max-height: 370rpx;
+  min-height: 184rpx;
+  margin: 32rpx 0;
+  overflow: hidden;
+}
+.giftContents__content_scroll___PcX7w .giftContents__content___TKoVi {
+  width: 100%;
+  margin-top: 6rpx;
+  min-height: 180rpx;
+}
+.giftContents__content_scroll___PcX7w .giftContents__content___TKoVi .giftContents__content_item___RalkG {
+  width: 480rpx;
+  min-height: 180rpx;
+}
+.giftContents__content_scroll___PcX7w .giftContents__content___TKoVi .giftContents__content_item___RalkG:last-child {
+  margin-bottom: 0;
+}
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-8.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-8.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-8.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/pages/index/components/PopBirthdayGift.vue?vue&type=style&index=0&id=4e83fff4&lang=scss ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes slide-bottom {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes slide-bottom {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.newGift .nutui-iconfont {
+  font-weight: 600;
+  color: #444;
+}
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/pages/index/components/PopBirthdayGift.vue?vue&type=style&index=1&id=4e83fff4&lang=scss&module=true ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes PopBirthdayGift__slide-bottom___n_cBZ {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes PopBirthdayGift__slide-bottom___n_cBZ {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.PopBirthdayGift__gift_layout___ma3Ln {
+  max-height: 1000rpx;
+  padding: 80rpx 60rpx 64rpx 60rpx;
+  background: var(--nut-white, #fff);
+  border-radius: 40rpx;
+}
+.PopBirthdayGift__gift_layout___ma3Ln .PopBirthdayGift__title___bLQaI {
+  font-family: "FZLanTingHei-B-GBK";
+  color: #444;
+  width: 100%;
+}
+.PopBirthdayGift__gift_layout___ma3Ln .PopBirthdayGift__title___bLQaI .PopBirthdayGift__tips___ClbiR {
+  margin-top: 8rpx;
+}
+.PopBirthdayGift__gift_layout___ma3Ln .PopBirthdayGift__instructions___tfvef {
+  margin: 32rpx 0;
+  width: 100%;
+  text-align: center;
+  color: #a5a5a5;
+  font-family: "FZLanTingHei-R-GBK";
+}
+.PopBirthdayGift__gift_layout___ma3Ln .PopBirthdayGift__btn_row___FvGd9 {
+  width: 100%;
+}
+.PopBirthdayGift__gift_layout___ma3Ln .PopBirthdayGift__btn_row___FvGd9 .PopBirthdayGift__btn_receive___NqF81 {
+  width: 472rpx;
+  height: 90rpx;
+}
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-8.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-8.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-8.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/pages/index/components/PopContainer.vue?vue&type=style&index=0&id=6587bf98&lang=scss ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes slide-bottom {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes slide-bottom {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.popStyle {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background: transparent;
+  height: 100%;
+}
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/pages/index/components/PopContainer.vue?vue&type=style&index=1&id=6587bf98&lang=scss&module=true ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes PopContainer__slide-bottom___XHjMW {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes PopContainer__slide-bottom___XHjMW {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.PopContainer__layout___IOLLm {
+  width: 600rpx;
+  height: 800rpx;
+  background: transparent;
+  border-radius: 60rpx;
+  position: relative;
+}
+.PopContainer__close_icon___is9J5 {
+  position: absolute;
+  top: 32rpx;
+  right: 32rpx;
+  background: rgba(255, 255, 255, 0.4);
+  border-radius: 50%;
+  width: 48rpx;
+  height: 48rpx;
+  z-index: 2;
+}
+.PopContainer__image___tx_IS {
+  width: 600rpx;
+  height: 100%;
+  border-radius: 60rpx;
+  overflow: hidden;
+}
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-8.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-8.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-8.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/pages/index/components/PopNewGift.vue?vue&type=style&index=0&id=ad30e372&lang=scss ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes slide-bottom {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes slide-bottom {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.newGift .nutui-iconfont {
+  font-weight: 600;
+  color: #444;
+}
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/pages/index/components/PopNewGift.vue?vue&type=style&index=1&id=ad30e372&lang=scss&module=true ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes PopNewGift__slide-bottom___QAVhf {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes PopNewGift__slide-bottom___QAVhf {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.PopNewGift__gift_layout___zJDV2 {
+  max-height: 1000rpx;
+  padding: 80rpx 60rpx 64rpx 60rpx;
+  background: var(--nut-white, #fff);
+  border-radius: 40rpx;
+}
+.PopNewGift__gift_layout___zJDV2 .PopNewGift__title___cSqgI {
+  font-family: "FZLanTingHei-B-GBK";
+  color: #444;
+  width: 100%;
+}
+.PopNewGift__gift_layout___zJDV2 .PopNewGift__title___cSqgI .PopNewGift__tips___CsN4e {
+  margin-top: 8rpx;
+}
+.PopNewGift__gift_layout___zJDV2 .PopNewGift__instructions___Mti_G {
+  margin: 32rpx 0;
+  width: 100%;
+  text-align: center;
+  color: #a5a5a5;
+  font-family: "FZLanTingHei-R-GBK";
+}
+.PopNewGift__gift_layout___zJDV2 .PopNewGift__btn_row___A6hrl {
+  width: 100%;
+}
+.PopNewGift__gift_layout___zJDV2 .PopNewGift__btn_row___A6hrl .PopNewGift__btn_receive___ouk42 {
+  width: 472rpx;
+  height: 90rpx;
+}
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-8.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-8.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-8.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/pages/index/components/PopUpgradeGift.vue?vue&type=style&index=0&id=1be9cb43&lang=scss ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes slide-bottom {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes slide-bottom {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.newGift .nutui-iconfont {
+  font-weight: 600;
+  color: #444;
+}
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/pages/index/components/PopUpgradeGift.vue?vue&type=style&index=1&id=1be9cb43&lang=scss&module=true ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes PopUpgradeGift__slide-bottom___DFDOr {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes PopUpgradeGift__slide-bottom___DFDOr {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.PopUpgradeGift__gift_layout___IXLFy {
+  max-height: 1020rpx;
+  background: var(--nut-white, #fff);
+  border-radius: 40rpx;
+}
+.PopUpgradeGift__gift_layout___IXLFy .PopUpgradeGift__level___KlUSQ {
+  position: absolute;
+  right: 0;
+  width: 550rpx;
+  height: 378rpx;
+}
+.PopUpgradeGift__gift_layout___IXLFy .PopUpgradeGift__main___Xkebg {
+  margin-top: 188rpx;
+  border-radius: 40rpx;
+  padding: 80rpx 60rpx 64rpx 60rpx;
+  background: rgba(165, 165, 165, 0.08);
+  -webkit-box-shadow: 0rpx 8rpx 16rpx 0rpx rgba(255, 158, 103, 0.08) inset;
+          box-shadow: 0rpx 8rpx 16rpx 0rpx rgba(255, 158, 103, 0.08) inset;
+  -webkit-backdrop-filter: blur(20rpx);
+          backdrop-filter: blur(20rpx);
+}
+.PopUpgradeGift__gift_layout___IXLFy .PopUpgradeGift__title___iCiVp {
+  font-family: "FZLanTingHei-B-GBK";
+  color: #444;
+  width: 100%;
+}
+.PopUpgradeGift__gift_layout___IXLFy .PopUpgradeGift__title___iCiVp .PopUpgradeGift__tips___ty7zW {
+  margin-top: 8rpx;
+}
+.PopUpgradeGift__gift_layout___IXLFy .PopUpgradeGift__instructions___NadJf {
+  margin: 32rpx 0;
+  width: 100%;
+  text-align: center;
+  color: #a5a5a5;
+  font-family: "FZLanTingHei-R-GBK";
+}
+.PopUpgradeGift__gift_layout___IXLFy .PopUpgradeGift__btn_row___eCTTH {
+  width: 100%;
+}
+.PopUpgradeGift__gift_layout___IXLFy .PopUpgradeGift__btn_row___eCTTH .PopUpgradeGift__btn_receive___59XYz {
+  background: transparent;
+  width: 472rpx;
+  height: 90rpx;
+}
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/pages/index/components/WealBox.vue?vue&type=style&index=0&id=0c839f5a&lang=scss&module=true ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes WealBox__slide-bottom___XMut7 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes WealBox__slide-bottom___XMut7 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.WealBox__layout___Wc0hD {
+  width: 750rpx;
+  padding: 80rpx 32rpx;
+}
+.WealBox__layout_item___anwd3 {
+  color: #333333;
+}
+.WealBox__layout_item___anwd3 .WealBox__image___N0Eol {
+  width: 64rpx;
+  height: 64rpx;
+  margin-bottom: 16rpx;
+}
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/pages/index/index.vue?vue&type=style&index=0&id=1badc801&lang=scss&module=true ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes index__slide-bottom___Au1Bs {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes index__slide-bottom___Au1Bs {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.index__layout___rFoi7 {
+  height: 100vh;
+  background-color: transparent;
+}
+.index__layout___rFoi7 .index__icon_down___XyfuK {
+  position: absolute;
+  bottom: 248rpx;
+  left: 50%;
+  width: 40rpx;
+  height: 40rpx;
+  -webkit-transform: translateX(-50%);
+      -ms-transform: translateX(-50%);
+          transform: translateX(-50%);
+  z-index: 999;
+}
+.index__layout___rFoi7 .index__topic___AtosM {
+  width: 750rpx;
+}
+.index__layout___rFoi7 .index__backtop___En5qz {
+  position: fixed;
+  bottom: 260rpx;
+  left: 50%;
+  width: 96rpx;
+  height: 92rpx;
+  -webkit-transform: translateX(-50%);
+      -ms-transform: translateX(-50%);
+          transform: translateX(-50%);
+  color: var(--nut-white, #fff);
+  overflow: hidden;
+  z-index: 99;
+}
+.index__layout___rFoi7 .index__backtop___En5qz .index__icon_backtop___K_92S {
+  width: 40rpx;
+  height: 40rpx;
+  margin-bottom: 16rpx;
+}
+.index__layout___rFoi7 .index__add_box___AqlJ2 {
+  position: fixed;
+  top: 182rpx;
+  right: 16rpx;
+  width: 368rpx;
+  height: 104rpx;
+  background-color: var(--nut-white, #fff);
+  border-radius: 8rpx;
+  -webkit-box-shadow: 0 8rpx 24rpx 8rpx rgba(var(--nut-black, #000), 0.15);
+          box-shadow: 0 8rpx 24rpx 8rpx rgba(var(--nut-black, #000), 0.15);
+  z-index: 1000;
+}
+.index__layout___rFoi7 .index__add_box___AqlJ2::before {
+  content: "";
+  position: absolute;
+  top: -8rpx;
+  right: 112rpx;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 16rpx 8rpx 16rpx;
+  border-color: transparent transparent var(--nut-white, #fff) transparent;
+}
+.index__layout___rFoi7 .index__add_box___AqlJ2 .index__t___r9MqZ {
+  padding: 24rpx 0 24rpx 32rpx;
+  line-height: 28rpx;
+}
+.index__layout___rFoi7 .index__add_box___AqlJ2 .index__t___r9MqZ .index__circle___LCPEq {
+  display: inline-block;
+  vertical-align: baseline;
+  width: 32rpx;
+  height: 14rpx;
+}
+.index__layout___rFoi7 .index__add_box___AqlJ2 .index__icon_close___QuP4c {
+  width: 40rpx;
+  height: 104rpx;
+}
+.index__layout___rFoi7 .index__add_box___AqlJ2 .index__icon_close___QuP4c .index__icon___Belcc {
+  width: 24rpx;
+  height: 24rpx;
+}

@@ -1,0 +1,121 @@
+@charset "UTF-8";@import "../../sub-vendors.wxss";/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/myIntegral/components/IntegralList/IntegralList.vue?vue&type=style&index=0&id=60c16632&lang=scss&module=true ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/** 弃用，后期删除 **/
+@-webkit-keyframes IntegralList__slide-bottom___Cny2M {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes IntegralList__slide-bottom___Cny2M {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.IntegralList__integrallist_layout___VMAsW {
+  width: 690rpx;
+  padding-top: 32rpx;
+}
+.IntegralList__integrallist_layout___VMAsW .IntegralList__box___N2GbL {
+  position: relative;
+  width: 690rpx;
+  min-height: 516rpx;
+  padding: 32rpx;
+  background: var(--nut-white, #fff);
+}
+.IntegralList__integrallist_layout___VMAsW .IntegralList__box___N2GbL .IntegralList__item___K9eHm {
+  width: 100%;
+  height: 84rpx;
+  margin-bottom: 32rpx;
+}
+.IntegralList__integrallist_layout___VMAsW .IntegralList__box___N2GbL .IntegralList__item___K9eHm .IntegralList__item_left___KQcUA {
+  color: #444444;
+}
+.IntegralList__integrallist_layout___VMAsW .IntegralList__box___N2GbL .IntegralList__item___K9eHm .IntegralList__item_left-memo___BreUe {
+  line-height: 40rpx;
+  font-family: "FZLanTingHei-R-GBK";
+}
+.IntegralList__integrallist_layout___VMAsW .IntegralList__box___N2GbL .IntegralList__item___K9eHm .IntegralList__item_left-mg___LGi4V {
+  color: #a5a5a5;
+  margin-top: 12rpx;
+}
+.IntegralList__integrallist_layout___VMAsW .IntegralList__box___N2GbL .IntegralList__item___K9eHm:last-child {
+  margin-bottom: 0;
+}
+.IntegralList__integrallist_layout___VMAsW .IntegralList__empty_box___QciUp {
+  width: 100%;
+  height: 516rpx;
+  color: #a5a5a5;
+}
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/myIntegral/myIntegral.vue?vue&type=style&index=0&id=e68fe72e&lang=scss&module=true ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes myIntegral__slide-bottom___vwQAl {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes myIntegral__slide-bottom___vwQAl {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.myIntegral__integral_layout___I4Apm .myIntegral__main___iBeA5 {
+  width: 750rpx;
+  padding: 32rpx;
+}
+.myIntegral__integral_layout___I4Apm .myIntegral__main___iBeA5 .myIntegral__content___ON0_a {
+  position: relative;
+  width: 686rpx;
+  height: 112rpx;
+  padding: 32rpx;
+  background: var(--nut-white, #fff);
+}
+.myIntegral__integral_layout___I4Apm .myIntegral__main___iBeA5 .myIntegral__content___ON0_a .myIntegral__tips___Pr_OB {
+  color: #a5a5a5;
+}
+.myIntegral__integral_layout___I4Apm .myIntegral__main___iBeA5 .myIntegral__content___ON0_a .myIntegral__tips___Pr_OB .myIntegral__icon_right___d0Bn1 {
+  width: 24rpx;
+  height: 24rpx;
+  margin: 4rpx 0 0 8rpx;
+  -webkit-transform: rotate(-90deg);
+      -ms-transform: rotate(-90deg);
+          transform: rotate(-90deg);
+}
+.myIntegral__integral_layout___I4Apm .myIntegral__main___iBeA5 .myIntegral__content___ON0_a .myIntegral__info___PMK8P {
+  color: #333333;
+}
+.myIntegral__integral_layout___I4Apm .myIntegral__main___iBeA5 .myIntegral__content___ON0_a .myIntegral__info___PMK8P .myIntegral__num___PyBEf {
+  margin-right: 8rpx;
+}

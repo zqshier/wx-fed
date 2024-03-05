@@ -1,0 +1,66 @@
+@charset "UTF-8";@import "../../sub-vendors.wxss";/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/taskCenter/taskCenter.vue?vue&type=style&index=0&id=495bbf29&lang=scss&module=true ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/** 弃用，后期删除 **/
+@-webkit-keyframes taskCenter__slide-bottom___dMe8x {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes taskCenter__slide-bottom___dMe8x {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.taskCenter__layout___RvOgj {
+  width: 750rpx;
+}
+.taskCenter__main____iLQ2 {
+  position: relative;
+  -webkit-box-sizing: content-box;
+          box-sizing: content-box;
+}
+.taskCenter__main_imageBox___t19Ol {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.taskCenter__main_imageBox___t19Ol .taskCenter__image___QtH_6 {
+  width: 340rpx;
+  height: 352rpx;
+}
+.taskCenter__main_title____AA0T {
+  color: #333333;
+  margin: 158rpx 0 48rpx 40rpx;
+}
+.taskCenter__main_task___IK1NP {
+  width: 718rpx;
+  height: 1186rpx;
+  margin: 0 auto;
+  padding: 32rpx;
+  border-radius: 48rpx 48rpx 0rpx 0rpx;
+  background: rgba(255, 255, 255, 0.08);
+  -webkit-box-shadow: 0rpx 8rpx 20rpx 0rpx rgba(165, 165, 165, 0.65);
+          box-shadow: 0rpx 8rpx 20rpx 0rpx rgba(165, 165, 165, 0.65);
+  -webkit-backdrop-filter: blur(20rpx);
+          backdrop-filter: blur(20rpx);
+}
+.taskCenter__main_task___IK1NP .taskCenter__task_title___8D8je {
+  padding: 16rpx 0rpx;
+  margin-bottom: 16rpx;
+}

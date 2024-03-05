@@ -1,0 +1,125 @@
+@charset "UTF-8";@import "../../sub-vendors.wxss";@import "../../sub-common/fa1d6b325e12e7fe39f42656a1368898.wxss";/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/signin/signin.vue?vue&type=style&index=0&id=b62642ae&lang=scss&module=true ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/** 弃用，后期删除 **/
+@-webkit-keyframes signin__slide-bottom___P1Th8 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes signin__slide-bottom___P1Th8 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.signin__layout___wUyAO .signin__main_top___oVbKE {
+  width: 750rpx;
+  padding: 32rpx;
+}
+.signin__layout___wUyAO .signin__main_top___oVbKE .signin__tips___cy97d {
+  line-height: 48rpx;
+  padding: 0 32rpx;
+}
+.signin__layout___wUyAO .signin__main_top___oVbKE .signin__month_box___tKJHW {
+  width: 100%;
+  height: 68rpx;
+  padding: 0 12rpx;
+  margin-bottom: 24rpx;
+}
+.signin__layout___wUyAO .signin__main_top___oVbKE .signin__month_box___tKJHW .signin__icon___mbZFr {
+  width: 52rpx;
+  height: 68rpx;
+}
+.signin__layout___wUyAO .signin__main_top___oVbKE .signin__month_box___tKJHW .signin__icon___mbZFr .signin__image___P13D1 {
+  width: 12rpx;
+  height: 20rpx;
+}
+.signin__layout___wUyAO .signin__main_top___oVbKE .signin__month_box___tKJHW .signin__date_name___VNqWU {
+  padding: 0 12rpx;
+  color: #a5a5a5;
+}
+.signin__layout___wUyAO .signin__main_top___oVbKE .signin__calendar_box___vSgXI {
+  position: relative;
+  width: 622rpx;
+  min-height: 308rpx;
+  padding: 0 32rpx;
+  margin-bottom: 48rpx;
+  -webkit-transition: height 0.2s;
+  -o-transition: height 0.2s;
+  transition: height 0.2s;
+  overflow: hidden;
+}
+.signin__layout___wUyAO .signin__main_top___oVbKE .signin__calendar_box_item___SJk6P {
+  position: absolute;
+  width: 622rpx;
+  height: 100%;
+  -webkit-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  transition: all 0.3s;
+}
+.signin__layout___wUyAO .signin__main_top___oVbKE .signin__calendar_box___vSgXI .signin__week_box___o0cj4 .signin__week___LcuYz {
+  padding-bottom: 16rpx;
+}
+.signin__layout___wUyAO .signin__main_top___oVbKE .signin__calendar_box___vSgXI .signin__day_box___O2oXl {
+  width: 100%;
+}
+.signin__layout___wUyAO .signin__main_top___oVbKE .signin__calendar_box___vSgXI .signin__day_box___O2oXl .signin__day___sfiS9 {
+  width: 100%;
+}
+.signin__layout___wUyAO .signin__main_top___oVbKE .signin__calendar_box___vSgXI .signin__day_box___O2oXl .signin__day___sfiS9 .signin__day_item___k3qwD {
+  line-height: 36rpx;
+  padding-bottom: 16rpx;
+}
+.signin__layout___wUyAO .signin__main_top___oVbKE .signin__calendar_box___vSgXI .signin__day_box___O2oXl .signin__day___sfiS9 .signin__day_item___k3qwD .signin__select___u1kYg {
+  line-height: normal;
+}
+.signin__layout___wUyAO .signin__main_top___oVbKE .signin__calendar_box___vSgXI .signin__day_box___O2oXl .signin__day___sfiS9 .signin__day_item___k3qwD .signin__icon_select___IrlVg {
+  width: 24rpx;
+  height: 24rpx;
+}
+.signin__layout___wUyAO .signin__main_top___oVbKE .signin__btn___I6EUd {
+  padding: 0 32rpx;
+}
+.signin__layout___wUyAO .signin__main_bottom___MPHao {
+  width: 750rpx;
+  height: auto;
+  padding: 32rpx 0 48rpx;
+  border-radius: 64rpx 64rpx 0 0;
+  background: rgba(165, 165, 165, 0.08);
+  -webkit-box-shadow: -32.33334rpx 32.33334rpx 32.33334rpx 0 rgba(255, 255, 255, 0.08) inset, 32.33334rpx -32.33334rpx 32.33334rpx 0 rgba(165, 165, 165, 0.08) inset;
+          box-shadow: -32.33334rpx 32.33334rpx 32.33334rpx 0 rgba(255, 255, 255, 0.08) inset, 32.33334rpx -32.33334rpx 32.33334rpx 0 rgba(165, 165, 165, 0.08) inset;
+  -webkit-backdrop-filter: blur(15.52rpx);
+          backdrop-filter: blur(15.52rpx);
+}
+.signin__layout___wUyAO .signin__main_bottom___MPHao .signin__title___Tzk0O {
+  padding: 32rpx 0;
+  color: #a5a5a5;
+}
+.signin__layout___wUyAO .signin__main_bottom___MPHao .signin__award___wFdGV {
+  width: 622rpx;
+  margin-bottom: 32rpx;
+}
+.signin__layout___wUyAO .signin__main_bottom___MPHao .signin__award_item___Koich {
+  width: 100%;
+  min-height: 96rpx;
+  border-bottom: 1rpx solid #d9d9d9;
+}
+.signin__layout___wUyAO .signin__main_bottom___MPHao .signin__award_item___Koich .signin__points___h3iv2 {
+  color: #ff0000;
+  font-weight: 600;
+}

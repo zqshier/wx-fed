@@ -1,0 +1,47 @@
+$Brand: #ff0000;
+$Primary: #333333;
+$Secendary: #444444;
+$Tertiary: #a5a5a5;
+$Divide: #d9d9d9;
+$Block: #eeeeee;
+
+// UI主题配置
+$primary-color: $Primary;
+$primary-color-end: $Primary;
+
+$button-default-height: 40px;
+$button-default-padding: 0 24px;
+$button-small-padding: 0 24px;
+$button-small-height: 32px;
+
+// $button-default-bg-color: #6c6c6c;
+// $button-plain-background-color: #121212;
+$button-default-border-color: $Tertiary;
+$button-default-color: $Tertiary;
+$button-border-radius: 24px;
+
+$button-disabled-opacity: 0.6;
+
+$font-family: 'FZLanTingHei-R-GBK', PingFang SC, Microsoft YaHei, Helvetica, Hiragino Sans GB, SimSun, sans-serif;
+
+// 自定义配置
+$popup-close-icon-margin: 12px;
+$popup-border-radius: 24px;
+
+/** 弃用，后期删除 **/
+$font-color: $Secendary;
+
+// $white: #ffffff;
+
+// UI主题动画配置
+@keyframes slide-bottom {
+  0% {
+    opacity: 0;
+    transform: translateY(20%);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

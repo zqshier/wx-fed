@@ -1,0 +1,148 @@
+.nut-flex {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.nut-flex-wrap {
+  flex-wrap: wrap;
+}
+
+.nut-flex-nowrap {
+  flex-wrap: nowrap;
+}
+
+.nut-col-center {
+  align-items: center;
+}
+
+.nut-col-top {
+  align-items: flex-start;
+}
+
+.nut-col-bottom {
+  align-items: flex-end;
+}
+.nut-col-baseline {
+  align-items: baseline;
+}
+
+.nut-row-center {
+  justify-content: center;
+}
+
+.nut-row-left {
+  justify-content: flex-start;
+}
+
+.nut-row-right {
+  justify-content: flex-end;
+}
+
+.nut-row-between {
+  justify-content: space-between;
+}
+
+.nut-row-around {
+  justify-content: space-around;
+}
+
+.nut-flex-col {
+  display: flex;
+  flex-direction: column;
+}
+
+// 定义flex等分
+@for $i from 0 through 12 {
+  .nut-flex-#{$i} {
+    flex: $i;
+  }
+}
+
+// 定义size
+@for $i from 0 through 100 {
+  .f_s-#{$i} {
+    font-size: $i * 1px;
+  }
+}
+
+// 定义weight
+@for $i from 0 through 1000 {
+  .f_w-#{$i} {
+    font-weight: $i;
+  }
+}
+
+@for $i from 1 through 3 {
+  .nut-line-#{$i} {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    word-break: break-all;
+    -webkit-line-clamp: $i;
+  }
+}
+
+@for $i from 1 through 150 {
+  .mg-bottom-#{$i} {
+    margin-bottom: $i * 1px;
+  }
+}
+
+.numfnt {
+  // font-family: 'Eurostile LT Extended #2';
+  font-family: CentraleSans;
+}
+
+.navbar-top {
+  margin-top: -2px;
+}
+
+.box {
+  padding: 16px;
+  border-radius: 8px;
+  border: 0px solid $Divide;
+  background: var(--white, #fff);
+  position: relative;
+  &::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 200%;
+    height: 200%;
+    transform: scale(0.5);
+    transform-origin: 0 0;
+    box-sizing: border-box;
+    border: 1px solid $Divide;
+    border-radius: 16px;
+    pointer-events: none;
+  }
+}
+
+@for $i from 0 through 16 {
+  .border-05px-box-#{$i} {
+    position: relative;
+    border: 0px solid $Divide;
+    background: transparent;
+    &::after {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 200%;
+      height: 200%;
+      transform: scale(0.5);
+      transform-origin: 0 0;
+      box-sizing: border-box;
+      border: 1px solid $Divide;
+      border-radius: $i * 1px;
+      pointer-events: none;
+    }
+  }
+}
+
+.rounded_corners-8 {
+  border-radius: 8px;
+}

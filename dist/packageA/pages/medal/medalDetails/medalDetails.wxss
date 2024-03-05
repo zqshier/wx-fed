@@ -1,0 +1,283 @@
+@charset "UTF-8";@import "../../../sub-vendors.wxss";/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-8.use[1]!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-8.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-8.use[4]!./node_modules/@nutui/nutui-taro/dist/packages/progress/index.scss ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/** 弃用，后期删除 **/
+@-webkit-keyframes slide-bottom {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+}
+@keyframes slide-bottom {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+}
+.nut-progress {
+  width: 100%;
+  position: relative;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.nut-progress .nut-progress-outer {
+  -webkit-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  background-color: var(--nut-progress-outer-background-color, #f3f3f3);
+  border-radius: var(--nut-progress-outer-border-radius, 24rpx);
+  height: 20rpx;
+}
+.nut-progress .nut-progress-outer .nut-progress-inner {
+  width: 30%;
+  height: 100%;
+  border-radius: var(--nut-progress-outer-border-radius, 24rpx);
+  background: var(--nut-progress-inner-background-color, linear-gradient(135deg, #333333 0%, #333333 100%));
+  -webkit-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  transition: all 0.4s;
+}
+.nut-progress .nut-progress-outer .nut-progress-text {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  color: #fff;
+}
+.nut-progress .nut-progress-outer .nut-progress-slot {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.nut-progress .nut-progress-outer .nut-active:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--nut-progress-outer-border-radius, 24rpx);
+  -webkit-animation: progressActive 2s ease-in-out infinite;
+          animation: progressActive 2s ease-in-out infinite;
+}
+@-webkit-keyframes progressActive {
+  0% {
+    background: rgba(255, 255, 255, 0.1);
+    width: 0;
+  }
+  20% {
+    background: rgba(255, 255, 255, 0.5);
+    width: 0;
+  }
+  to {
+    background: rgba(255, 255, 255, 0);
+    width: 100%;
+  }
+}
+@keyframes progressActive {
+  0% {
+    background: rgba(255, 255, 255, 0.1);
+    width: 0;
+  }
+  20% {
+    background: rgba(255, 255, 255, 0.5);
+    width: 0;
+  }
+  to {
+    background: rgba(255, 255, 255, 0);
+    width: 100%;
+  }
+}
+.nut-progress .nut-progress-outer.nut-progress-small {
+  height: var(--nut-progress-small-height, 10rpx);
+}
+.nut-progress .nut-progress-outer.nut-progress-small .nut-progress-text {
+  font-size: var(--nut-progress-small-text-font-size, 14rpx);
+  line-height: var(--nut-progress-small-text-line-height, 20rpx);
+  padding: var(--nut-progress-small-text-padding, 4rpx 8rpx);
+  top: 50%;
+}
+.nut-progress .nut-progress-outer.nut-progress-base {
+  height: var(--nut-progress-base-height, 20rpx);
+}
+.nut-progress .nut-progress-outer.nut-progress-base .nut-progress-text {
+  font-size: var(--nut-progress-base-text-font-size, 18rpx);
+  line-height: var(--nut-progress-base-text-line-height, 26rpx);
+  padding: var(--nut-progress-base-text-padding, var(--nut-progress-insidetext-padding, 6rpx 10rpx 6rpx 12rpx));
+  top: 50%;
+}
+.nut-progress .nut-progress-outer.nut-progress-large {
+  height: var(--nut-progress-large-height, 30rpx);
+}
+.nut-progress .nut-progress-outer.nut-progress-large .nut-progress-text {
+  font-size: var(--nut-progress-large-text-font-size, 26rpx);
+  line-height: var(--nut-progress-large-text-line-height, 36rpx);
+  padding: var(--nut-progress-large-text-padding, var(--nut-progress-insidetext-padding, 6rpx 10rpx 6rpx 12rpx));
+  top: 50%;
+}
+.nut-progress .nut-progress-outer-part {
+  width: 90%;
+}
+.nut-progress .nut-progress-text {
+  padding: 0 10rpx;
+  font-size: 26rpx;
+  line-height: 1;
+  min-width: 70rpx;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.nut-progress .nut-progress-insidetext {
+  padding: var(--nut-progress-insidetext-padding, 6rpx 10rpx 6rpx 12rpx);
+  background: var(--nut-progress-insidetext-background, var(--nut-progress-inner-background-color, linear-gradient(135deg, #333333 0%, #333333 100%)));
+  border-radius: var(--nut-progress-insidetext-border-radius, 10rpx);
+  position: absolute;
+  -webkit-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  transition: all 0.4s;
+  top: 50%;
+  min-width: 0rpx;
+}
+.nut-progress .nut-icon-success,
+.nut-progress .nut-icon-fail {
+  width: 20rpx;
+  height: 20rpx;
+  display: inline-block;
+}
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-8.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-8.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-8.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/medal/medalDetails/medalDetails.vue?vue&type=style&index=0&id=19a79df1&lang=scss ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes slide-bottom {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes slide-bottom {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.medalDetails_main .nut-progress-inner {
+  -webkit-filter: drop-shadow(0rpx 8rpx 8rpx rgba(0, 0, 0, 0.25));
+          filter: drop-shadow(0rpx 8rpx 8rpx rgba(0, 0, 0, 0.25));
+}
+:root,
+page {
+  --nut-progress-small-height: 4rpx;
+}
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/medal/medalDetails/medalDetails.vue?vue&type=style&index=1&id=19a79df1&lang=scss&module=true ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes medalDetails__slide-bottom___P9rQj {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes medalDetails__slide-bottom___P9rQj {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.medalDetails__main___Ys8uX {
+  color: #333333;
+}
+.medalDetails__main_title___KjKST {
+  width: 480rpx;
+  line-height: 64rpx;
+  text-align: center;
+  margin-top: 112rpx;
+}
+.medalDetails__main_ratio___r4BU5 {
+  margin-top: 16rpx;
+  color: #a5a5a5;
+}
+.medalDetails__main_image___JQyz1 {
+  margin: 64rpx 0 64rpx 36rpx;
+  width: 338rpx;
+  height: 416rpx;
+}
+.medalDetails__main_finish___plOxH {
+  max-width: 600rpx;
+  text-align: center;
+  color: #a5a5a5;
+  line-height: 36rpx;
+}
+.medalDetails__main_description___CBfdH {
+  margin: 64rpx 0 30rpx 0;
+}
+.medalDetails__main_progress___vwKZm {
+  width: 330rpx;
+}
+.medalDetails__main_btn___Cy2cJ {
+  margin-top: 112rpx;
+  width: 444rpx;
+  height: 88rpx;
+}
+.medalDetails__main_btn-no___Mdro8 {
+  background: transparent;
+  color: #333333;
+  border: 2rpx solid #333333;
+}

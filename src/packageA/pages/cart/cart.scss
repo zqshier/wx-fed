@@ -1,0 +1,187 @@
+.layout {
+  height: 100vh;
+  overflow: hidden;
+  .header {
+    z-index: 2000;
+  }
+  .checked_item {
+    width: 32px;
+    height: 80px;
+  }
+  .icon_down {
+    width: 12px;
+    height: 12px;
+    margin-left: 4px;
+  }
+  .main {
+    min-height: 300px;
+    height: 100%;
+    &_tips {
+      width: 375px;
+      height: 52px;
+      padding: 16px;
+      .f_text {
+        color: $Tertiary;
+      }
+    }
+    &_item {
+      width: 343px;
+      margin: 0 auto;
+      margin-bottom: 16px;
+      overflow: hidden;
+      .swipe_content {
+        width: 343px;
+        padding: 16px;
+        // background: $white;
+
+        .info {
+          &_image {
+            position: relative;
+            width: 72px;
+            height: 80px;
+            margin-right: 16px;
+            overflow: hidden;
+            &-url {
+              width: 100%;
+              height: 100%;
+            }
+            &-none {
+              position: absolute;
+              top: 12px;
+              left: 8px;
+              width: 56px;
+              height: 56px;
+              color: $white;
+              background-color: rgba($color: $Primary, $alpha: 0.7);
+              border-radius: 32px;
+              z-index: 1;
+            }
+          }
+          &_right {
+            width: 100%;
+            min-height: 80px;
+            .name {
+              width: 191px;
+              line-height: 20px;
+              min-height: 20px;
+              margin-bottom: 8px;
+            }
+            .sku {
+              max-width: 191px;
+              &_item {
+                min-height: 18px;
+                color: $Tertiary;
+                line-height: 18px;
+                margin-top: -4px;
+                margin-bottom: 8px;
+              }
+            }
+            .price {
+              width: 191px;
+              margin-bottom: 8px;
+              &_left {
+                width: 107px;
+                height: 20px;
+                line-height: 26px;
+                color: $Secendary;
+                // &-color {
+                //   color: $Secendary;
+                // }
+                // &-width {
+                //   max-width: 50px;
+                // }
+              }
+            }
+            .new_price {
+              width: 100%;
+              color: $Brand;
+            }
+          }
+          &_right-none {
+            .sku,
+            .name,
+            .price {
+              opacity: 0.3;
+            }
+          }
+        }
+        .act_countdown {
+          margin-top: 12px;
+          color: #0b4730;
+          .countdown_border {
+            margin-bottom: 10px;
+            width: 307px;
+            border-top: 1px solid #e6e6e6;
+          }
+          // .countdown_content {
+          //   width: 350px;
+          // }
+          .countdown_name {
+            max-width: 165px;
+          }
+          .countdown_num {
+            margin-left: 2px;
+          }
+        }
+      }
+      .swipe_right {
+        width: 64px;
+        height: 100%;
+        .swipe-del-btn {
+          position: relative;
+          top: 56px;
+          left: 24px;
+          width: 32px;
+          height: 32px;
+          padding: 0;
+          background: $Brand;
+          border-radius: 50%;
+          color: $white;
+        }
+      }
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+    &_line {
+      width: 100%;
+      height: 8px;
+    }
+  }
+  .empty_box {
+    width: 375px;
+    padding-top: 176px;
+  }
+  .footer {
+    position: relative;
+    width: 375px;
+    height: 88px;
+    padding: 8px;
+    z-index: 9999;
+    &_left {
+      height: 40px;
+      padding-left: 16px;
+      color: $Tertiary;
+    }
+    &_right {
+      height: 40px;
+      &-left {
+        height: 100%;
+        line-height: 20px;
+        margin-right: 16px;
+        .left_top {
+          .t_text {
+            margin-right: 4px;
+          }
+        }
+        .b_text {
+          color: $Brand;
+        }
+      }
+      .set_btn {
+        min-width: 120px;
+        height: 40px;
+      }
+    }
+  }
+}

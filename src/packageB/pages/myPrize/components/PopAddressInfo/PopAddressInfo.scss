@@ -1,0 +1,34 @@
+.content {
+  // min-width: 320px;
+  padding: 32px;
+  .pop_title {
+    margin-bottom: 16px;
+  }
+  .icon_right {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    width: 20px;
+    height: 20px;
+    transform: translateY(-10px)
+  }
+  .form {
+    width: 100%;
+    margin-bottom: 16px;
+    .item {
+      position: relative;
+      width: 100%;
+      height: 56px;
+      border-bottom: 0.5px solid $Divide;
+      &_text {
+        width: 80px;
+      }
+      &_input {
+        width: 176px;
+      }
+    }
+  }
+  .btn {
+    width: 256px;
+  }
+}

@@ -1,0 +1,61 @@
+@charset "UTF-8";@import "../../sub-vendors.wxss";/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/posterImage/posterImage.vue?vue&type=style&index=0&id=379b6607&lang=scss&module=true ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/** 弃用，后期删除 **/
+@-webkit-keyframes posterImage__slide-bottom___ptdhE {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes posterImage__slide-bottom___ptdhE {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.posterImage__pop-poster___eVSrH {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+.posterImage__pop-poster___eVSrH .posterImage__poster-center___1yM8s {
+  width: 752rpx;
+  height: 1352rpx;
+}
+.posterImage__pop-poster___eVSrH .posterImage__poster-center___1yM8s .posterImage__image___hfBZA {
+  width: 100%;
+  height: 100%;
+}
+.posterImage__pop-poster___eVSrH .posterImage__footer___kO74e {
+  margin-top: 40rpx;
+  width: 750rpx;
+  min-height: 110rpx;
+  text-align: center;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.posterImage__pop-poster___eVSrH .posterImage__btn___FqYEl {
+  width: 690rpx;
+  height: 90rpx;
+  line-height: 90rpx;
+  color: var(--nut-white, #fff);
+  font-size: 28rpx;
+  text-align: center;
+  background: #333333;
+  border-radius: 100rpx;
+}

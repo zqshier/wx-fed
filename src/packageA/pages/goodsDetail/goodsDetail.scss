@@ -1,0 +1,65 @@
+.layout {
+  height: 100vh;
+  background-color: transparent;
+  overflow: hidden;
+}
+.main {
+  width: 375px;
+  .info-warp {
+    padding: 16px;
+  }
+}
+
+.hideContent {
+  height: 100vh;
+  overflow: hidden;
+}
+
+.no-data {
+  position: absolute;
+  left: 50%;
+  top: 245px;
+  transform: translateX(-50%);
+  width: 224px;
+  &_icon {
+    width: 48px;
+    height: 48px;
+  }
+  &_title {
+    font-family: 'FZLanTingHei-R-GBK';
+    margin: 24px 0;
+    color: $Tertiary;
+  }
+  &_btn {
+    width: 90px;
+    height: 40px;
+    border-radius: 20px;
+    border: 1px solid $Tertiary;
+  }
+}
+
+.indicator-row {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  left: 50%;
+  bottom: 16px;
+  transform: translateX(-50%);
+  width: 100%;
+  height: 5px;
+  z-index: 2;
+  .indicator-dot {
+    width: 5px;
+    height: 5px;
+    background: $Tertiary;
+    border-radius: 50%;
+    margin: 0 5px;
+
+    &_active {
+      background: $Brand;
+    }
+  }
+}
+.like {
+  padding-bottom: 0;
+}

@@ -1,0 +1,103 @@
+@charset "UTF-8";@import "../../../sub-vendors.wxss";@import "../../../sub-common/483f6e9b53e3f314843b861c8637927f.wxss";/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/coupon/couponList/couponList.vue?vue&type=style&index=0&id=6a2c603c&lang=scss&module=true ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/** 弃用，后期删除 **/
+@-webkit-keyframes couponList__slide-bottom___uJ3Gs {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes couponList__slide-bottom___uJ3Gs {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.couponList__layout___vCR02 {
+  height: 100vh;
+}
+.couponList__layout___vCR02 .couponList__box___T98D4 {
+  width: 750rpx;
+  padding: 48rpx 32rpx 16rpx 32rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background: var(--nut-white, #fff);
+  border-bottom: 1rpx solid var(--divide, #d9d9d9);
+  z-index: 2;
+}
+.couponList__layout___vCR02 .couponList__box___T98D4 .couponList__item___Y3K9C {
+  position: relative;
+  width: 228rpx;
+  font-family: "FZLanTingHei-R-GBK";
+}
+.couponList__layout___vCR02 .couponList__box___T98D4 .couponList__item___Y3K9C .couponList__item_name___I0h6z {
+  color: #a5a5a5;
+  z-index: 2;
+}
+.couponList__layout___vCR02 .couponList__box___T98D4 .couponList__item___Y3K9C .couponList__item_name-selected___nlbXe {
+  color: #333333;
+  font-weight: 600;
+}
+.couponList__layout___vCR02 .couponList__no_data___YHI43 {
+  padding-top: 320rpx;
+}
+.couponList__layout___vCR02 .couponList__swiper_box___jsW5c {
+  max-height: 100%;
+}
+.couponList__layout___vCR02 .couponList__swiper_box___jsW5c .couponList__swiper_item___jNphn {
+  height: 100%;
+}
+.couponList__layout___vCR02 .couponList__swiper_box___jsW5c .couponList__swiper_item___jNphn .couponList__swiper_item-view____ot1t {
+  width: 100%;
+  height: 91%;
+}
+.couponList__layout___vCR02 .couponList__swiper_box___jsW5c .couponList__swiper_item___jNphn .couponList__swiper_item-view____ot1t .couponList__main___QoZob {
+  width: 100%;
+  padding: 32rpx;
+}
+.couponList__layout___vCR02 .couponList__swiper_box___jsW5c .couponList__swiper_item___jNphn .couponList__swiper_item-view____ot1t .couponList__main___QoZob .couponList__main_item___RZWIX {
+  margin-bottom: 24rpx;
+}
+.couponList__layout___vCR02 .couponList__swiper_box___jsW5c .couponList__swiper_item___jNphn .couponList__swiper_item-height___PYGsZ {
+  height: 100%;
+}
+.couponList__layout___vCR02 .couponList__couponCenter___q33aX {
+  margin: 0 auto;
+  margin-top: 32rpx;
+  padding: 32rpx;
+  width: 686rpx;
+  height: 96rpx;
+  background: #fff;
+}
+.couponList__layout___vCR02 .couponList__couponCenter_icon___bU2fA {
+  width: 48rpx;
+  height: 48rpx;
+}
+.couponList__layout___vCR02 .couponList__couponCenter_title___hSkli {
+  width: 518rpx;
+  margin: 0 16rpx;
+  color: var(--primary, #333);
+  font-family: "FZLanTingHei-R-GBK";
+}
+.couponList__layout___vCR02 .couponList__couponCenter_icon-right___a0D0U {
+  width: 24rpx;
+  height: 24rpx;
+}
+.couponList__load___Pomo9 {
+  width: 100%;
+  height: 100%;
+}

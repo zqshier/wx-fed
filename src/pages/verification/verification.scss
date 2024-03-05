@@ -1,0 +1,99 @@
+.layout {
+  .main {
+    width: 375px;
+    min-height: 442px;
+    padding-top: 32px;
+
+    .title {
+      width: 100%;
+      color: $Primary;
+      margin-bottom: 24px;
+
+      .icon_success {
+        width: 48px;
+        height: 48px;
+        margin-bottom: 16px;
+      }
+    }
+
+    .goods {
+      width: 100%;
+      margin-bottom: 24px;
+
+      .image {
+        width: 120px;
+        height: 120px;
+        margin-top: 8px;
+      }
+    }
+
+    .info {
+      width: 100%;
+      text-align: center;
+
+      .title {
+        line-height: 28px;
+        color: $Primary;
+        margin-bottom: 16px;
+      }
+
+      .warn_tips {
+        color: $Brand;
+      }
+
+      .time {
+        display: inline-block;
+        color: $Tertiary;
+        text-align: center;
+        line-height: 18px;
+        margin-bottom: 16px;
+      }
+
+      .tips {
+        width: 200px;
+        line-height: 26px;
+        text-align: center;
+        margin: 0 auto;
+        color: $Tertiary;
+        background: $Block;
+        border-radius: 24px;
+      }
+    }
+  }
+  .footer {
+    width: 375px;
+    padding: 24px 0 56px;
+    .tips {
+      color: $Primary;
+      margin-bottom: 16px;
+    }
+    .task {
+      width: 375px;
+      padding: 0 16px;
+
+      .list {
+        width: 100%;
+        padding: 12px 0px;
+        border-bottom: 0.5px solid $Divide;
+        &:first-child {
+          border-top: 0.5px solid $Divide;
+        }
+        .left {
+          .icon {
+            width: 24px;
+            height: 24px;
+            margin-right: 8px;
+          }
+          .tip {
+            color: $Brand;
+            text-align: right;
+            padding-right: 16px;
+            &_none {
+              color: $Tertiary;
+            }
+          }
+        }
+      }
+    }
+  }
+}

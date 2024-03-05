@@ -1,0 +1,114 @@
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/pages/verification/verification.vue?vue&type=style&index=0&id=01cd8c3b&lang=scss&module=true ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes verification__slide-bottom___qUSB1 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes verification__slide-bottom___qUSB1 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.verification__layout___mCil_ .verification__main___sLt70 {
+  width: 750rpx;
+  min-height: 884rpx;
+  padding-top: 64rpx;
+}
+.verification__layout___mCil_ .verification__main___sLt70 .verification__title___TERdF {
+  width: 100%;
+  color: #333333;
+  margin-bottom: 48rpx;
+}
+.verification__layout___mCil_ .verification__main___sLt70 .verification__title___TERdF .verification__icon_success___IlJ7c {
+  width: 96rpx;
+  height: 96rpx;
+  margin-bottom: 32rpx;
+}
+.verification__layout___mCil_ .verification__main___sLt70 .verification__goods___D6y9m {
+  width: 100%;
+  margin-bottom: 48rpx;
+}
+.verification__layout___mCil_ .verification__main___sLt70 .verification__goods___D6y9m .verification__image___aYKvy {
+  width: 240rpx;
+  height: 240rpx;
+  margin-top: 16rpx;
+}
+.verification__layout___mCil_ .verification__main___sLt70 .verification__info___IRpNq {
+  width: 100%;
+  text-align: center;
+}
+.verification__layout___mCil_ .verification__main___sLt70 .verification__info___IRpNq .verification__title___TERdF {
+  line-height: 56rpx;
+  color: #333333;
+  margin-bottom: 32rpx;
+}
+.verification__layout___mCil_ .verification__main___sLt70 .verification__info___IRpNq .verification__warn_tips___BDjBy {
+  color: #ff0000;
+}
+.verification__layout___mCil_ .verification__main___sLt70 .verification__info___IRpNq .verification__time___BGewt {
+  display: inline-block;
+  color: #a5a5a5;
+  text-align: center;
+  line-height: 36rpx;
+  margin-bottom: 32rpx;
+}
+.verification__layout___mCil_ .verification__main___sLt70 .verification__info___IRpNq .verification__tips___Zrt5i {
+  width: 400rpx;
+  line-height: 52rpx;
+  text-align: center;
+  margin: 0 auto;
+  color: #a5a5a5;
+  background: #eeeeee;
+  border-radius: 48rpx;
+}
+.verification__layout___mCil_ .verification__footer___mFQZr {
+  width: 750rpx;
+  padding: 48rpx 0 112rpx;
+}
+.verification__layout___mCil_ .verification__footer___mFQZr .verification__tips___Zrt5i {
+  color: #333333;
+  margin-bottom: 32rpx;
+}
+.verification__layout___mCil_ .verification__footer___mFQZr .verification__task___ZzKXg {
+  width: 750rpx;
+  padding: 0 32rpx;
+}
+.verification__layout___mCil_ .verification__footer___mFQZr .verification__task___ZzKXg .verification__list___spMtc {
+  width: 100%;
+  padding: 24rpx 0rpx;
+  border-bottom: 1rpx solid #d9d9d9;
+}
+.verification__layout___mCil_ .verification__footer___mFQZr .verification__task___ZzKXg .verification__list___spMtc:first-child {
+  border-top: 1rpx solid #d9d9d9;
+}
+.verification__layout___mCil_ .verification__footer___mFQZr .verification__task___ZzKXg .verification__list___spMtc .verification__left___bSNrP .verification__icon___SpVkX {
+  width: 48rpx;
+  height: 48rpx;
+  margin-right: 16rpx;
+}
+.verification__layout___mCil_ .verification__footer___mFQZr .verification__task___ZzKXg .verification__list___spMtc .verification__left___bSNrP .verification__tip___CXURK {
+  color: #ff0000;
+  text-align: right;
+  padding-right: 32rpx;
+}
+.verification__layout___mCil_ .verification__footer___mFQZr .verification__task___ZzKXg .verification__list___spMtc .verification__left___bSNrP .verification__tip_none___kbAs9 {
+  color: #a5a5a5;
+}

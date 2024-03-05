@@ -1,0 +1,171 @@
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./SearchBar.vue?vue&type=script&lang=ts&setup=true */
+
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./SearchBar.vue?vue&type=template&id=d5c415e2&ts=true */
+
+/*! -!../../../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../../../node_modules/mini-css-extract-plugin/dist/loader.js!../../../../../../node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!../../../../../../node_modules/vue-loader/dist/stylePostLoader.js!../../../../../../node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!../../../../../../node_modules/resolve-url-loader/index.js!../../../../../../node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!../../../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./SearchBar.vue?vue&type=style&index=1&id=d5c415e2&lang=scss&module=true */
+
+/*! -!../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./search.vue?vue&type=script&setup=true&lang=ts */
+
+/*! -!../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!../../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./search.vue?vue&type=template&id=632ae82e&ts=true */
+
+/*! -!../../../../node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!../../../../node_modules/mini-css-extract-plugin/dist/loader.js!../../../../node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!../../../../node_modules/vue-loader/dist/stylePostLoader.js!../../../../node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!../../../../node_modules/resolve-url-loader/index.js!../../../../node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!../../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./search.vue?vue&type=style&index=0&id=632ae82e&lang=scss&module=true */
+
+/*! ../../../../../static/icon/icon_back.png */
+
+/*! ../../../../node_modules/@tarojs/taro-loader/lib/raw.js!./search.vue */
+
+/*! ../../icon/search.png */
+
+/*! ../../icon/search_on.png */
+
+/*! ../../styles/reset.css */
+
+/*! ../_es/Sticky.js */
+
+/*! ../secondClassify/components/sort/sort.vue */
+
+/*! ./SearchBar.vue?vue&type=script&lang=ts&setup=true */
+
+/*! ./SearchBar.vue?vue&type=style&index=1&id=d5c415e2&lang=scss&module=true */
+
+/*! ./SearchBar.vue?vue&type=template&id=d5c415e2&ts=true */
+
+/*! ./_plugin-vue_export-helper-cc2b3d55.js */
+
+/*! ./component-01e0ee08.js */
+
+/*! ./components/SearchBar/SearchBar.vue */
+
+/*! ./index-18126ac5.js */
+
+/*! ./index.scss */
+
+/*! ./node_modules/@babel/runtime/helpers/esm/asyncToGenerator.js */
+
+/*! ./node_modules/@babel/runtime/helpers/esm/regeneratorRuntime.js */
+
+/*! ./node_modules/vue-loader/dist/exportHelper.js */
+
+/*! ./props */
+
+/*! ./search.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./search.vue?vue&type=style&index=0&id=632ae82e&lang=scss&module=true */
+
+/*! ./search.vue?vue&type=template&id=632ae82e&ts=true */
+
+/*! @/api/goods */
+
+/*! @/components/ProductItem/ProductItem.vue */
+
+/*! @/components/RecommendedItems/RecommendedItems.vue */
+
+/*! @/stores */
+
+/*! @/utils/track */
+
+/*! @/utils/track/config */
+
+/*! @nutui/icons-vue-taro */
+
+/*! @nutui/nutui-taro */
+
+/*! @nutui/nutui-taro/dist/packages/navbar/style */
+
+/*! @nutui/nutui-taro/dist/packages/sticky/style */
+
+/*! @tarojs/runtime */
+
+/*! @tarojs/taro */
+
+/*! lodash */
+
+/*! vue */
+
+/*!**********************************************!*\
+  !*** ./src/packageA/pages/search/search.vue ***!
+  \**********************************************/
+
+/*!***************************************************!*\
+  !*** ./src/packageA/pages/search/icon/search.png ***!
+  \***************************************************/
+
+/*!******************************************************!*\
+  !*** ./src/packageA/pages/search/icon/search_on.png ***!
+  \******************************************************/
+
+/*!*****************************************************************!*\
+  !*** ./src/packageA/pages/search/components/SearchBar/props.ts ***!
+  \*****************************************************************/
+
+/*!********************************************************************!*\
+  !*** ./node_modules/@nutui/nutui-taro/dist/packages/_es/Sticky.js ***!
+  \********************************************************************/
+
+/*!**********************************************************************!*\
+  !*** ./src/packageA/pages/search/components/SearchBar/SearchBar.vue ***!
+  \**********************************************************************/
+
+/*!***********************************************************************!*\
+  !*** ./node_modules/@nutui/nutui-taro/dist/packages/sticky/index.mjs ***!
+  \***********************************************************************/
+
+/*!***********************************************************************!*\
+  !*** ./node_modules/@nutui/nutui-taro/dist/packages/sticky/style.mjs ***!
+  \***********************************************************************/
+
+/*!************************************************************************!*\
+  !*** ./node_modules/@nutui/nutui-taro/dist/packages/sticky/index.scss ***!
+  \************************************************************************/
+
+/*!*********************************************************************************!*\
+  !*** ./src/packageA/pages/search/search.vue?vue&type=script&setup=true&lang=ts ***!
+  \*********************************************************************************/
+
+/*!************************************************************************************!*\
+  !*** ./src/packageA/pages/search/search.vue?vue&type=template&id=632ae82e&ts=true ***!
+  \************************************************************************************/
+
+/*!********************************************************************************************!*\
+  !*** ./node_modules/@tarojs/taro-loader/lib/raw.js!./src/packageA/pages/search/search.vue ***!
+  \********************************************************************************************/
+
+/*!*******************************************************************************************************!*\
+  !*** ./src/packageA/pages/search/search.vue?vue&type=style&index=0&id=632ae82e&lang=scss&module=true ***!
+  \*******************************************************************************************************/
+
+/*!*********************************************************************************************************!*\
+  !*** ./src/packageA/pages/search/components/SearchBar/SearchBar.vue?vue&type=script&lang=ts&setup=true ***!
+  \*********************************************************************************************************/
+
+/*!************************************************************************************************************!*\
+  !*** ./src/packageA/pages/search/components/SearchBar/SearchBar.vue?vue&type=template&id=d5c415e2&ts=true ***!
+  \************************************************************************************************************/
+
+/*!*******************************************************************************************************************************!*\
+  !*** ./src/packageA/pages/search/components/SearchBar/SearchBar.vue?vue&type=style&index=1&id=d5c415e2&lang=scss&module=true ***!
+  \*******************************************************************************************************************************/
+
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/search/search.vue?vue&type=script&setup=true&lang=ts ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/search/components/SearchBar/SearchBar.vue?vue&type=script&lang=ts&setup=true ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/search/search.vue?vue&type=template&id=632ae82e&ts=true ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/babel-loader/lib/index.js??clonedRuleSet-21.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/search/components/SearchBar/SearchBar.vue?vue&type=template&id=d5c415e2&ts=true ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/mini-css-extract-plugin/dist/loader.js!./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/search/search.vue?vue&type=style&index=0&id=632ae82e&lang=scss&module=true ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/unplugin/dist/webpack/loaders/transform.js?unpluginName=unplugin-vue-components!./node_modules/mini-css-extract-plugin/dist/loader.js!./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/search/components/SearchBar/SearchBar.vue?vue&type=style&index=1&id=d5c415e2&lang=scss&module=true ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/

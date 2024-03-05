@@ -1,0 +1,88 @@
+@charset "UTF-8";@import "../../sub-vendors.wxss";@import "../../sub-common/483f6e9b53e3f314843b861c8637927f.wxss";/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/pointOrderList/pointOrderList.vue?vue&type=style&index=0&id=6806b269&lang=scss&module=true ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/** 弃用，后期删除 **/
+@-webkit-keyframes pointOrderList__slide-bottom___UqvAL {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes pointOrderList__slide-bottom___UqvAL {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.pointOrderList__main___KdxT1 {
+  padding: 32rpx;
+}
+.pointOrderList__main___KdxT1 .pointOrderList__product-warp___tPA64 {
+  width: 686rpx;
+  height: 244rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background: var(--nut-white, #fff);
+  border-radius: 16rpx;
+}
+.pointOrderList__main___KdxT1 .pointOrderList__info_img___fTf0Y {
+  margin-right: 32rpx;
+  width: 180rpx;
+  height: 180rpx;
+  background: #d9d9d9;
+}
+.pointOrderList__main___KdxT1 .pointOrderList__info-warp___aN4eS {
+  width: 410rpx;
+  height: 180rpx;
+}
+.pointOrderList__main___KdxT1 .pointOrderList__info-warp_top___ymtMH {
+  margin-bottom: 16rpx;
+}
+.pointOrderList__main___KdxT1 .pointOrderList__info-warp_top___ymtMH .pointOrderList__top_title____1CEn {
+  width: 304rpx;
+  color: #333333;
+  line-height: 48rpx;
+}
+.pointOrderList__main___KdxT1 .pointOrderList__info-warp_top___ymtMH .pointOrderList__top_status___Fmrum {
+  color: #a5a5a5;
+  text-align: right;
+  line-height: 36rpx;
+}
+.pointOrderList__main___KdxT1 .pointOrderList__info-warp_middle___FOzM9 .pointOrderList__middle_name___hxea7 {
+  color: #333333;
+  margin-right: 16rpx;
+  line-height: 36rpx;
+}
+.pointOrderList__main___KdxT1 .pointOrderList__info-warp_middle___FOzM9 .pointOrderList__middle_address___RUANR {
+  width: 100%;
+  color: #a5a5a5;
+  line-height: 36rpx;
+  margin-bottom: 16rpx;
+}
+.pointOrderList__main___KdxT1 .pointOrderList__info-warp_end___tujZf {
+  color: #a5a5a5;
+  line-height: 28rpx;
+}
+.pointOrderList__main___KdxT1 .pointOrderList__info-warp_end___tujZf .pointOrderList__copy_image___ckXuQ {
+  width: 32rpx;
+  height: 32rpx;
+  margin-left: 8rpx;
+}
+.pointOrderList__main___KdxT1 .pointOrderList__empty_box___oyGdc {
+  margin-top: 352rpx;
+  width: 100%;
+  height: 100%;
+}

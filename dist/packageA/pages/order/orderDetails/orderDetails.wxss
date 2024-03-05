@@ -1,0 +1,411 @@
+@charset "UTF-8";@import "../../../sub-vendors.wxss";@import "../../../sub-common/2dba7f06705fd7c2bc0fb89265d663c9.wxss";@import "../../../sub-common/785d9ca3536fe6dfacea81a110d67659.wxss";/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/order/orderDetails/components/GoodsInfo.vue?vue&type=style&index=0&id=c82b0542&lang=scss&module=true ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/** 弃用，后期删除 **/
+@-webkit-keyframes GoodsInfo__slide-bottom___d8S9W {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes GoodsInfo__slide-bottom___d8S9W {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.GoodsInfo__goods_info___qGsmp {
+  color: #333333;
+}
+.GoodsInfo__goods_info___qGsmp .GoodsInfo__info_item___WRx2b {
+  width: 100%;
+  color: #a5a5a5;
+  font-family: "FZLanTingHei-R-GBK";
+}
+.GoodsInfo__goods_info___qGsmp .GoodsInfo__info_item___WRx2b .GoodsInfo__item_colors___opcsv {
+  color: #fe6318;
+}
+.GoodsInfo__goods_info___qGsmp .GoodsInfo__info_item___WRx2b .GoodsInfo__right___JcFKp {
+  font-family: "CentraleSans-medium";
+  font-weight: 500;
+  color: #333333;
+}
+.GoodsInfo__goods_info___qGsmp .GoodsInfo__info_item___WRx2b:last-child {
+  margin-bottom: 0;
+}
+.GoodsInfo__goods_info___qGsmp .GoodsInfo__info_item-payment___uz01N {
+  padding-top: 22rpx;
+  border-top: 1rpx solid #d9d9d9;
+  -webkit-align-items: baseline;
+      -ms-flex-align: baseline;
+          align-items: baseline;
+}
+.GoodsInfo__goods_info___qGsmp .GoodsInfo__info_item-payment___uz01N .GoodsInfo__payment-title___fv8vx {
+  margin-right: 16rpx;
+}
+.GoodsInfo__goods_info___qGsmp .GoodsInfo__left___cRVrM {
+  color: #a5a5a5;
+}
+.GoodsInfo__goods_info___qGsmp .GoodsInfo__point_box___XrP74 {
+  color: #333333;
+  margin-left: 4rpx;
+}
+.GoodsInfo__goods_info___qGsmp .GoodsInfo__point_box___XrP74 .GoodsInfo__symbol___WeXG4 {
+  margin: 0 4rpx;
+}
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/order/orderDetails/components/OrderInfo.vue?vue&type=style&index=0&id=2148f557&lang=scss&module=true ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes OrderInfo__slide-bottom___W8Xcg {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes OrderInfo__slide-bottom___W8Xcg {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.OrderInfo__order_info___ssRp_ {
+  color: #444444;
+}
+.OrderInfo__order_info___ssRp_ .OrderInfo__info_item___hgG1h {
+  -webkit-align-items: baseline;
+      -ms-flex-align: baseline;
+          align-items: baseline;
+  width: 100%;
+  color: #a5a5a5;
+  font-family: "FZLanTingHei-R-GBK";
+}
+.OrderInfo__order_info___ssRp_ .OrderInfo__info_item___hgG1h:last-child {
+  margin-bottom: 0;
+}
+.OrderInfo__order_info___ssRp_ .OrderInfo__left____D84w {
+  color: #a5a5a5;
+}
+.OrderInfo__order_info___ssRp_ .OrderInfo__right___GXIr_ {
+  font-weight: 500;
+  color: #333333;
+  font-family: "CentraleSans-medium";
+}
+.OrderInfo__order_info___ssRp_ .OrderInfo__rightMaxW___vhdAz {
+  max-width: 470rpx;
+}
+.OrderInfo__order_info___ssRp_ .OrderInfo__copy___kC3qB {
+  width: 72rpx;
+  height: 32rpx;
+  text-align: center;
+  font-size: 20rpx;
+  line-height: 32rpx;
+  color: #333333;
+  font-family: "FZLanTingHei-R-GBK";
+  font-weight: 400;
+  border-radius: 16rpx;
+  background: #eee;
+  margin-left: 16rpx;
+}
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/order/orderDetails/components/ParcelItems.vue?vue&type=style&index=0&id=8c48c19c&lang=scss&module=true ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes ParcelItems__slide-bottom___Vcwlv {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes ParcelItems__slide-bottom___Vcwlv {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.ParcelItems__order_parcel____WYlF .ParcelItems__parcel_item___yMbpE .ParcelItems__item_left___Amb8D {
+  padding-left: 12rpx;
+}
+.ParcelItems__order_parcel____WYlF .ParcelItems__parcel_item___yMbpE .ParcelItems__item_left___Amb8D .ParcelItems__text-warp____9Ydr {
+  width: 478rpx;
+  color: #a5a5a5;
+  font-family: "FZLanTingHei-R-GBK";
+}
+.ParcelItems__order_parcel____WYlF .ParcelItems__parcel_item___yMbpE .ParcelItems__item_left___Amb8D .ParcelItems__text___m48yu {
+  color: #444444;
+  word-break: break-all;
+  margin-bottom: 8rpx;
+}
+.ParcelItems__order_parcel____WYlF .ParcelItems__parcel_item___yMbpE .ParcelItems__icon_right___VDe5h {
+  width: 32rpx;
+  height: 32rpx;
+  margin-left: 16rpx;
+}
+.ParcelItems__order_parcel____WYlF .ParcelItems__icon_toShip___pd41X {
+  width: 48rpx;
+  height: 48rpx;
+  margin-right: 32rpx;
+}
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-8.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-8.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-8.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/components/PopOrderRbatchItem/PopOrderRbatchItem.vue?vue&type=style&index=0&id=5509640f&lang=scss ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes slide-bottom {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes slide-bottom {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.nutui-iconfont {
+  font-size: 24rpx;
+}
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/components/PopOrderRbatchItem/PopOrderRbatchItem.vue?vue&type=style&index=1&id=5509640f&lang=scss&module=true ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes PopOrderRbatchItem__slide-bottom___gG7b_ {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes PopOrderRbatchItem__slide-bottom___gG7b_ {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.PopOrderRbatchItem__box___u0_Mp {
+  width: 750rpx;
+}
+.PopOrderRbatchItem__box___u0_Mp .PopOrderRbatchItem__title___aPbN9 {
+  margin-top: 68rpx;
+  width: 750rpx;
+  line-height: 48rpx;
+  text-align: center;
+  color: #333333;
+}
+.PopOrderRbatchItem__box___u0_Mp .PopOrderRbatchItem__main___EIFej {
+  margin: 48rpx 0 24rpx 0;
+  width: 750rpx;
+  overflow: hidden;
+}
+.PopOrderRbatchItem__box___u0_Mp .PopOrderRbatchItem__main_item___peZZz {
+  width: 750rpx;
+  max-height: 880rpx;
+  padding: 0 32rpx;
+}
+.PopOrderRbatchItem__box___u0_Mp .PopOrderRbatchItem__main_item___peZZz .PopOrderRbatchItem__main_list___xYcOU {
+  width: 686rpx;
+  padding: 32rpx;
+  border-radius: 16rpx;
+  background: var(--white, #fff);
+  margin-bottom: 24rpx;
+}
+.PopOrderRbatchItem__box___u0_Mp .PopOrderRbatchItem__main_item___peZZz .PopOrderRbatchItem__main_list___xYcOU .PopOrderRbatchItem__item___oDy6w {
+  width: 558rpx;
+}
+.PopOrderRbatchItem__box___u0_Mp .PopOrderRbatchItem__bottom___dgEbN {
+  width: 750rpx;
+  line-height: 100rpx;
+  padding: 48rpx 32rpx 0 32rpx;
+}
+.PopOrderRbatchItem__box___u0_Mp .PopOrderRbatchItem__bottom___dgEbN .PopOrderRbatchItem__btn___mhQZs {
+  width: 240rpx;
+  height: 80rpx;
+  border-radius: 40rpx;
+}
+.PopOrderRbatchItem__box___u0_Mp .PopOrderRbatchItem__item_no___L1qdh {
+  margin-right: 32rpx;
+  width: 32rpx;
+  height: 32rpx;
+  border-radius: 50%;
+  background: var(--block, #eee);
+  border: 2rpx solid #a5a5a5;
+}
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/order/orderDetails/orderDetails.vue?vue&type=style&index=0&id=ed23bab0&lang=scss&module=true ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes orderDetails__slide-bottom___GZeS5 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes orderDetails__slide-bottom___GZeS5 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.orderDetails__main___kfVkM {
+  height: 100%;
+  padding: 28rpx 30rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.orderDetails__main___kfVkM .orderDetails__parcel___8Mrb0 {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.orderDetails__main___kfVkM .orderDetails__center___AqbJ4 .orderDetails__order_item___xANno {
+  padding-bottom: 20rpx;
+}
+.orderDetails__main___kfVkM .orderDetails__center___AqbJ4 .orderDetails__list___lPCUe {
+  width: 100%;
+  margin-bottom: 24rpx;
+}
+.orderDetails__main___kfVkM .orderDetails__center___AqbJ4 .orderDetails__info___zJhT6 .orderDetails__info_item___Sp20v {
+  border-radius: 16rpx;
+}
+.orderDetails__main___kfVkM .orderDetails__center___AqbJ4 .orderDetails__info___zJhT6 .orderDetails__order-info___P6rlt {
+  color: #333333;
+  font-family: "FZLanTingHei-R-GBK";
+}
+.orderDetails__footer____LrKJ {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 750rpx;
+  height: 176rpx;
+  background: #fff;
+  padding: 16rpx;
+  border-radius: 56rpx 56rpx 0rpx 0rpx;
+  background: var(--bottom, rgba(165, 165, 165, 0.08));
+  -webkit-box-shadow: 0rpx 0rpx 32rpx 32rpx rgba(165, 165, 165, 0.15) inset;
+          box-shadow: 0rpx 0rpx 32rpx 32rpx rgba(165, 165, 165, 0.15) inset;
+  -webkit-backdrop-filter: blur(16rpx);
+          backdrop-filter: blur(16rpx);
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.orderDetails__footer____LrKJ .orderDetails__btn___TNS0t {
+  width: 350rpx;
+  height: 80rpx;
+  border-radius: 40rpx;
+  border: 2rpx solid #a5a5a5;
+  color: #333333;
+  font-family: "FZLanTingHei-R-GBK";
+  background: transparent;
+}
+.orderDetails__footer____LrKJ .orderDetails__btn_pay___D_nVd {
+  margin-left: 16rpx;
+  background: #333333;
+  border-radius: 40rpx;
+  color: var(--nut-white, #fff);
+  border: none;
+}
+.orderDetails__footer____LrKJ .orderDetails__btn_service___glG6e {
+  width: 240rpx;
+  height: 80rpx;
+  margin-left: 32rpx;
+  background: transparent;
+  border: 2rpx solid #a5a5a5;
+}
+.orderDetails__footer____LrKJ .orderDetails__btn_comment___sYbRb {
+  width: 240rpx;
+  height: 80rpx;
+  border-radius: 40rpx;
+  font-family: "FZLanTingHei-R-GBK";
+}
+.orderDetails__footer____LrKJ .orderDetails__btn_comment-can___L6n6K {
+  background: transparent;
+}
+.orderDetails__header_tips___snSYI {
+  color: #f00;
+  font-family: PingFang SC;
+  margin-top: 16rpx;
+}
+.orderDetails__header_tips_countdown___G70JU {
+  margin: 0 8rpx;
+  color: #f00;
+  font-size: 24rpx;
+}
+.orderDetails__main_placeholder___KyuOv {
+  height: 146rpx;
+}

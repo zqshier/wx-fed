@@ -1,0 +1,105 @@
+@charset "UTF-8";@import "../../../sub-vendors.wxss";/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/events/eventList/components/EventItem/EventItem.vue?vue&type=style&index=0&id=162ceb99&lang=scss&module=true ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/** 弃用，后期删除 **/
+@-webkit-keyframes EventItem__slide-bottom___qgeNi {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes EventItem__slide-bottom___qgeNi {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.EventItem__item___Defd4 {
+  width: 686rpx;
+  border-radius: 20rpx;
+  border: 1rpx solid #d9d9d9;
+  -webkit-box-sizing: content-box;
+          box-sizing: content-box;
+  position: relative;
+}
+.EventItem__item___Defd4 .EventItem__item_status___MfAhu {
+  position: absolute;
+  top: 0;
+  right: 32rpx;
+  color: white;
+  width: 100rpx;
+  height: 160rpx;
+  fill: rgba(217, 217, 217, 0.5);
+  -webkit-filter: drop-shadow(0rpx 8rpx 8rpx rgba(0, 0, 0, 0.1));
+          filter: drop-shadow(0rpx 8rpx 8rpx rgba(0, 0, 0, 0.1));
+  background: var(--162ceb99-bgImg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  font-family: "FZLanTingHei-B-GBK";
+}
+.EventItem__item___Defd4 .EventItem__item_status___MfAhu .EventItem__status_icon___VUcNN {
+  width: 48rpx;
+  height: 48rpx;
+  margin-top: 20rpx;
+  margin-bottom: 4rpx;
+}
+.EventItem__item___Defd4 .EventItem__item_img___rl9b8 {
+  width: 100%;
+  height: 256rpx;
+  border-radius: 20rpx 20rpx 0 0;
+}
+.EventItem__item___Defd4 .EventItem__item_title___DfmiF {
+  width: 100%;
+  padding: 16rpx 32rpx;
+  background: white;
+  color: #333333;
+  font-family: "FZLanTingHeiS-R-GB";
+  word-break: break-all;
+  border-radius: 0 0 20rpx 20rpx;
+}
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/events/eventList/eventList.vue?vue&type=style&index=0&id=3c17b0e1&lang=scss&module=true ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes eventList__slide-bottom___WQOq3 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes eventList__slide-bottom___WQOq3 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.eventList__container____Woh0 .eventList__main___yyBIZ {
+  width: 100%;
+  padding: 32rpx;
+}

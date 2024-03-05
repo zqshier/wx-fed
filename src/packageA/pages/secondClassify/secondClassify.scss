@@ -1,0 +1,66 @@
+.main {
+  margin-top: 10px;
+  width: 100%;
+  max-height: 100%;
+  box-sizing: border-box;
+  height: 650px;
+  .sort-wrap {
+    padding: 0 16px;
+  }
+  .sort-search {
+    margin-top: 8px;
+    width: 24px;
+    height: 24px;
+  }
+}
+
+.container {
+  background: #fff;
+  height: 100vh;
+}
+.productList {
+  margin-top: 8px;
+  align-items: baseline;
+}
+
+.swiper_box {
+  height: 620px;
+  max-height: 100%;
+  .swiper_item {
+    height: 100%;
+    &-wrap {
+      height: 100vh;
+    }
+  }
+}
+.loading {
+  width: 100%;
+  height: 100%;
+}
+.no-data {
+  margin-top: 170px;
+  &_icon {
+    width: 48px;
+    height: 48px;
+  }
+  &_title {
+    font-family: 'FZLanTingHei-R-GBK';
+    margin: 24px 0;
+  }
+  &_btn {
+    width: 90px;
+    height: 40px;
+    border-radius: 20px;
+    border: 1px solid var(--tertiary, #a5a5a5);
+  }
+}
+
+.tasb {
+  padding: 0 16px;
+  position: relative;
+}
+::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  color: transparent;
+}

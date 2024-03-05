@@ -1,0 +1,363 @@
+@charset "UTF-8";@import "../../../sub-vendors.wxss";@import "../../../sub-common/2dba7f06705fd7c2bc0fb89265d663c9.wxss";/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/order/aftersalesDetails/components/OrderInfo.vue?vue&type=style&index=0&id=19e7ce97&lang=scss&module=true ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/** 弃用，后期删除 **/
+@-webkit-keyframes OrderInfo__slide-bottom___GvGlC {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes OrderInfo__slide-bottom___GvGlC {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.OrderInfo__order_info___LAM1p {
+  color: #444444;
+}
+.OrderInfo__order_info___LAM1p .OrderInfo__info_item___D1hEh {
+  -webkit-align-items: baseline;
+      -ms-flex-align: baseline;
+          align-items: baseline;
+  width: 100%;
+  color: #a5a5a5;
+  font-family: "FZLanTingHei-R-GBK";
+}
+.OrderInfo__order_info___LAM1p .OrderInfo__info_item___D1hEh:last-child {
+  margin-bottom: 0;
+}
+.OrderInfo__order_info___LAM1p .OrderInfo__info_item-img___usAOH {
+  text-align: end;
+}
+.OrderInfo__order_info___LAM1p .OrderInfo__left___mikZG {
+  color: #a5a5a5;
+  margin-right: 24rpx;
+}
+.OrderInfo__order_info___LAM1p .OrderInfo__right___G4a3M {
+  font-weight: 500;
+  margin-right: 16rpx;
+  color: #333333;
+  font-family: "CentraleSans-medium";
+}
+.OrderInfo__order_info___LAM1p .OrderInfo__right_font___MBc6x {
+  font-family: "FZLanTingHei-R-GBK";
+  font-weight: 400;
+}
+.OrderInfo__order_info___LAM1p .OrderInfo__rightMaxW___kFnNM {
+  max-width: 494rpx;
+}
+.OrderInfo__order_info___LAM1p .OrderInfo__copy___H6Cda {
+  width: 72rpx;
+  height: 32rpx;
+  text-align: center;
+  font-size: 20rpx;
+  line-height: 32rpx;
+  color: var(--primary, #333);
+  font-family: "FZLanTingHei-R-GBK";
+  font-weight: 400;
+  border-radius: 16rpx;
+  background: var(--block, #eee);
+}
+.OrderInfo__order_info___LAM1p .OrderInfo__list_img___T00n7 {
+  margin: 6rpx 4rpx;
+  background: rgba(68, 68, 68, 0.1);
+  width: 144rpx;
+  height: 144rpx;
+}
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-20.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-20.use[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/order/aftersalesDetails/components/Logistics.vue?vue&type=style&index=0&id=7e6167e4&lang=css ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+.input_box {
+  color: #989898;
+  /* display: flex;
+  justify-content: flex-end; */
+}
+.nut-picker__right {
+  color: #251715;
+}
+.pop-class {
+  border-radius: 48rpx 48rpx 0rpx 0rpx;
+  background: white;
+  -webkit-backdrop-filter: blur(20rpx);
+          backdrop-filter: blur(20rpx);
+}
+.overlay-class {
+  background: var(--shade, rgba(0, 0, 0, 0.2));
+}
+
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/order/aftersalesDetails/components/Logistics.vue?vue&type=style&index=1&id=7e6167e4&lang=scss&module=true ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes Logistics__slide-bottom____eANQ {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes Logistics__slide-bottom____eANQ {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.Logistics__box_btn___fXKX9 {
+  margin-top: 32rpx;
+  width: 100%;
+  height: 80rpx;
+  color: #ffffff;
+  border-radius: 40rpx;
+  background: var(--primary, #333);
+}
+.Logistics__company___YihoF {
+  color: #333333;
+  font-family: "FZLanTingHei-R-GBK";
+  width: 100%;
+  padding: 32rpx 0;
+  border-bottom: 1rpx solid var(--divide, #d9d9d9);
+}
+.Logistics__company_border___YDZfi {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+.Logistics__company_val___P3zJg {
+  width: 466rpx;
+  margin: 4rpx 0;
+}
+.Logistics__company_val-color___h6Ryu {
+  color: #333333;
+}
+.Logistics__company_val-input___c1JG_ {
+  text-align: right;
+  width: 100%;
+  font-family: "FZLanTingHei-R-GBK";
+}
+.Logistics__icon-right___O3RKp {
+  width: 32rpx;
+  height: 32rpx;
+}
+.Logistics__box_width___bM80O {
+  width: 100%;
+}
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/order/aftersalesDetails/components/ReturnAddress.vue?vue&type=style&index=0&id=21b7589f&lang=scss&module=true ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes ReturnAddress__slide-bottom___s_NxA {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes ReturnAddress__slide-bottom___s_NxA {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.ReturnAddress__address-warp___fHGOS {
+  border-radius: 16rpx;
+  background: var(--block, #eee);
+  padding: 16rpx 24rpx;
+  color: #333333;
+  font-family: "FZLanTingHei-R-GBK";
+}
+.ReturnAddress__address-warp___fHGOS .ReturnAddress__address_content___Sr5QQ {
+  margin-top: 8rpx;
+}
+.ReturnAddress__address-warp___fHGOS .ReturnAddress__address_content___Sr5QQ .ReturnAddress__content_left___C6SPA {
+  width: 474rpx;
+}
+.ReturnAddress__address-warp___fHGOS .ReturnAddress__address_text___c1CHs {
+  margin-bottom: 8rpx;
+}
+.ReturnAddress__address-warp___fHGOS .ReturnAddress__address_text___c1CHs:nth-child(2) {
+  color: var(--tertiary, #a5a5a5);
+}
+.ReturnAddress__box_btn___zxhac {
+  width: 72rpx;
+  height: 32rpx;
+  color: #ffffff;
+  border-radius: 16rpx;
+  background: var(--tertiary, #a5a5a5);
+  font-family: "FZLanTingHei-R-GBK";
+}
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/order/aftersalesDetails/components/Countdown.vue?vue&type=style&index=0&id=84d2eda8&lang=scss&module=true ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes Countdown__slide-bottom___VJJit {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes Countdown__slide-bottom___VJJit {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.Countdown__countdown___g4B3z {
+  color: var(--brand, #f00);
+  font-family: CentraleSans;
+}
+.Countdown__countdown_day___HHgPY {
+  margin-right: 16rpx;
+  font-family: FZLanTingHeiS-B-GB;
+}
+.Countdown__countdown_hint___O0JMw {
+  color: #a5a5a5;
+  font-family: "FZLanTingHei-R-GBK";
+}
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/order/aftersalesDetails/aftersalesDetails.vue?vue&type=style&index=0&id=1221e24e&lang=scss&module=true ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes aftersalesDetails__slide-bottom___ynp38 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes aftersalesDetails__slide-bottom___ynp38 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.aftersalesDetails__main___Ta3ZZ {
+  padding: 28rpx 30rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.aftersalesDetails__main___Ta3ZZ .aftersalesDetails__top___AETYR {
+  border-radius: 16rpx;
+}
+.aftersalesDetails__main___Ta3ZZ .aftersalesDetails__top___AETYR .aftersalesDetails__top-item___5omsF .aftersalesDetails__title___sLJYs {
+  color: #333333;
+  font-family: "FZLanTingHei-R-GBK";
+}
+.aftersalesDetails__main___Ta3ZZ .aftersalesDetails__top___AETYR .aftersalesDetails__top-item___5omsF .aftersalesDetails__tips___Ogwwp {
+  font-size: 28rpx;
+  font-weight: 400;
+  color: #a5a5a5;
+}
+.aftersalesDetails__main___Ta3ZZ .aftersalesDetails__mg_bottom___Dkiv0 {
+  margin-bottom: 24rpx;
+}
+.aftersalesDetails__main___Ta3ZZ .aftersalesDetails__center___DCuts {
+  border-radius: 16rpx;
+}
+.aftersalesDetails__main___Ta3ZZ .aftersalesDetails__category-title___lfVsP {
+  color: #333333;
+  font-family: "FZLanTingHei-R-GBK";
+  line-height: 36rpx;
+}
+.aftersalesDetails__main___Ta3ZZ .aftersalesDetails__box_width___yVy1l {
+  width: 100%;
+}
+.aftersalesDetails__navigation___VT49l {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 750rpx;
+  min-height: 120rpx;
+  background: #fff;
+  z-index: 100;
+  padding: 20rpx 16rpx 14rpx 16rpx;
+  border-radius: 56rpx 56rpx 0rpx 0rpx;
+  background: var(--bottom, rgba(165, 165, 165, 0.08));
+  -webkit-box-shadow: 0rpx 0rpx 32rpx 32rpx rgba(165, 165, 165, 0.15) inset;
+          box-shadow: 0rpx 0rpx 32rpx 32rpx rgba(165, 165, 165, 0.15) inset;
+  -webkit-backdrop-filter: blur(16rpx);
+          backdrop-filter: blur(16rpx);
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.aftersalesDetails__navigation___VT49l .aftersalesDetails__btn___wMiSX {
+  width: 351rpx;
+  font-size: 28rpx;
+  font-weight: 400;
+  text-align: center;
+  color: #333333;
+  font-family: "FZLanTingHei-R-GBK";
+  border-radius: 40rpx;
+  border: 2rpx solid var(--tertiary, #a5a5a5);
+  background: transparent;
+}
+.aftersalesDetails__navigation___VT49l .aftersalesDetails__btn_width___iJ23y {
+  width: 718rpx;
+}
+.aftersalesDetails__navigation___VT49l .aftersalesDetails__safe___oViJQ {
+  width: 100%;
+  height: 20rpx;
+}

@@ -1,0 +1,239 @@
+@charset "UTF-8";@import "../../sub-vendors.wxss";/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/questionnaire/components/QuestionnaireStatus.vue?vue&type=style&index=0&id=9881fb84&lang=scss&module=true ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/** 弃用，后期删除 **/
+@-webkit-keyframes QuestionnaireStatus__slide-bottom___tOgHT {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes QuestionnaireStatus__slide-bottom___tOgHT {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.QuestionnaireStatus__content___pQTA2 {
+  margin-top: 352rpx;
+  width: 100%;
+  color: #333333;
+  text-align: center;
+  font-family: "FZLanTingHeiS-R-GB";
+}
+.QuestionnaireStatus__content___pQTA2 .QuestionnaireStatus__title___EYR2p,
+.QuestionnaireStatus__content___pQTA2 .QuestionnaireStatus__tips___LpWzm {
+  z-index: 2;
+}
+.QuestionnaireStatus__content___pQTA2 .QuestionnaireStatus__icon___tgVlu {
+  width: 96rpx;
+  height: 96rpx;
+}
+.QuestionnaireStatus__content___pQTA2 .QuestionnaireStatus__btn___eGDM0 {
+  color: #333333;
+  background: transparent;
+  margin-top: 104rpx;
+  border-radius: 40rpx;
+  border: 2rpx solid #a5a5a5;
+}
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/questionnaire/components/QuizCard.vue?vue&type=style&index=0&id=671b05e8&lang=scss&module=true ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes QuizCard__slide-bottom___PJbsd {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes QuizCard__slide-bottom___PJbsd {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.QuizCard__card___MRWuh {
+  position: absolute;
+  width: 702rpx;
+  height: 1112rpx;
+  padding: 48rpx 64rpx;
+  border-radius: 40rpx;
+  background: #fff;
+}
+.QuizCard__card___MRWuh .QuizCard__content___tEBrm {
+  height: 100%;
+}
+.QuizCard__card___MRWuh .QuizCard__content_centered___uLNNy {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-justify-content: space-around;
+      -ms-flex-pack: distribute;
+          justify-content: space-around;
+}
+.QuizCard__card___MRWuh .QuizCard__img___gV0Q9 {
+  margin: 48rpx 0;
+  width: 574rpx;
+  height: 560rpx;
+}
+.QuizCard__card___MRWuh .QuizCard__title___q_7a_ {
+  width: 100%;
+  height: 84rpx;
+  font-family: "FZLanTingHei-B-GBK";
+}
+.QuizCard__card___MRWuh .QuizCard__options___mIuZn {
+  margin-top: 48rpx;
+  width: 574rpx;
+  height: 192rpx;
+  -webkit-align-content: space-between;
+      -ms-flex-line-pack: justify;
+          align-content: space-between;
+}
+.QuizCard__card___MRWuh .QuizCard__options_item___J4POs {
+  width: 248rpx;
+  height: 80rpx;
+  border-radius: 48rpx;
+  border: 2rpx solid #444444;
+}
+.QuizCard__card___MRWuh .QuizCard__options_item-on___OhZx6 {
+  background: #f00;
+  border: 2rpx solid #f00;
+  color: White;
+}
+.QuizCard__rotate-out-2-br-cw___YyQDc {
+  -webkit-animation: QuizCard__rotate-out-2-br-cw___YyQDc 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+          animation: QuizCard__rotate-out-2-br-cw___YyQDc 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+}
+@-webkit-keyframes QuizCard__rotate-out-2-br-cw___YyQDc {
+0% {
+    -webkit-transform: rotate(0);
+            transform: rotate(0);
+    -webkit-transform-origin: 100% 100%;
+            transform-origin: 100% 100%;
+    opacity: 1;
+}
+99% {
+    -webkit-transform: rotate(35deg);
+            transform: rotate(35deg);
+    -webkit-transform-origin: 100% 100%;
+            transform-origin: 100% 100%;
+    opacity: 0;
+}
+100% {
+    -webkit-transform: rotate(0);
+            transform: rotate(0);
+    -webkit-transform-origin: 100% 100%;
+            transform-origin: 100% 100%;
+    opacity: 0;
+}
+}
+@keyframes QuizCard__rotate-out-2-br-cw___YyQDc {
+0% {
+    -webkit-transform: rotate(0);
+            transform: rotate(0);
+    -webkit-transform-origin: 100% 100%;
+            transform-origin: 100% 100%;
+    opacity: 1;
+}
+99% {
+    -webkit-transform: rotate(35deg);
+            transform: rotate(35deg);
+    -webkit-transform-origin: 100% 100%;
+            transform-origin: 100% 100%;
+    opacity: 0;
+}
+100% {
+    -webkit-transform: rotate(0);
+            transform: rotate(0);
+    -webkit-transform-origin: 100% 100%;
+            transform-origin: 100% 100%;
+    opacity: 0;
+}
+}
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/questionnaire/questionnaire.vue?vue&type=style&index=0&id=2cb3729e&lang=scss&module=true ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes questionnaire__slide-bottom___rtIas {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes questionnaire__slide-bottom___rtIas {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.questionnaire__container___DKOvG .questionnaire__main___ElAK0 {
+  width: 100%;
+  height: 100%;
+  padding: 96rpx 0 80rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.questionnaire__container___DKOvG .questionnaire__main_content___UQvgB {
+  width: 100%;
+  height: 1112rpx;
+  padding: 0 24rpx;
+  margin-bottom: 80rpx;
+}
+.questionnaire__container___DKOvG .questionnaire__footer___LzKW6 {
+  text-align: center;
+}
+.questionnaire__container___DKOvG .questionnaire__footer___LzKW6 .questionnaire__btn___nsu4k {
+  width: 686rpx;
+  height: 80rpx;
+  color: #a5a5a5;
+  border-radius: 40rpx;
+  border: 2rpx solid #a5a5a5;
+  background: transparent;
+}
+.questionnaire__container___DKOvG .questionnaire__footer___LzKW6 .questionnaire__btn-submit___GyIlT {
+  color: White;
+  border: 2rpx solid #333333;
+  background: #333333;
+}

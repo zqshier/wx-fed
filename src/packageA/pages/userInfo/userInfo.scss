@@ -1,0 +1,80 @@
+.layout {
+  .main {
+    width: 343px;
+    margin: 16px auto 83px;
+    .avatar_box {
+      width: 100%;
+      padding: 56px 0 24px;
+      .avatar {
+        position: relative;
+        width: 72px;
+        height: 72px;
+        border: 1px solid $Divide;
+        border-radius: 72px;
+        overflow: hidden;
+        &_img {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 72px;
+          height: 72px;
+          box-sizing: border-box;
+        }
+      }
+    }
+    .main_item {
+      width: 343px;
+      height: 56px;
+      border-bottom: 0.5px solid $Divide;
+      .info_label {
+        width: 80px;
+        color: $Primary;
+      }
+      .info_input {
+        max-width: 263px;
+        height: 28px;
+        min-height: 28px;
+        color: $Primary;
+        font-size: 14px;
+      }
+      .icon_right {
+        width: 20px;
+        height: 20px;
+      }
+      .info_textarea {
+        max-width: 263px;
+        height: 44px;
+        min-height: 44px;
+        color: $Primary;
+        font-size: 14px;
+      }
+      &_max {
+        height: 76px;
+        padding: 16px 0;
+      }
+    }
+  }
+  .btn {
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 375px;
+    height: 83px;
+    padding: 10px 15px 0;
+    .submit {
+      width: 345px;
+      height: 45px;
+      line-height: 45px;
+    }
+  }
+  .btn_phone{
+    height: 35px;
+    border-radius: 10px;
+    font-size: 12px;
+    padding: 0 12px;
+  }
+  .notice_title {
+    text-align: center;
+  }
+}

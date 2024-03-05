@@ -1,0 +1,106 @@
+@charset "UTF-8";@import "../../sub-vendors.wxss";/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/memberRights/memberRights.vue?vue&type=style&index=0&id=bcaccb6e&lang=scss&module=true ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/** 弃用，后期删除 **/
+@-webkit-keyframes memberRights__slide-bottom___EERr5 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes memberRights__slide-bottom___EERr5 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.memberRights__layout___QBTXu {
+  width: 750rpx;
+  overflow: hidden;
+}
+.memberRights__layout___QBTXu .memberRights__header___Hn72S {
+  margin-bottom: -64rpx;
+}
+.memberRights__layout___QBTXu .memberRights__header___Hn72S .memberRights__swiper_box___z7lzx {
+  width: 954rpx;
+  height: 594rpx;
+}
+.memberRights__layout___QBTXu .memberRights__header___Hn72S .memberRights__swiper_box___z7lzx .memberRights__swiper_item___m7pzs {
+  overflow: initial;
+}
+.memberRights__layout___QBTXu .memberRights__header___Hn72S .memberRights__swiper_box___z7lzx .memberRights__image___X7Y8l {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+.memberRights__layout___QBTXu .memberRights__main___P1MVt {
+  width: 750rpx;
+  border-radius: 64rpx 64rpx 0 0;
+  background: rgba(165, 165, 165, 0.08);
+  -webkit-box-shadow: -32rpx 32rpx 32rpx 0 rgba(255, 255, 255, 0.08) inset 32rpx -32rpx 32rpx 0 rgba(165, 165, 165, 0.08) inset;
+          box-shadow: -32rpx 32rpx 32rpx 0 rgba(255, 255, 255, 0.08) inset 32rpx -32rpx 32rpx 0 rgba(165, 165, 165, 0.08) inset;
+  -webkit-backdrop-filter: blur(15.4rpx);
+          backdrop-filter: blur(15.4rpx);
+}
+.memberRights__layout___QBTXu .memberRights__main_top___5BGGf .memberRights__top_item___r4EUy {
+  width: 654rpx;
+  padding-top: 64rpx;
+  padding-bottom: 48rpx;
+  margin: 0 auto;
+  border-bottom: 1rpx solid #d9d9d9;
+}
+.memberRights__layout___QBTXu .memberRights__main_top___5BGGf .memberRights__top_item___r4EUy .memberRights__title___YD8sD {
+  margin-bottom: 48rpx;
+}
+.memberRights__layout___QBTXu .memberRights__main_top___5BGGf .memberRights__top_item___r4EUy .memberRights__info___uXnkZ {
+  width: 100%;
+  margin-bottom: -16rpx;
+}
+.memberRights__layout___QBTXu .memberRights__main_top___5BGGf .memberRights__top_item___r4EUy .memberRights__info_item___kV62A {
+  min-width: 218rpx;
+  margin-bottom: 48rpx;
+}
+.memberRights__layout___QBTXu .memberRights__main_top___5BGGf .memberRights__top_item___r4EUy .memberRights__info_item___kV62A .memberRights__icon___Icr8I {
+  width: 48rpx;
+  height: 48rpx;
+  margin-bottom: 8rpx;
+}
+.memberRights__layout___QBTXu .memberRights__main_item___T0LYg {
+  width: 654rpx;
+  padding-top: 48rpx;
+  padding-bottom: 16rpx;
+  margin: 0 auto;
+  border-bottom: 1rpx solid #d9d9d9;
+}
+.memberRights__layout___QBTXu .memberRights__main_item___T0LYg .memberRights__title___YD8sD {
+  width: 654rpx;
+  text-align: center;
+  line-height: 48rpx;
+  margin-bottom: 32rpx;
+}
+.memberRights__layout___QBTXu .memberRights__main_item___T0LYg .memberRights__main_list___PYWFq {
+  line-height: 36rpx;
+  margin-bottom: 32rpx;
+}
+.memberRights__layout___QBTXu .memberRights__main_item___T0LYg .memberRights__main_list___PYWFq .memberRights__name___UmdWt {
+  line-height: 36rpx;
+  letter-spacing: 0.48rpx;
+  word-break: break-all;
+}
+.memberRights__layout___QBTXu .memberRights__main___P1MVt .memberRights__border_none___CpwdL {
+  border: none;
+}

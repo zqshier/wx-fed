@@ -1,0 +1,228 @@
+@charset "UTF-8";@import "../../sub-vendors.wxss";@import "../../sub-common/483f6e9b53e3f314843b861c8637927f.wxss";/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/secondClassify/components/classifyScroll/ClassifyScroll.vue?vue&type=style&index=0&id=06652f72&lang=scss&module=true ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/** 弃用，后期删除 **/
+@-webkit-keyframes ClassifyScroll__slide-bottom___yUqNA {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes ClassifyScroll__slide-bottom___yUqNA {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.ClassifyScroll__box___PNbs4 {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 750rpx;
+  padding: 48rpx 32rpx 0rpx 32rpx;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-align-items: flex-start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  gap: 16rpx;
+}
+.ClassifyScroll__box___PNbs4 .ClassifyScroll__content-scroll___zENUw {
+  width: 686rpx;
+  padding-bottom: 16rpx;
+  border-bottom: 1rpx solid #dddddd;
+  white-space: nowrap;
+}
+.ClassifyScroll__box___PNbs4 .ClassifyScroll__content-scroll___zENUw .ClassifyScroll__scroll-warp___KQyvZ {
+  width: 100%;
+  height: 32rpx;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+.ClassifyScroll__box___PNbs4 .ClassifyScroll__content-scroll___zENUw .ClassifyScroll__scroll-item___QSI5d {
+  height: 36rpx;
+  line-height: 36rpx;
+  text-align: center;
+}
+.ClassifyScroll__box___PNbs4 .ClassifyScroll__content-scroll___zENUw .ClassifyScroll__scroll-item___QSI5d .ClassifyScroll__item_name___kmJvO {
+  color: #a5a5a5;
+  width: 172rpx;
+  display: block;
+  font-family: "FZLanTingHei-R-GBK";
+}
+.ClassifyScroll__box___PNbs4 .ClassifyScroll__content-scroll___zENUw .ClassifyScroll__scroll-item___QSI5d .ClassifyScroll__item_name-selected___sSq3b {
+  font-weight: 600;
+  color: #333333;
+}
+.ClassifyScroll__box___PNbs4 .ClassifyScroll__content-scroll___zENUw .ClassifyScroll__scroll-item___QSI5d .ClassifyScroll__item_active___cOymr {
+  margin-top: 20rpx;
+  width: 100%;
+  height: 4rpx;
+  background: #333333;
+  opacity: 0;
+}
+.ClassifyScroll__box___PNbs4 .ClassifyScroll__content-scroll___zENUw .ClassifyScroll__scroll-item___QSI5d .ClassifyScroll__item_active-selected___sZdyq {
+  opacity: 1;
+}
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-8.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-8.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-8.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/secondClassify/secondClassify.vue?vue&type=style&index=0&id=893c7a2e&lang=scss ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes slide-bottom {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes slide-bottom {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.secondClassify_tabs .nut-tabs__titles {
+  background-color: var(--nut-white, #fff);
+  border-bottom: 1rpx solid #d9d9d9;
+}
+.secondClassify_tabs .nut-tabs__titles-item {
+  color: #a5a5a5;
+  padding: 48rpx 0 16rpx;
+  min-width: 172rpx;
+}
+.secondClassify_tabs .nut-tabs__titles-item.active {
+  color: #333333;
+}
+.secondClassify_tabs .nut-tabs__titles-item.active .nut-tabs__titles-item__line {
+  width: 0;
+  height: 0;
+}
+.secondClassify_tabs .nut-tabs__titles-item .nut-tabs__titles-item__text {
+  font-size: 24rpx;
+  z-index: 1;
+}
+.secondClassify_tabs .nut-tabs__content .nut-tab-pane {
+  padding: 0;
+}
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/@tarojs/webpack5-runner/node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/resolve-url-loader/index.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[4]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/packageA/pages/secondClassify/secondClassify.vue?vue&type=style&index=1&id=893c7a2e&lang=scss&module=true ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/** 弃用，后期删除 **/
+@-webkit-keyframes secondClassify__slide-bottom___AXpm9 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+@keyframes secondClassify__slide-bottom___AXpm9 {
+0% {
+    opacity: 0;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+}
+.secondClassify__main___FOz9c {
+  margin-top: 20rpx;
+  width: 100%;
+  max-height: 100%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  height: 1300rpx;
+}
+.secondClassify__main___FOz9c .secondClassify__sort-wrap___IZ4N4 {
+  padding: 0 32rpx;
+}
+.secondClassify__main___FOz9c .secondClassify__sort-search___eZLIK {
+  margin-top: 16rpx;
+  width: 48rpx;
+  height: 48rpx;
+}
+.secondClassify__container___tyHxA {
+  background: #fff;
+  height: 100vh;
+}
+.secondClassify__productList___ccxbV {
+  margin-top: 16rpx;
+  -webkit-align-items: baseline;
+      -ms-flex-align: baseline;
+          align-items: baseline;
+}
+.secondClassify__swiper_box___Sck6N {
+  height: 1240rpx;
+  max-height: 100%;
+}
+.secondClassify__swiper_box___Sck6N .secondClassify__swiper_item___zq_Z4 {
+  height: 100%;
+}
+.secondClassify__swiper_box___Sck6N .secondClassify__swiper_item-wrap___Niyzd {
+  height: 100vh;
+}
+.secondClassify__loading___H_oyY {
+  width: 100%;
+  height: 100%;
+}
+.secondClassify__no-data___L1v9s {
+  margin-top: 340rpx;
+}
+.secondClassify__no-data_icon___v4jcS {
+  width: 96rpx;
+  height: 96rpx;
+}
+.secondClassify__no-data_title___GG21H {
+  font-family: "FZLanTingHei-R-GBK";
+  margin: 48rpx 0;
+}
+.secondClassify__no-data_btn___duhge {
+  width: 180rpx;
+  height: 80rpx;
+  border-radius: 40rpx;
+  border: 2rpx solid var(--tertiary, #a5a5a5);
+}
+.secondClassify__tasb___ap93Q {
+  padding: 0 32rpx;
+  position: relative;
+}
+::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  color: transparent;
+}

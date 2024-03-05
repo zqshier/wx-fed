@@ -1,0 +1,43 @@
+.itemBox {
+  padding: 22px 17px;
+  margin-top: 14px;
+  box-sizing: border-box;
+  width: 345px;
+  height: 111px;
+  background: $white;
+  border-radius: 8px;
+  .image {
+    width: 67px;
+    height: 67px;
+    background: $Primary;
+    border-radius: 8px;
+  }
+  &_content {
+    margin: 0 7px 0 10px;
+    .content-type {
+      margin-bottom: 12px;
+      font-size: 30rpx;
+      color: $Primary;
+    }
+    .content-time {
+      color: $Tertiary;
+    }
+  }
+  &_btn {
+    width: 71px;
+    height: 26px;
+    background: $primary-color;
+    border-radius: 26px;
+    color: $white;
+  }
+  &_btn-unfilled {
+    color: #0b4730;
+    border: 1px solid #0b4730;
+    background: #ffffff;
+  }
+  &_btn-expire {
+    color: #fff;
+    background: #989898;
+    border: 1px solid #989898;
+  }
+}
